@@ -1,0 +1,3027 @@
+{
+  "items": [
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "SonataAdminBundle",
+          "description": "AdminBundle - The missing Symfony2 Admin Generator",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2026-06-04T03:13:59Z",
+            "owner": "sonata-project",
+            "repo": "SonataAdminBundle",
+            "stars": 2127
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "AdmingeneratorGeneratorBundle",
+          "description": "Admingenerator for Symfony2, parse generator.yml files to build classes",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2016-05-16T11:52:29Z",
+            "owner": "symfony2admingenerator",
+            "repo": "AdmingeneratorGeneratorBundle",
+            "stars": 359
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "AdminLTEBundle",
+          "description": "Admin theme based on the AdminLTE Template",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "PHP",
+            "last_commit": "2023-12-07T12:17:23Z",
+            "owner": "kevinpapst",
+            "repo": "AdminLTEBundle",
+            "stars": 211
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Umbrella framework",
+          "description": "Admin components and theme to create administration backends.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2025-03-30T16:06:00Z",
+            "owner": "acantepie",
+            "repo": "umbrella-admin-bundle",
+            "stars": 146
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "TablerBundle",
+          "description": "Admin theme based on the Tabler Template. It ships with many twig helpers (functions, filter, embeds, macros and includes).",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Twig",
+            "last_commit": "2026-08-10T14:29:49Z",
+            "owner": "kevinpapst",
+            "repo": "TablerBundle",
+            "stars": 133
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "EasyAdminBundle",
+          "description": "Simple admin generator for Symfony applications",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2026-08-10T17:55:27Z",
+            "owner": "javiereguiluz",
+            "repo": "EasyAdminBundle",
+            "stars": 22
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "AdminCrudBundle",
+          "description": "AdminCrudBundle - Use SensioGeneratorBundle. Extend controller, add paginator, filter, others.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "HTML",
+            "last_commit": "2019-04-26T23:46:51Z",
+            "owner": "MWSimple",
+            "repo": "AdminCrudBundle",
+            "stars": 20
+          }
+        }
+      ],
+      "title": "Administration"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Symfony certification preparation list",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2024-04-27T19:25:49Z",
+            "owner": "ThomasBerends",
+            "repo": "symfony-certification-preparation-list",
+            "stars": 693
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "CLI tool to train certifications",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2022-10-01T22:00:54Z",
+            "owner": "certificationy",
+            "repo": "certificationy-cli",
+            "stars": 434
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Symfony 3 certification guide",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2018-01-24T12:14:16Z",
+            "owner": "raulconti",
+            "repo": "symfony-3-certification-guide",
+            "stars": 140
+          }
+        }
+      ],
+      "title": "Certification"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "LiipFunctionalTestBundle",
+          "description": "Some helper classes for writing functional tests in Symfony 2.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2026-06-29T19:31:59Z",
+            "owner": "liip",
+            "repo": "LiipFunctionalTestBundle",
+            "stars": 649
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "LadybugBundle",
+          "description": "The Simple and Extensible PHP Dumper.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2018-01-08T11:01:00Z",
+            "owner": "raulfraile",
+            "repo": "LadybugBundle",
+            "stars": 325
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "WebProfilerExtraBundle",
+          "description": "Adding routing, container, assetic & twig information in the web profiler.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "HTML",
+            "last_commit": "2019-12-26T18:52:31Z",
+            "owner": "Elao",
+            "repo": "WebProfilerExtraBundle",
+            "stars": 261
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "DunglasActionBundle",
+          "description": "A replacement for the Symfony controller system based on the Action-Domain-Responder pattern.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "PHP",
+            "last_commit": "2017-07-07T22:31:27Z",
+            "owner": "dunglas",
+            "repo": "DunglasActionBundle",
+            "stars": 256
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "XhprofBundle",
+          "description": "XHProf bundle.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "PHP",
+            "last_commit": "2016-07-03T16:56:59Z",
+            "owner": "jonaswouters",
+            "repo": "XhprofBundle",
+            "stars": 208
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "PsyshBundle",
+          "description": "Provides an enhanced PHP interactive shell loaded with a Symfony context.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "PHP",
+            "last_commit": "2024-02-26T11:14:26Z",
+            "owner": "theofidry",
+            "repo": "PsyshBundle",
+            "stars": 207
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "StatsDClientBundle",
+          "description": "Easily monitor your symfony2 production env., with ready-to-use stats.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2021-08-03T06:50:26Z",
+            "owner": "liuggio",
+            "repo": "StatsDClientBundle",
+            "stars": 164
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ControllerExtraBundle",
+          "description": "Set of useful Controller annotations.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2018-01-05T16:39:54Z",
+            "owner": "mmoreram",
+            "repo": "ControllerExtraBundle",
+            "stars": 151
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ApiExceptionBundle",
+          "description": "Exception API Bundle.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "PHP",
+            "last_commit": "2019-02-11T09:29:35Z",
+            "owner": "BedrockStreaming",
+            "repo": "ApiExceptionBundle",
+            "stars": 65
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "WebfactoryExceptionsBundle",
+          "description": "Easily develop custom, user-friendly error pages.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Twig",
+            "last_commit": "2024-04-02T12:43:30Z",
+            "owner": "webfactory",
+            "repo": "exceptions-bundle",
+            "stars": 62
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ListenersDebugCommandBundle",
+          "description": "A console command to debug listeners.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2017-04-18T03:46:29Z",
+            "owner": "egulias",
+            "repo": "ListenersDebugCommandBundle",
+            "stars": 56
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "PUGXGeneratorBundle",
+          "description": "An enhancement of SensioGeneratorBundle.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "HTML",
+            "last_commit": "2019-08-07T08:53:19Z",
+            "owner": "PUGX",
+            "repo": "PUGXGeneratorBundle",
+            "stars": 56
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "PhpMetricsCollectorBundle",
+          "description": "Integrates PhpMetrics in Symfony2 debug toolbar.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "HTML",
+            "last_commit": "2020-03-28T19:17:27Z",
+            "owner": "phpmetrics",
+            "repo": "PhpMetricsCollectorBundle",
+            "stars": 51
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "http-bundle",
+          "description": "Provides extra HTTP related functionality.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "PHP",
+            "last_commit": "2021-12-07T20:48:19Z",
+            "owner": "linaori",
+            "repo": "http-bundle",
+            "stars": 39
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "LiipCodeBundle",
+          "description": "A set of Symfony2 console commands to help developers deal with the various ways of identifying classes, templates, bundles, services, etc.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "PHP",
+            "last_commit": "2017-12-05T09:25:56Z",
+            "owner": "liip",
+            "repo": "LiipCodeBundle",
+            "stars": 25
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "CacheAdministrationBundle",
+          "description": "This bundle includes a controller with actions to clear the various caches.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2017-01-07T08:34:47Z",
+            "owner": "yamiko-ninja",
+            "repo": "CacheAdministrationBundle",
+            "stars": 18
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "SandboxBundle",
+          "description": "Overriding controller logic & response in a Sandbox environment.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2018-07-14T20:36:00Z",
+            "owner": "danrevah",
+            "repo": "sandbox-bundle",
+            "stars": 18
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "BeelabTestBundle",
+          "description": "This bundle contains just an opinionated extension of Symfony WebTestCase.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2026-05-17T11:30:36Z",
+            "owner": "Bee-Lab",
+            "repo": "BeelabTestBundle",
+            "stars": 17
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ParamConverterBundle",
+          "description": "This bundle provides additional param converters for Symfony.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "PHP",
+            "last_commit": "2017-05-23T16:14:51Z",
+            "owner": "jakzal",
+            "repo": "ParamConverterBundle",
+            "stars": 16
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "AccessibleBundle",
+          "description": "Define your class' getters, setters and constructor using powerful annotations.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2017-05-17T12:22:06Z",
+            "owner": "antarestupin",
+            "repo": "AccessibleBundle",
+            "stars": 15
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "TwigReflectionBundle",
+          "description": "Displays what's in Twig.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2013-01-19T12:50:30Z",
+            "owner": "arnaud-lb",
+            "repo": "TwigReflectionBundle",
+            "stars": 15
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "TagDebugCommandBundle",
+          "description": "Integrate TagDebug library for inspecting and debugging tags.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2014-08-28T07:53:27Z",
+            "owner": "egulias",
+            "repo": "TagDebugCommandBundle",
+            "stars": 8
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "redaktilo-bundle",
+          "description": "Integrates Redaktilo into Symfony 2.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2015-12-01T17:48:45Z",
+            "owner": "gnugat",
+            "repo": "redaktilo-bundle",
+            "stars": 6
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "AvAjaxBundle",
+          "description": "This bundle offers a simple structure to run ajax actions.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "JavaScript",
+            "last_commit": "2016-09-23T14:08:27Z",
+            "owner": "AppVentus",
+            "repo": "AvAjaxBundle",
+            "stars": 1
+          }
+        }
+      ],
+      "title": "Development"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "API Platform framework",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2026-08-01T15:52:36Z",
+            "owner": "api-platform",
+            "repo": "api-platform",
+            "stars": 9175
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Symfony Standard Edition",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "PHP",
+            "last_commit": "2020-11-27T08:48:20Z",
+            "owner": "symfony",
+            "repo": "symfony-standard",
+            "stars": 1476
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Symfony CMF Standard Edition",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "PHP",
+            "last_commit": "2021-09-16T14:33:32Z",
+            "owner": "symfony-cmf",
+            "repo": "standard-edition",
+            "stars": 116
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Kunstmaan Bundles Standard Edition",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "PHP",
+            "last_commit": "2021-12-10T08:24:18Z",
+            "owner": "Kunstmaan",
+            "repo": "KunstmaanBundlesStandardEdition",
+            "stars": 90
+          }
+        }
+      ],
+      "title": "Distributions"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Sylius",
+          "description": "E-Commerce PHP framework built on top of Symfony with component-based architecture and format-agnostic rendering",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2026-08-13T02:54:27Z",
+            "owner": "Sylius",
+            "repo": "Sylius",
+            "stars": 8511
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Elcodi",
+          "description": "E-commerce PHP Components and Symfony Bundles",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "PHP",
+            "last_commit": "2016-08-05T13:38:39Z",
+            "owner": "elcodi",
+            "repo": "elcodi",
+            "stars": 421
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Bamboo",
+          "description": "Full-stack E-commerce application based on Symfony and Elcodi components",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "PHP",
+            "last_commit": "2016-07-23T00:02:33Z",
+            "owner": "elcodi",
+            "repo": "bamboo",
+            "stars": 197
+          }
+        }
+      ],
+      "title": "Ecommerce"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "CraueFormFlowBundle",
+          "description": "Multi-step forms.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2025-06-04T16:57:19Z",
+            "owner": "craue",
+            "repo": "CraueFormFlowBundle",
+            "stars": 749
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "LexikFormFilterBundle",
+          "description": "Lexik Form Filter bundle.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "PHP",
+            "last_commit": "2024-08-01T13:31:08Z",
+            "owner": "lexik",
+            "repo": "LexikFormFilterBundle",
+            "stars": 388
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "IvoryCKEditorBundle",
+          "description": "CKEditor integration in Symfony.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2019-03-06T16:51:53Z",
+            "owner": "egeloen",
+            "repo": "IvoryCKEditorBundle",
+            "stars": 333
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "KarserRecaptcha3Bundle",
+          "description": "Integrates Google ReCAPTCHA v3 into Symfony.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2025-12-08T11:52:58Z",
+            "owner": "karser",
+            "repo": "KarserRecaptcha3Bundle",
+            "stars": 187
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "InfiniteFormBundle",
+          "description": "A collection of useful form types and extensions.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2025-12-12T02:34:27Z",
+            "owner": "infinite-networks",
+            "repo": "InfiniteFormBundle",
+            "stars": 169
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "IvoryOrderedFormBundle",
+          "description": "Provides a form ordering support.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2018-02-14T16:16:11Z",
+            "owner": "egeloen",
+            "repo": "IvoryOrderedFormBundle",
+            "stars": 48
+          }
+        }
+      ],
+      "title": "Forms"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "BazingaJsTranslationBundle",
+          "description": "A pretty nice way to expose your Symfony2 translation messages to your client applications.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2026-03-06T16:39:58Z",
+            "owner": "willdurand",
+            "repo": "BazingaJsTranslationBundle",
+            "stars": 584
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "LexikTranslationBundle",
+          "description": "Allows to import translation files content into the database and provide a GUI to edit translations.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2026-07-07T22:23:51Z",
+            "owner": "lexik",
+            "repo": "LexikTranslationBundle",
+            "stars": 438
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "TranslationFormBundle",
+          "description": "Translation field to facilitate the use of the Translatable Doctrine extension.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2026-04-15T10:42:56Z",
+            "owner": "a2lix",
+            "repo": "TranslationFormBundle",
+            "stars": 337
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "LuneticsLocaleBundle",
+          "description": "Guess the visitor’s locale from different parameters.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2024-05-31T09:58:32Z",
+            "owner": "lunetics-org",
+            "repo": "LocaleBundle",
+            "stars": 186
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "TimezoneBundle",
+          "description": "Serverside Timezone detection.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2026-07-31T21:59:23Z",
+            "owner": "lunetics",
+            "repo": "TimezoneBundle",
+            "stars": 26
+          }
+        }
+      ],
+      "title": "Internationalization"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "LiipImagineBundle",
+          "description": "Image manipulation bundle, based on Imagine library.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2026-08-05T13:21:10Z",
+            "owner": "liip",
+            "repo": "LiipImagineBundle",
+            "stars": 1711
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "KnpSnappyBundle",
+          "description": "Easily create PDF and images by converting html using webkit.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2026-01-07T10:30:46Z",
+            "owner": "KnpLabs",
+            "repo": "KnpSnappyBundle",
+            "stars": 1247
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "OneupUploaderBundle",
+          "description": "Provides server implementations for several multi file uploader.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2026-02-17T09:07:53Z",
+            "owner": "1up-lab",
+            "repo": "OneupUploaderBundle",
+            "stars": 605
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "APYDataGridBundle",
+          "description": "Datagrid Bundle.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2026-06-19T08:30:04Z",
+            "owner": "APY",
+            "repo": "APYDataGridBundle",
+            "stars": 492
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "phone-number-bundle",
+          "description": "Integrates libphonenumber.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2023-12-06T16:00:36Z",
+            "owner": "misd-service-development",
+            "repo": "phone-number-bundle",
+            "stars": 454
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "EightPointsGuzzleBundle",
+          "description": "Integrates Guzzle 6.x, a PHP HTTP Client, into Symfony 2-4 and provides plugins to extend basic functionality.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2026-08-13T08:33:23Z",
+            "owner": "8p",
+            "repo": "EightPointsGuzzleBundle",
+            "stars": 445
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "KnpMarkdownBundle",
+          "description": "Wrapper for PHP markdown.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "PHP",
+            "last_commit": "2022-02-01T17:07:08Z",
+            "owner": "KnpLabs",
+            "repo": "KnpMarkdownBundle",
+            "stars": 412
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "bootstrap-bundle",
+          "description": "Integrates Bootstrap into Symfony2 by providing templates, Twig extensions, services and commands.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2020-09-23T20:28:10Z",
+            "owner": "braincrafted",
+            "repo": "bootstrap-bundle",
+            "stars": 392
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "MobileDetectBundle",
+          "description": "Bundle for detect mobile devices, manage mobile view and redirect to the mobile and tablet version.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2023-07-01T13:39:18Z",
+            "owner": "suncat2000",
+            "repo": "MobileDetectBundle",
+            "stars": 392
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ExcelBundle",
+          "description": "Excel integration in Symfony2 thanks to https://github.com/PHPOffice/PHPExcel library.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2022-11-25T23:50:31Z",
+            "owner": "liuggio",
+            "repo": "ExcelBundle",
+            "stars": 370
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "BazingaGeocoderBundle",
+          "description": "Integration of the Geocoder library.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2026-02-17T05:57:41Z",
+            "owner": "geocoder-php",
+            "repo": "BazingaGeocoderBundle",
+            "stars": 323
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "metrics",
+          "description": "Simple library that abstracts different metrics collectors.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2026-01-13T13:28:01Z",
+            "owner": "beberlei",
+            "repo": "metrics",
+            "stars": 322
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "FMElfinderBundle",
+          "description": "Provides Elfinder filebrowser integration with popular WYSIWYG editors.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2026-08-11T03:49:48Z",
+            "owner": "helios-ag",
+            "repo": "FMElfinderBundle",
+            "stars": 280
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "BazingaFakerBundle",
+          "description": "Put the awesome Faker library into the Symfony2 DIC and populate your database with fake data.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2021-06-18T08:17:04Z",
+            "owner": "willdurand",
+            "repo": "BazingaFakerBundle",
+            "stars": 276
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "LexikMaintenanceBundle",
+          "description": "This Symfony2 bundle allows you to place your website in maintenance mode by calling two commands in your console.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "PHP",
+            "last_commit": "2022-03-09T12:58:12Z",
+            "owner": "lexik",
+            "repo": "LexikMaintenanceBundle",
+            "stars": 255
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "CsaGuzzleBundle",
+          "description": "Bundle integrating Guzzle >=4.0 in Symfony.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "PHP",
+            "last_commit": "2021-07-01T09:21:14Z",
+            "owner": "csarrazi",
+            "repo": "CsaGuzzleBundle",
+            "stars": 250
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "BabDevPagerfantaBundle",
+          "description": "Bundle to use Pagerfanta.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2026-01-05T13:13:27Z",
+            "owner": "BabDev",
+            "repo": "PagerfantaBundle",
+            "stars": 210
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "CloudBackupBundle",
+          "description": "Be able to backup your database(s) and upload it to the cloud.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "PHP",
+            "last_commit": "2018-11-30T19:47:19Z",
+            "owner": "dizda",
+            "repo": "CloudBackupBundle",
+            "stars": 196
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "TbbcMoneyBundle",
+          "description": "This bundle is used to integrate the Money library from mathiasverraes into a symfony2 project.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2026-05-04T12:54:20Z",
+            "owner": "TheBigBrainsCompany",
+            "repo": "TbbcMoneyBundle",
+            "stars": 196
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "timeline-bundle",
+          "description": "Symfony2 bundle to make timeline.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2025-07-24T22:12:06Z",
+            "owner": "stephpy",
+            "repo": "timeline-bundle",
+            "stars": 191
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ObHighchartsBundle",
+          "description": "Aims to ease the use of highcharts to display rich graph and charts.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "PHP",
+            "last_commit": "2024-05-28T18:11:44Z",
+            "owner": "marcaube",
+            "repo": "ObHighchartsBundle",
+            "stars": 163
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ConsoleBundle",
+          "description": "Commandline interface in browser.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2022-07-28T13:15:28Z",
+            "owner": "CoreSphere",
+            "repo": "ConsoleBundle",
+            "stars": 140
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "rss-atom-bundle",
+          "description": "RSS and Atom Bundle.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2024-01-30T13:37:49Z",
+            "owner": "alexdebril",
+            "repo": "rss-atom-bundle",
+            "stars": 138
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "SettingsBundle",
+          "description": "Database centric configuration management. Global and per-user settings supported.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2023-05-12T19:49:34Z",
+            "owner": "rvanlaak",
+            "repo": "SettingsBundle",
+            "stars": 114
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "versioning-bundle",
+          "description": "Simple way to version (semantic versioning 2.0.0).",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2026-03-30T16:06:39Z",
+            "owner": "shivas",
+            "repo": "versioning-bundle",
+            "stars": 110
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "guzzle-bundle",
+          "description": "Integrates Guzzle.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2018-09-19T08:24:59Z",
+            "owner": "misd-service-development",
+            "repo": "guzzle-bundle",
+            "stars": 100
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ThruwayBundle",
+          "description": "Bundle for building Real-time Apps in Symfony.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2022-09-20T15:57:33Z",
+            "owner": "voryx",
+            "repo": "ThruwayBundle",
+            "stars": 98
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "APYBreadcrumbTrailBundle",
+          "description": "This bundle provides annotations and PHP methods to generate a breacrumb trail.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2026-03-06T14:42:21Z",
+            "owner": "APY",
+            "repo": "APYBreadcrumbTrailBundle",
+            "stars": 84
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "KitpagesDataGridBundle",
+          "description": "This bundle provides a simple datagrid bundle.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2022-05-13T09:45:45Z",
+            "owner": "kitpages",
+            "repo": "KitpagesDataGridBundle",
+            "stars": 77
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "BreadcrumbsBundle",
+          "description": "A small breadcrumbs bundle.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "PHP",
+            "last_commit": "2026-01-31T12:31:52Z",
+            "owner": "mhujer",
+            "repo": "BreadcrumbsBundle",
+            "stars": 70
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "FlorianvSwapBundle",
+          "description": "This Bundle integrates the Swap library.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2026-06-17T11:08:29Z",
+            "owner": "florianv",
+            "repo": "symfony-swap",
+            "stars": 63
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ffmpeg-bundle",
+          "description": "This bundle provides a simple wrapper for the PHP_FFmpeg library, exposing the library as a Symfony service.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2019-12-06T09:08:28Z",
+            "owner": "pulse00",
+            "repo": "ffmpeg-bundle",
+            "stars": 57
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "FMBbCodeBundle",
+          "description": "Adds BBCode support to Symfony project.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2025-08-10T03:37:16Z",
+            "owner": "helios-ag",
+            "repo": "FMBbCodeBundle",
+            "stars": 56
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "LiipUrlAutoConverterBundle",
+          "description": "Add a Twig Extension for templates with a new filter for automatically converting urls and emails in a string to html links.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "PHP",
+            "last_commit": "2017-12-05T09:38:32Z",
+            "owner": "liip",
+            "repo": "LiipUrlAutoConverterBundle",
+            "stars": 49
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Search-SphinxsearchBundle",
+          "description": "Sphinx search bundle.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2016-10-18T15:31:57Z",
+            "owner": "timewasted",
+            "repo": "Search-SphinxsearchBundle",
+            "stars": 40
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "FeatureToggleBundle",
+          "description": "Configure your feature toggling in Symfony2 by adding some simple tags to twig and extending it's configuration.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2013-03-26T14:37:50Z",
+            "owner": "marekkalnik",
+            "repo": "FeatureToggleBundle",
+            "stars": 37
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "TbbcCacheBundle",
+          "description": "Cache abstraction bundle.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2016-04-04T11:22:06Z",
+            "owner": "TheBigBrainsCompany",
+            "repo": "TbbcCacheBundle",
+            "stars": 36
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "BlogBundle",
+          "description": "Simple blog module.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2019-07-18T11:29:31Z",
+            "owner": "stfalcon",
+            "repo": "BlogBundle",
+            "stars": 33
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "SphinxsearchBundle",
+          "description": "Provide to use Sphinx search.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2018-08-02T22:31:59Z",
+            "owner": "IAkumaI",
+            "repo": "SphinxsearchBundle",
+            "stars": 27
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "CheckBundles",
+          "description": "Checks installed but not activated in AppKernel bundles.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "PHP",
+            "last_commit": "2021-05-12T08:15:02Z",
+            "owner": "wjzijderveld",
+            "repo": "CheckBundles",
+            "stars": 25
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "godfather",
+          "description": "A library for the strategy pattern in PHP.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2014-03-11T16:29:14Z",
+            "owner": "PUGX",
+            "repo": "godfather",
+            "stars": 25
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "BGBarcodeBundle",
+          "description": "Bundle for barcode rendering using our barcode generator base library.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2024-01-05T09:22:17Z",
+            "owner": "paterik",
+            "repo": "BGBarcodeBundle",
+            "stars": 24
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "GnugatWizardBundle",
+          "description": "Magically shrinks bundle installation steps into a single command.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2015-09-15T12:09:31Z",
+            "owner": "gnugat-legacy",
+            "repo": "GnugatWizardBundle",
+            "stars": 22
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "CacheToolBundle",
+          "description": "Bundle to integrate cachetool library in Symfony2 (Clear acp/opcache from the command line).",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "PHP",
+            "last_commit": "2016-03-28T17:09:24Z",
+            "owner": "gordalina",
+            "repo": "CacheToolBundle",
+            "stars": 18
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "StringGeneratorBundle",
+          "description": "This bundle allows you to automatically generate a unique random string on an entity property, useful for creating keys.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2021-02-17T14:47:52Z",
+            "owner": "vivait",
+            "repo": "StringGeneratorBundle",
+            "stars": 17
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "MultiParamBundle",
+          "description": "MultiParam Annotation Bundle.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "PHP",
+            "last_commit": "2012-08-01T16:17:38Z",
+            "owner": "jaytaph",
+            "repo": "MultiParamBundle",
+            "stars": 16
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "VisithorBundle",
+          "description": "Symfony Bundle for PHP Package visithor.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2016-06-01T14:05:19Z",
+            "owner": "Visithor",
+            "repo": "VisithorBundle",
+            "stars": 16
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "CarbonBundle",
+          "description": "This bundle provides an opportunity to convert Request data into Carbon objects.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2018-11-30T21:16:55Z",
+            "owner": "lightsuner",
+            "repo": "CarbonBundle",
+            "stars": 15
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "BackupManagerBundle",
+          "description": "A simple database backup manager for Symfony2 with support for S3, Rackspace, Dropbox, FTP, SFTP.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "PHP",
+            "last_commit": "2019-07-30T12:35:46Z",
+            "owner": "lhpalacio",
+            "repo": "BackupManagerBundle",
+            "stars": 13
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "BrowscapBundle",
+          "description": "Bundle to access the browscap information.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "PHP",
+            "last_commit": "2018-02-27T14:57:30Z",
+            "owner": "browscap",
+            "repo": "BrowscapBundle",
+            "stars": 13
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ImageCropBundle",
+          "description": "ImageCrop lets you crop images in Symfony applications, this bundle add a new form field type.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2022-07-06T20:56:25Z",
+            "owner": "anacona16",
+            "repo": "ImageCropBundle",
+            "stars": 13
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "shorturl-bundle",
+          "description": "Provides short URLs for your project.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "PHP",
+            "last_commit": "2016-06-21T07:00:24Z",
+            "owner": "fabstei",
+            "repo": "shorturl-bundle",
+            "stars": 12
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "WidopFrameworkExtraBundle",
+          "description": "Adds annotation configuration for Controller classes.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2014-06-04T10:45:14Z",
+            "owner": "widop",
+            "repo": "WidopFrameworkExtraBundle",
+            "stars": 11
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "CsvBundle",
+          "description": "An integration for thephpleague/csv into Symfony.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2020-04-30T08:42:00Z",
+            "owner": "EGYG33K",
+            "repo": "CsvBundle",
+            "stars": 9
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "request-object-resolver-bundle",
+          "description": "Denormilize and validate incoming request in your DTO objects.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2023-12-23T22:31:32Z",
+            "owner": "mops1k",
+            "repo": "request-object-resolver-bundle",
+            "stars": 9
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "AnhTaggableBundle",
+          "description": "Bundle provides integration of doctrine-extensions-taggable, adds form types for editing tag and tagging.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2015-10-26T09:10:40Z",
+            "owner": "hilobok",
+            "repo": "AnhTaggableBundle",
+            "stars": 6
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "AvListBundle",
+          "description": "Easily make paginate and orderable list in Symfony2.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "PHP",
+            "last_commit": "2016-10-11T09:41:00Z",
+            "owner": "AppVentus",
+            "repo": "AvListBundle",
+            "stars": 6
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "BCCMyrrixBundle",
+          "description": "Myrrix is a recommendation engine built on Apache Mahout libraries.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2012-12-25T17:27:09Z",
+            "owner": "michelsalib",
+            "repo": "BCCMyrrixBundle",
+            "stars": 6
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "KayueEssenceBundle",
+          "description": "This bundle integrates the Essence library (an oEmbed library) into Symfony 2.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2013-10-14T23:44:50Z",
+            "owner": "kayue",
+            "repo": "KayueEssenceBundle",
+            "stars": 6
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "MhorMediaInfoBundle",
+          "description": "Integrates php-mediainfo library into the Symfony2 full-stack framework.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2017-01-09T21:40:00Z",
+            "owner": "mhor",
+            "repo": "MhorMediaInfoBundle",
+            "stars": 6
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "prezent-grid-bundle",
+          "description": "Integrate the prezent/grid library in Symfony2.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2026-03-26T10:12:55Z",
+            "owner": "Prezent",
+            "repo": "prezent-grid-bundle",
+            "stars": 6
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "sphinx-realtime-bundle",
+          "description": "A bundle which automatically syncs Doctrine entities to a Sphinx real-time index.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "PHP",
+            "last_commit": "2017-12-21T14:06:36Z",
+            "owner": "camdram",
+            "repo": "sphinx-realtime-bundle",
+            "stars": 5
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "WozbeRedirectBundle",
+          "description": "A short bundle to manage many domains.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2013-12-20T11:52:56Z",
+            "owner": "wozbe",
+            "repo": "WozbeRedirectBundle",
+            "stars": 5
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "AviaryBundle",
+          "description": "This bundle provides multiple file uploads, based on the BlueImp jQuery file uploader package. It provides also Aviary editing image functionnalities.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "HTML",
+            "last_commit": "2016-01-22T13:02:53Z",
+            "owner": "AppVentus",
+            "repo": "AviaryBundle",
+            "stars": 4
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "HTMLPurifierBundle",
+          "description": "HTML Purifier is a standards-compliant HTML filter library written in PHP.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2012-01-10T21:28:03Z",
+            "owner": "arnaud-lb",
+            "repo": "HTMLPurifierBundle",
+            "stars": 4
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "TransmissionBundle",
+          "description": "Bundle for Transmission API client.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2025-07-04T17:01:35Z",
+            "owner": "J3-Tech",
+            "repo": "TransmissionBundle",
+            "stars": 4
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "AntennaBundle",
+          "description": "Makes it easier to integrate Antenna (and through it JWT) authentication.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "PHP",
+            "last_commit": "2015-09-15T11:59:36Z",
+            "owner": "flint",
+            "repo": "AntennaBundle",
+            "stars": 3
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "highcharts-bundle",
+          "description": "Integrates PHP Highcharts.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2013-02-18T08:20:23Z",
+            "owner": "misd-service-development",
+            "repo": "highcharts-bundle",
+            "stars": 3
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "EmbedlyBundle",
+          "description": "Bundle for the embed.ly library.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2015-10-11T09:50:56Z",
+            "owner": "EmanueleMinotto",
+            "repo": "EmbedlyBundle",
+            "stars": 2
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "SimpleArrayBundle",
+          "description": "Symfony 2 bundle for simple tags management, based on doctrine 2 simple_array type.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2016-11-19T04:56:24Z",
+            "owner": "EmanueleMinotto",
+            "repo": "SimpleArrayBundle",
+            "stars": 2
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "query-bus-bundle",
+          "description": "QueryBus integration in Symfony.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2015-05-31T07:32:48Z",
+            "owner": "gnugat-legacy",
+            "repo": "query-bus-bundle",
+            "stars": 1
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "AvAlertifyBundle",
+          "description": "This bundle allows you to easily harmonize alerts and others notifications.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "CSS",
+            "last_commit": "2016-10-03T14:56:22Z",
+            "owner": "AppVentus",
+            "repo": "AvAlertifyBundle",
+            "stars": 0
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "DomainParserBundle",
+          "description": "Integration of Domain Parser into Symfony.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2016-02-05T03:08:10Z",
+            "owner": "EGYG33K",
+            "repo": "DomainParserBundle",
+            "stars": 0
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "IbrowsWizardAnnotationBundle",
+          "description": "Give's a Symfony2 controller a simple wizard/workflow with annotations.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2020-07-15T10:13:13Z",
+            "owner": "ibrows",
+            "repo": "IbrowsWizardAnnotationBundle",
+            "stars": 0
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "JMDUnoconvBundle",
+          "description": "Bundle which provides gate for converting files from one format to another via unoconv (LibreOffice) thru php-unoconv library.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "PHP",
+            "last_commit": "2016-05-17T10:38:30Z",
+            "owner": "mops1k",
+            "repo": "JMDUnoconvBundle",
+            "stars": 0
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "marshaller-bundle",
+          "description": "A PHP library that converts from one format to another.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2015-05-30T11:16:44Z",
+            "owner": "gnugat-legacy",
+            "repo": "marshaller-bundle",
+            "stars": 0
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "TemplatedUriBundle",
+          "description": "Expose the hautelook/TemplatedUriRouter.",
+          "children": []
+        }
+      ],
+      "title": "Miscellaneous"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "LiipMonitorBundle",
+          "description": "Bundle provides a way to run a series of application related health checks.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2026-03-24T18:46:51Z",
+            "owner": "liip",
+            "repo": "LiipMonitorBundle",
+            "stars": 474
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "SoclozMonitoringBundle",
+          "description": "A monitoring bundle for production servers",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2020-03-27T08:43:07Z",
+            "owner": "SoCloz",
+            "repo": "SoclozMonitoringBundle",
+            "stars": 69
+          }
+        }
+      ],
+      "title": "Monitoring"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "PayumBundle",
+          "description": "Rich payment solutions for symfony2. Paypal, Stripe, Payex, Authorize.NET, Be2bill, Klarna, recurring paymens, instant notifications and many more",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2026-08-11T14:58:26Z",
+            "owner": "Payum",
+            "repo": "PayumBundle",
+            "stars": 583
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "JMSPaymentPaypalBundle",
+          "description": "Payment Bundle providing access to the PayPal API.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2022-12-07T23:40:33Z",
+            "owner": "schmittjoh",
+            "repo": "JMSPaymentPaypalBundle",
+            "stars": 124
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "CartBundle",
+          "description": "High quality cart for developers.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2014-03-12T11:10:29Z",
+            "owner": "leaphly",
+            "repo": "CartBundle",
+            "stars": 101
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "PaymentAdyenBundle",
+          "description": "Provides access to the Adyen API. Based on JMSPaymentCoreBundle.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "PHP",
+            "last_commit": "2015-10-25T11:40:48Z",
+            "owner": "ruudk",
+            "repo": "PaymentAdyenBundle",
+            "stars": 6
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "MangopayBundle",
+          "description": "Mangopay API implementation for Symfony2.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "PHP",
+            "last_commit": "2016-09-23T13:57:40Z",
+            "owner": "AppVentus",
+            "repo": "MangopayBundle",
+            "stars": 0
+          }
+        }
+      ],
+      "title": "Payments Management"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Enqueue",
+          "description": "Provides a common way for programs to create, send, read messages. Inspired by Java JMS",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2025-12-22T17:06:17Z",
+            "owner": "php-enqueue",
+            "repo": "enqueue-dev",
+            "stars": 2219
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "LeezyPheanstalkBundle",
+          "description": "Bundle for Pheanstalk, PHP client for beanstalkd queue.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2023-07-25T11:32:19Z",
+            "owner": "armetiz",
+            "repo": "LeezyPheanstalkBundle",
+            "stars": 124
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "BernardBundle",
+          "description": "Bernard is a multi-backend PHP library for creating background jobs for later processing.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2022-04-29T09:42:39Z",
+            "owner": "bernardphp",
+            "repo": "BernardBundle",
+            "stars": 94
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "RSQueueBundle",
+          "description": "Queues infrastructure based on Redis, with Producer-Consumer and Publisher-Subscriber",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2017-07-07T15:24:50Z",
+            "owner": "mmoreram",
+            "repo": "RSQueueBundle",
+            "stars": 52
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "RabbitMqBundle",
+          "description": "RabbitMQ bundle.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2018-05-09T12:46:11Z",
+            "owner": "videlalvaro",
+            "repo": "RabbitMqBundle",
+            "stars": 35
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "HeriJobQueueBundle",
+          "description": "This Symfony bundle provides the use of Zend Queue from Zend Framework.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2016-12-01T09:27:15Z",
+            "owner": "heristop",
+            "repo": "heri-jobqueue-bundle",
+            "stars": 15
+          }
+        }
+      ],
+      "title": "Queues"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Symfony Recipes",
+          "description": "Symfony recipes allow the automation of Composer packages configuration via the Symfony Flex Composer plugin.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2026-08-13T10:28:46Z",
+            "owner": "symfony",
+            "repo": "recipes",
+            "stars": 1026
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Symfony Recipes (Contrib)",
+          "description": "Symfony recipes allow the automation of Composer packages configuration via the Symfony Flex Composer plugin.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2026-08-13T01:53:39Z",
+            "owner": "symfony",
+            "repo": "recipes-contrib",
+            "stars": 557
+          }
+        }
+      ],
+      "title": "Recipes"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "CraueConfigBundle",
+          "description": "Manages configuration settings stored in the database and makes them accessible via a service in your Symfony 2 project.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2023-08-22T09:03:29Z",
+            "owner": "craue",
+            "repo": "CraueConfigBundle",
+            "stars": 175
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "KutnyAutowiringBundle",
+          "description": "a bundle providing autowiring for service arguments.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "PHP",
+            "last_commit": "2016-04-20T15:05:44Z",
+            "owner": "kutny",
+            "repo": "autowiring-bundle",
+            "stars": 12
+          }
+        }
+      ],
+      "title": "Service Container"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "DoctrineMigrationsBundle",
+          "description": "Integrates the Doctrine2 Migrations library.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2026-06-14T06:57:42Z",
+            "owner": "doctrine",
+            "repo": "DoctrineMigrationsBundle",
+            "stars": 4302
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "DoctrineFixturesBundle",
+          "description": "Integrates the Doctrine2 Data Fixtures library.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2026-08-11T22:13:18Z",
+            "owner": "doctrine",
+            "repo": "DoctrineFixturesBundle",
+            "stars": 2531
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "StofDoctrineExtensionsBundle",
+          "description": "This bundle provides integration for DoctrineExtensions.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2026-01-23T08:46:28Z",
+            "owner": "stof",
+            "repo": "StofDoctrineExtensionsBundle",
+            "stars": 1929
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "SncRedisBundle",
+          "description": "Bundle to integrate Redis into your app.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2026-08-03T10:54:36Z",
+            "owner": "snc",
+            "repo": "SncRedisBundle",
+            "stars": 1049
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "KnpGaufretteBundle",
+          "description": "Integrates Gaufrette.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2026-07-24T13:45:48Z",
+            "owner": "KnpLabs",
+            "repo": "KnpGaufretteBundle",
+            "stars": 724
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "OneupFlysystemBundle",
+          "description": "Integrates Flysystem.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2026-05-20T15:58:53Z",
+            "owner": "1up-lab",
+            "repo": "OneupFlysystemBundle",
+            "stars": 642
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "DoctrineEnumBundle",
+          "description": "Provides support of MySQL ENUM type for Doctrine2.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2026-03-26T18:16:00Z",
+            "owner": "fre5h",
+            "repo": "DoctrineEnumBundle",
+            "stars": 461
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "FeedBundle",
+          "description": "A bundle to build RSS feeds from your entities.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2024-10-07T04:33:33Z",
+            "owner": "eko",
+            "repo": "FeedBundle",
+            "stars": 141
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "VichGeographicalBundle",
+          "description": "A bundle which provides geographical features for ORM and ODM entities and object oriented javascript maps rendering.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2016-10-23T21:07:39Z",
+            "owner": "dustin10",
+            "repo": "VichGeographicalBundle",
+            "stars": 105
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "AliceFixturesBundle",
+          "description": "A Symfony2 bundle for using Alice and Faker with data fixtures.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2016-08-08T07:03:27Z",
+            "owner": "h4cc",
+            "repo": "AliceFixturesBundle",
+            "stars": 75
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "FPNTagBundle",
+          "description": "This bundle adds tagging, with the ability to associate tags with any number of different entities.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2019-03-08T11:03:35Z",
+            "owner": "FabienPennequin",
+            "repo": "FPNTagBundle",
+            "stars": 75
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "DoctrineEncryptBundle",
+          "description": "Bundle allows you to create doctrine entities with fields that will be protected by encryption algorithms such as AES.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2020-08-29T19:29:47Z",
+            "owner": "vmelnik-ukraine",
+            "repo": "DoctrineEncryptBundle",
+            "stars": 72
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "MysqlDoctrineFunctions",
+          "description": "MySQL Function for Doctrine : RAND(), ROUND() DATE(), DATE_FORMAT().",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2023-09-15T07:06:32Z",
+            "owner": "mapado",
+            "repo": "MysqlDoctrineFunctions",
+            "stars": 44
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "WizadDoctrineDocBundle",
+          "description": "Allows you to generate a decent documentation for your doctrine model schema.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2013-06-13T13:38:51Z",
+            "owner": "wpottier",
+            "repo": "WizadDoctrineDocBundle",
+            "stars": 15
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "elastica-query-bundle",
+          "description": "Query builder bundle for ElasticSearch.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "PHP",
+            "last_commit": "2018-08-23T12:14:16Z",
+            "owner": "mapado",
+            "repo": "elastica-query-bundle",
+            "stars": 12
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "RelationBundle",
+          "description": "Bundle to manage relations between models/entities. (Not maintained anymore)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2014-09-03T09:08:24Z",
+            "owner": "Ph3nol",
+            "repo": "RelationBundle",
+            "stars": 10
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "AvSpoolMailerBundle",
+          "description": "Store your mails as a spool and send transactionnal direct mails or store it in DB.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "PHP",
+            "last_commit": "2018-03-07T10:44:12Z",
+            "owner": "AppVentus",
+            "repo": "AvSpoolMailerBundle",
+            "stars": 7
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "GaufretteBrowserBundle",
+          "description": "This Bundle allows you to browse a Gaufrette Filesystem like a Doctrine Connection.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2015-02-05T11:25:49Z",
+            "owner": "digitalkaoz",
+            "repo": "GaufretteBrowserBundle",
+            "stars": 4
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "doctrine-routing-bundle",
+          "description": "Dynamic database routing.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2015-04-09T22:13:33Z",
+            "owner": "eschmar",
+            "repo": "doctrine-routing-bundle",
+            "stars": 1
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "AliceBundle",
+          "description": "A Symfony2 bundle to help load Doctrine Fixtures with Alice.",
+          "children": []
+        }
+      ],
+      "title": "Storage"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "KnpTimeBundle",
+          "description": "Provides helpers for time manipulation.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2025-12-08T15:44:20Z",
+            "owner": "KnpLabs",
+            "repo": "KnpTimeBundle",
+            "stars": 624
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "GravatarBundle",
+          "description": "Simple wrapper to gravatar API.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "PHP",
+            "last_commit": "2019-11-14T07:52:46Z",
+            "owner": "henrikbjorn",
+            "repo": "GravatarBundle",
+            "stars": 126
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "TwigCacheBundle",
+          "description": "Bundle for asm89/twig-cache-extension.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2021-11-09T13:49:27Z",
+            "owner": "EmanueleMinotto",
+            "repo": "TwigCacheBundle",
+            "stars": 59
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "FlashAlertBundle",
+          "description": "Simplified way to handle (add/display) Symfony flash messages.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2026-07-05T11:32:47Z",
+            "owner": "Rasanga",
+            "repo": "FlashAlertBundle",
+            "stars": 23
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "TwigJackBundle",
+          "description": "Handy additional features for Twig.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2017-07-06T08:43:24Z",
+            "owner": "boekkooi",
+            "repo": "TwigJackBundle",
+            "stars": 23
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "CgKintBundle",
+          "description": "This bundle lets you use the Kint library in your Twig templates.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2021-07-12T07:36:02Z",
+            "owner": "carlos-granados",
+            "repo": "CgKintBundle",
+            "stars": 21
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "TwitalBundle",
+          "description": "An attribute template engine built on top of Twig and 100% compatible with all twig's features.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2024-07-23T14:26:51Z",
+            "owner": "goetas",
+            "repo": "twital-bundle",
+            "stars": 20
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "swift-css-inliner-bundle",
+          "description": "A Swiftmailer plugin that provides css inline features.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2015-09-15T07:58:53Z",
+            "owner": "simodima",
+            "repo": "swift-css-inliner-bundle",
+            "stars": 11
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "TwigExtraBundle",
+          "description": "Twig Extra Tools Extensions.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2014-08-03T14:46:44Z",
+            "owner": "csanquer",
+            "repo": "TwigExtraBundle",
+            "stars": 7
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "UcoTwigExtensionsBundle",
+          "description": "Provides some filters.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "PHP",
+            "last_commit": "2012-07-28T19:13:19Z",
+            "owner": "sgomez",
+            "repo": "UcoTwigExtensionsBundle",
+            "stars": 5
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "TwigInflectionBundle",
+          "description": "Apply inflection via a Twig extension.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2015-12-08T13:05:48Z",
+            "owner": "EmanueleMinotto",
+            "repo": "TwigInflectionBundle",
+            "stars": 3
+          }
+        }
+      ],
+      "title": "Template Engine"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "AlgoliaSearchBundle",
+          "description": "Seamless integration of Algolia Search into your Symfony project.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2026-04-21T10:09:47Z",
+            "owner": "algolia",
+            "repo": "search-bundle",
+            "stars": 193
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "SwarrotBundle",
+          "description": "A bundle for swarrot integration.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2026-07-29T14:41:01Z",
+            "owner": "swarrot",
+            "repo": "SwarrotBundle",
+            "stars": 90
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "YuccaPrerenderBundle",
+          "description": "Symfony2 Bundle to use prerender.io.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2019-01-05T06:44:15Z",
+            "owner": "rjanot",
+            "repo": "YuccaPrerenderBundle",
+            "stars": 56
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "SwmMailHookBundle",
+          "description": "Bundle to catch API webhook from different mail service (Mailjet, Mandrill, custom)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2024-01-02T14:27:23Z",
+            "owner": "ScullWM",
+            "repo": "MailHookBundle",
+            "stars": 38
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "CoopTilleulsOvhBundle",
+          "description": "Send SMS using the OVH API.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2020-08-11T10:23:45Z",
+            "owner": "coopTilleuls",
+            "repo": "CoopTilleulsOvhBundle",
+            "stars": 29
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "GordalinaMixpanelBundle",
+          "description": "Mixpanel integration in Symfony2.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2026-07-31T08:17:33Z",
+            "owner": "gordalina",
+            "repo": "GordalinaMixpanelBundle",
+            "stars": 14
+          }
+        }
+      ],
+      "title": "Third Party APIs"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "HWIOAuthBundle",
+          "description": "OAuth client integration. Supports both OAuth1.0a and OAuth2.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2026-08-11T07:37:00Z",
+            "owner": "hwi",
+            "repo": "HWIOAuthBundle",
+            "stars": 2373
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "two-factor-bundle",
+          "description": "This Symfony2 bundle provides two-factor authentication for your website.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "PHP",
+            "last_commit": "2021-12-02T12:48:20Z",
+            "owner": "scheb",
+            "repo": "two-factor-bundle",
+            "stars": 385
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "JmikolaAutoLoginBundle",
+          "description": "This bundle integrates the AutoLogin library with Symfony2, which implements a security firewall listener to authenticate users based on a single query parameter.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2023-12-11T11:55:04Z",
+            "owner": "jmikola",
+            "repo": "JmikolaAutoLoginBundle",
+            "stars": 84
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "SamlBundle",
+          "description": "The SamlBundle adds support for SAML 2.0 Service Provider in Symfony2.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2020-01-23T16:32:04Z",
+            "owner": "pdias",
+            "repo": "SamlBundle",
+            "stars": 16
+          }
+        }
+      ],
+      "title": "User Management"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "dms-filter-bundle",
+          "description": "Provides a FilterService to allow users to implement input filtering in entities using Annotations.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2025-11-21T08:14:06Z",
+            "owner": "rdohms",
+            "repo": "dms-filter-bundle",
+            "stars": 78
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "vatin-bundle",
+          "description": "A Symfony2 bundle for the VATIN library (validate VAT identification numbers).",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2026-03-12T18:30:57Z",
+            "owner": "ddeboer",
+            "repo": "vatin-bundle",
+            "stars": 30
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "PasswordStrengthBundle",
+          "description": "Validator for ensuring strong passwords.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2020-02-21T00:14:40Z",
+            "owner": "jbafford",
+            "repo": "PasswordStrengthBundle",
+            "stars": 28
+          }
+        }
+      ],
+      "title": "Validation"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "FOSRestBundle",
+          "description": "Provides various tools to rapidly develop RESTful API's & applications.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2026-02-10T02:37:33Z",
+            "owner": "FriendsOfSymfony",
+            "repo": "FOSRestBundle",
+            "stars": 2795
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "LexikJWTAuthenticationBundle",
+          "description": "This bundle provides JWT (Json Web Token) authentication for your REST API using the lcobucci/jwt library.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2026-07-01T23:42:25Z",
+            "owner": "lexik",
+            "repo": "LexikJWTAuthenticationBundle",
+            "stars": 2608
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "DunglasApiBundle",
+          "description": "Bundle to build hypermedia-driven REST API.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2026-08-01T02:22:39Z",
+            "owner": "api-platform",
+            "repo": "core",
+            "stars": 2568
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "NelmioApiDocBundle",
+          "description": "Generates documentation for your REST API from annotations.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2026-08-12T10:26:41Z",
+            "owner": "nelmio",
+            "repo": "NelmioApiDocBundle",
+            "stars": 2361
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "NelmioCorsBundle",
+          "description": "Adds ability to add CORS-related headers based on simple ACL-style per-URL configurations.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2026-01-14T20:01:33Z",
+            "owner": "nelmio",
+            "repo": "NelmioCorsBundle",
+            "stars": 1925
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "JMSSerializerBundle",
+          "description": "Easily serialize, and deserialize data of any complexity.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2026-03-26T22:03:55Z",
+            "owner": "schmittjoh",
+            "repo": "JMSSerializerBundle",
+            "stars": 1806
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "FOSOAuthServerBundle",
+          "description": "A server side OAuth2 bundle.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2024-01-12T10:27:37Z",
+            "owner": "FriendsOfSymfony",
+            "repo": "FOSOAuthServerBundle",
+            "stars": 1078
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "RateLimitBundle",
+          "description": "Add rate limits to your controllers/actions easily through annotations.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2025-11-17T16:31:48Z",
+            "owner": "jaytaph",
+            "repo": "RateLimitBundle",
+            "stars": 333
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "BazingaHateoasBundle",
+          "description": "Integration of the Hateoas library.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2026-07-17T20:46:36Z",
+            "owner": "willdurand",
+            "repo": "BazingaHateoasBundle",
+            "stars": 297
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "DunglasAngularCsrfBundle",
+          "description": "Automatic CSRF protection for Symfony APIs used with AngularJS and other major AJAX libraries",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "PHP",
+            "last_commit": "2020-12-28T14:53:09Z",
+            "owner": "dunglas",
+            "repo": "DunglasAngularCsrfBundle",
+            "stars": 148
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "LemonRestBundle",
+          "description": "An opinionated bundle providing REST endpoints for Doctrine entities.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "PHP",
+            "last_commit": "2022-03-23T01:01:49Z",
+            "owner": "stanlemon",
+            "repo": "rest-bundle",
+            "stars": 121
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "JSONApiBundle",
+          "description": "Bundle which provides support for formatting REST reponses to follow the JSON API specification.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2019-05-27T11:54:16Z",
+            "owner": "nilportugues",
+            "repo": "symfony-jsonapi",
+            "stars": 114
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "KnpJsonSchemaBundle",
+          "description": "Provide a service which allow you to generate json schema based on validation metadata.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "PHP",
+            "last_commit": "2022-09-23T13:23:59Z",
+            "owner": "KnpLabs",
+            "repo": "KnpJsonSchemaBundle",
+            "stars": 72
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "api2symfony-bundle",
+          "description": "Symfony 2 bundle allowing to automatically generate controllers from standard API specifications.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "PHP",
+            "last_commit": "2016-03-01T14:38:02Z",
+            "owner": "creads",
+            "repo": "api2symfony-bundle",
+            "stars": 51
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "SRIORestUploadBundle",
+          "description": "A symfony bundle to handle multiple upload ways on your REST API.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2020-11-29T17:38:23Z",
+            "owner": "sroze",
+            "repo": "SRIORestUploadBundle",
+            "stars": 46
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ResourceBundle",
+          "description": "Bundle that helps in developing REST APIs.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2015-05-14T13:05:54Z",
+            "owner": "ProgrammingAreHard",
+            "repo": "ResourceBundle",
+            "stars": 33
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "RequestLimitBundle",
+          "description": "With this bundle you can easy limit requests to your application.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2011-10-29T16:45:22Z",
+            "owner": "zim32",
+            "repo": "Symfony2-RequestLimitBundle",
+            "stars": 11
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "SerializedResponseBundle",
+          "description": "A simple bundle to provide an easy way to send out json/xml/yaml responses of serialized objects with annotations.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2014-08-03T15:33:16Z",
+            "owner": "Pulpmedia",
+            "repo": "SerializedResponseBundle",
+            "stars": 5
+          }
+        }
+      ],
+      "title": "Web Services"
+    },
+    {
+      "description": "To the extent possible under law, Emanuele Minotto (the repo's original creator) and SitePoint have waived all copyright and related or neighboring rights to this work.",
+      "items": [],
+      "title": "License"
+    }
+  ],
+  "metadata": {
+    "last_updated": "2026-08-13T10:41:03.839Z",
+    "original_repository": "sitepoint-editors/awesome-symfony",
+    "original_repository_sha": "754cb6f0d024103dae16e3dc1ca1074806f87d13",
+    "enhanced_repository": "enhansome/enhansome-symfony",
+    "enhanced_repository_description": null,
+    "title": "Awesome Symfony with stars"
+  }
+}
