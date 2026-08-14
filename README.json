@@ -81,7 +81,7 @@
           "repo_info": {
             "archived": false,
             "language": "PHP",
-            "last_commit": "2026-08-10T17:55:27Z",
+            "last_commit": "2026-08-13T18:10:21Z",
             "owner": "javiereguiluz",
             "repo": "EasyAdminBundle",
             "stars": 22
@@ -567,7 +567,7 @@
           "repo_info": {
             "archived": false,
             "language": "PHP",
-            "last_commit": "2026-08-13T02:54:27Z",
+            "last_commit": "2026-08-14T02:53:46Z",
             "owner": "Sylius",
             "repo": "Sylius",
             "stars": 8511
@@ -632,7 +632,7 @@
             "last_commit": "2024-08-01T13:31:08Z",
             "owner": "lexik",
             "repo": "LexikFormFilterBundle",
-            "stars": 388
+            "stars": 387
           }
         },
         {
@@ -851,7 +851,7 @@
           "repo_info": {
             "archived": false,
             "language": "PHP",
-            "last_commit": "2026-08-13T08:33:23Z",
+            "last_commit": "2026-08-14T06:41:13Z",
             "owner": "8p",
             "repo": "EightPointsGuzzleBundle",
             "stars": 445
@@ -949,7 +949,7 @@
           "repo_info": {
             "archived": false,
             "language": "PHP",
-            "last_commit": "2026-08-11T03:49:48Z",
+            "last_commit": "2026-08-14T00:35:23Z",
             "owner": "helios-ag",
             "repo": "FMElfinderBundle",
             "stars": 280
@@ -2071,7 +2071,7 @@
           "repo_info": {
             "archived": false,
             "language": "PHP",
-            "last_commit": "2026-08-13T01:53:39Z",
+            "last_commit": "2026-08-14T07:32:36Z",
             "owner": "symfony",
             "repo": "recipes-contrib",
             "stars": 557
@@ -2128,7 +2128,7 @@
             "last_commit": "2026-06-14T06:57:42Z",
             "owner": "doctrine",
             "repo": "DoctrineMigrationsBundle",
-            "stars": 4302
+            "stars": 4303
           }
         },
         {
@@ -2766,7 +2766,7 @@
             "last_commit": "2026-02-10T02:37:33Z",
             "owner": "FriendsOfSymfony",
             "repo": "FOSRestBundle",
-            "stars": 2795
+            "stars": 2796
           }
         },
         {
@@ -2794,7 +2794,7 @@
             "last_commit": "2026-08-01T02:22:39Z",
             "owner": "api-platform",
             "repo": "core",
-            "stars": 2568
+            "stars": 2569
           }
         },
         {
@@ -2808,7 +2808,7 @@
             "last_commit": "2026-08-12T10:26:41Z",
             "owner": "nelmio",
             "repo": "NelmioApiDocBundle",
-            "stars": 2361
+            "stars": 2362
           }
         },
         {
@@ -2836,7 +2836,7 @@
             "last_commit": "2026-03-26T22:03:55Z",
             "owner": "schmittjoh",
             "repo": "JMSSerializerBundle",
-            "stars": 1806
+            "stars": 1807
           }
         },
         {
@@ -3017,7 +3017,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-13T10:41:03.839Z",
+    "last_updated": "2026-08-14T10:36:47.420Z",
     "original_repository": "sitepoint-editors/awesome-symfony",
     "original_repository_sha": "754cb6f0d024103dae16e3dc1ca1074806f87d13",
     "enhanced_repository": "enhansome/enhansome-symfony",
