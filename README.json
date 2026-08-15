@@ -567,10 +567,10 @@
           "repo_info": {
             "archived": false,
             "language": "PHP",
-            "last_commit": "2026-08-14T02:53:46Z",
+            "last_commit": "2026-08-15T02:22:37Z",
             "owner": "Sylius",
             "repo": "Sylius",
-            "stars": 8511
+            "stars": 8510
           }
         },
         {
@@ -781,7 +781,7 @@
           "repo_info": {
             "archived": false,
             "language": "PHP",
-            "last_commit": "2026-08-05T13:21:10Z",
+            "last_commit": "2026-08-14T10:58:24Z",
             "owner": "liip",
             "repo": "LiipImagineBundle",
             "stars": 1711
@@ -851,7 +851,7 @@
           "repo_info": {
             "archived": false,
             "language": "PHP",
-            "last_commit": "2026-08-14T06:41:13Z",
+            "last_commit": "2026-08-14T14:09:54Z",
             "owner": "8p",
             "repo": "EightPointsGuzzleBundle",
             "stars": 445
@@ -949,7 +949,7 @@
           "repo_info": {
             "archived": false,
             "language": "PHP",
-            "last_commit": "2026-08-14T00:35:23Z",
+            "last_commit": "2026-08-15T01:43:59Z",
             "owner": "helios-ag",
             "repo": "FMElfinderBundle",
             "stars": 280
@@ -2071,7 +2071,7 @@
           "repo_info": {
             "archived": false,
             "language": "PHP",
-            "last_commit": "2026-08-14T07:32:36Z",
+            "last_commit": "2026-08-15T05:37:36Z",
             "owner": "symfony",
             "repo": "recipes-contrib",
             "stars": 557
@@ -2656,7 +2656,7 @@
             "last_commit": "2026-08-11T07:37:00Z",
             "owner": "hwi",
             "repo": "HWIOAuthBundle",
-            "stars": 2373
+            "stars": 2372
           }
         },
         {
@@ -3017,7 +3017,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-14T10:36:47.420Z",
+    "last_updated": "2026-08-15T09:54:38.602Z",
     "original_repository": "sitepoint-editors/awesome-symfony",
     "original_repository_sha": "754cb6f0d024103dae16e3dc1ca1074806f87d13",
     "enhanced_repository": "enhansome/enhansome-symfony",
