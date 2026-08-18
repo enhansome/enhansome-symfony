@@ -567,7 +567,7 @@
           "repo_info": {
             "archived": false,
             "language": "PHP",
-            "last_commit": "2026-08-17T02:27:23Z",
+            "last_commit": "2026-08-18T04:17:34Z",
             "owner": "Sylius",
             "repo": "Sylius",
             "stars": 8510
@@ -949,7 +949,7 @@
           "repo_info": {
             "archived": false,
             "language": "PHP",
-            "last_commit": "2026-08-16T01:44:44Z",
+            "last_commit": "2026-08-18T06:20:35Z",
             "owner": "helios-ag",
             "repo": "FMElfinderBundle",
             "stars": 280
@@ -2057,7 +2057,7 @@
           "repo_info": {
             "archived": false,
             "language": "PHP",
-            "last_commit": "2026-08-13T10:28:46Z",
+            "last_commit": "2026-08-18T08:36:29Z",
             "owner": "symfony",
             "repo": "recipes",
             "stars": 1026
@@ -2794,7 +2794,7 @@
             "last_commit": "2026-08-16T22:00:56Z",
             "owner": "api-platform",
             "repo": "core",
-            "stars": 2569
+            "stars": 2570
           }
         },
         {
@@ -3017,7 +3017,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-17T10:07:51.972Z",
+    "last_updated": "2026-08-18T10:01:30.968Z",
     "original_repository": "sitepoint-editors/awesome-symfony",
     "original_repository_sha": "754cb6f0d024103dae16e3dc1ca1074806f87d13",
     "enhanced_repository": "enhansome/enhansome-symfony",
