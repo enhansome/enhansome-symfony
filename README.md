@@ -240,7 +240,7 @@ Table of contents:
 ## Recipes
 
 * [Symfony Recipes](https://github.com/symfony/recipes) ⭐ 1,026 | 🐛 43 | 🌐 PHP | 📅 2026-08-18 - Symfony recipes allow the automation of Composer packages configuration via the Symfony Flex Composer plugin.
-* [Symfony Recipes (Contrib)](https://github.com/symfony/recipes-contrib) ⭐ 558 | 🐛 3 | 🌐 PHP | 📅 2026-08-18 - Symfony recipes allow the automation of Composer packages configuration via the Symfony Flex Composer plugin.
+* [Symfony Recipes (Contrib)](https://github.com/symfony/recipes-contrib) ⭐ 558 | 🐛 0 | 🌐 PHP | 📅 2026-08-19 - Symfony recipes allow the automation of Composer packages configuration via the Symfony Flex Composer plugin.
 
 ## Resources
 

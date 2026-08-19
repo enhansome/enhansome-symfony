@@ -2208,7 +2208,7 @@
             "archived": false,
             "id": 88190851,
             "language": "PHP",
-            "last_commit": "2026-08-18T10:49:31Z",
+            "last_commit": "2026-08-19T12:51:33Z",
             "owner": "symfony",
             "repo": "recipes-contrib",
             "stars": 558
@@ -3206,8 +3206,9 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-19T10:02:06.471Z",
+    "last_updated": "2026-08-19T12:56:06.055Z",
     "original_repository": "sitepoint-editors/awesome-symfony",
+    "original_repository_id": 22654969,
     "original_repository_sha": "754cb6f0d024103dae16e3dc1ca1074806f87d13",
     "enhanced_repository": "enhansome/enhansome-symfony",
     "enhanced_repository_description": null,
