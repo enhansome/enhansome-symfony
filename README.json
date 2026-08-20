@@ -540,10 +540,10 @@
             "archived": false,
             "id": 31790438,
             "language": "PHP",
-            "last_commit": "2026-08-01T15:52:36Z",
+            "last_commit": "2026-08-20T08:14:32Z",
             "owner": "api-platform",
             "repo": "api-platform",
-            "stars": 9176
+            "stars": 9177
           }
         },
         {
@@ -606,10 +606,10 @@
             "archived": false,
             "id": 2717549,
             "language": "PHP",
-            "last_commit": "2026-08-19T02:25:54Z",
+            "last_commit": "2026-08-20T02:25:15Z",
             "owner": "Sylius",
             "repo": "Sylius",
-            "stars": 8510
+            "stars": 8511
           }
         },
         {
@@ -813,7 +813,7 @@
             "archived": false,
             "id": 6083145,
             "language": "PHP",
-            "last_commit": "2026-07-31T21:59:23Z",
+            "last_commit": "2026-08-19T22:45:30Z",
             "owner": "lunetics",
             "repo": "TimezoneBundle",
             "stars": 26
@@ -1014,7 +1014,7 @@
             "archived": false,
             "id": 5328565,
             "language": "PHP",
-            "last_commit": "2026-08-18T06:20:35Z",
+            "last_commit": "2026-08-20T03:04:59Z",
             "owner": "helios-ag",
             "repo": "FMElfinderBundle",
             "stars": 280
@@ -2193,7 +2193,7 @@
             "archived": false,
             "id": 79607905,
             "language": "PHP",
-            "last_commit": "2026-08-18T08:36:29Z",
+            "last_commit": "2026-08-19T18:45:43Z",
             "owner": "symfony",
             "repo": "recipes",
             "stars": 1026
@@ -2208,7 +2208,7 @@
             "archived": false,
             "id": 88190851,
             "language": "PHP",
-            "last_commit": "2026-08-19T12:51:33Z",
+            "last_commit": "2026-08-20T08:03:03Z",
             "owner": "symfony",
             "repo": "recipes-contrib",
             "stars": 558
@@ -2298,7 +2298,7 @@
             "last_commit": "2026-01-23T08:46:28Z",
             "owner": "stof",
             "repo": "StofDoctrineExtensionsBundle",
-            "stars": 1929
+            "stars": 1930
           }
         },
         {
@@ -2973,7 +2973,7 @@
             "last_commit": "2026-08-16T22:00:56Z",
             "owner": "api-platform",
             "repo": "core",
-            "stars": 2570
+            "stars": 2571
           }
         },
         {
@@ -3206,7 +3206,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-19T12:56:06.055Z",
+    "last_updated": "2026-08-20T10:04:12.501Z",
     "original_repository": "sitepoint-editors/awesome-symfony",
     "original_repository_id": 22654969,
     "original_repository_sha": "754cb6f0d024103dae16e3dc1ca1074806f87d13",
