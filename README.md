@@ -92,14 +92,14 @@ Table of contents:
 
 ## Distributions
 
-* [API Platform framework](https://github.com/api-platform/api-platform) ⭐ 9,177 | 🐛 7 | 🌐 PHP | 📅 2026-08-20
+* [API Platform framework](https://github.com/api-platform/api-platform) ⭐ 9,178 | 🐛 7 | 🌐 PHP | 📅 2026-08-20
 * [Symfony Standard Edition](https://github.com/symfony/symfony-standard) ⚠️ Archived
 * [Symfony CMF Standard Edition](https://github.com/symfony-cmf/standard-edition) ⚠️ Archived
 * [Kunstmaan Bundles Standard Edition](https://github.com/Kunstmaan/KunstmaanBundlesStandardEdition) ⚠️ Archived
 
 ## Ecommerce
 
-* [Sylius](https://github.com/Sylius/Sylius) ⭐ 8,511 | 🐛 213 | 🌐 PHP | 📅 2026-08-20 - E-Commerce PHP framework built on top of Symfony with component-based architecture and format-agnostic rendering
+* [Sylius](https://github.com/Sylius/Sylius) ⭐ 8,511 | 🐛 213 | 🌐 PHP | 📅 2026-08-21 - E-Commerce PHP framework built on top of Symfony with component-based architecture and format-agnostic rendering
 * [Elcodi](https://github.com/elcodi/elcodi) ⚠️ Archived - E-commerce PHP Components and Symfony Bundles
 * [Bamboo](https://github.com/elcodi/bamboo) ⚠️ Archived -  Full-stack E-commerce application based on Symfony and Elcodi components
 * [Aimeos](https://aimeos.org/Symfony/) - Ultra fast PHP e-commerce framework for #gigacommerce
@@ -125,7 +125,7 @@ Table of contents:
 
 ## Miscellaneous
 
-* [LiipImagineBundle](https://github.com/liip/LiipImagineBundle) ⭐ 1,711 | 🐛 80 | 🌐 PHP | 📅 2026-08-14 - Image manipulation bundle, based on Imagine library.
+* [LiipImagineBundle](https://github.com/liip/LiipImagineBundle) ⭐ 1,711 | 🐛 78 | 🌐 PHP | 📅 2026-08-20 - Image manipulation bundle, based on Imagine library.
 * [KnpSnappyBundle](https://github.com/KnpLabs/KnpSnappyBundle) ⭐ 1,247 | 🐛 1 | 🌐 PHP | 📅 2026-01-07 - Easily create PDF and images by converting html using webkit.
 * [OneupUploaderBundle](https://github.com/1up-lab/OneupUploaderBundle) ⭐ 605 | 🐛 20 | 🌐 PHP | 📅 2026-02-17 - Provides server implementations for several multi file uploader.
 * [APYDataGridBundle](https://github.com/APY/APYDataGridBundle) ⭐ 492 | 🐛 85 | 🌐 PHP | 📅 2026-06-19 - Datagrid Bundle.
@@ -239,7 +239,7 @@ Table of contents:
 
 ## Recipes
 
-* [Symfony Recipes](https://github.com/symfony/recipes) ⭐ 1,026 | 🐛 44 | 🌐 PHP | 📅 2026-08-19 - Symfony recipes allow the automation of Composer packages configuration via the Symfony Flex Composer plugin.
+* [Symfony Recipes](https://github.com/symfony/recipes) ⭐ 1,026 | 🐛 45 | 🌐 PHP | 📅 2026-08-20 - Symfony recipes allow the automation of Composer packages configuration via the Symfony Flex Composer plugin.
 * [Symfony Recipes (Contrib)](https://github.com/symfony/recipes-contrib) ⭐ 558 | 🐛 3 | 🌐 PHP | 📅 2026-08-20 - Symfony recipes allow the automation of Composer packages configuration via the Symfony Flex Composer plugin.
 
 ## Resources
@@ -250,15 +250,15 @@ Table of contents:
 
 ## Service Container
 
-* [CraueConfigBundle](https://github.com/craue/CraueConfigBundle) ⭐ 175 | 🐛 14 | 🌐 PHP | 📅 2023-08-22 - Manages configuration settings stored in the database and makes them accessible via a service in your Symfony 2 project.
+* [CraueConfigBundle](https://github.com/craue/CraueConfigBundle) ⭐ 175 | 🐛 14 | 🌐 PHP | 📅 2026-08-21 - Manages configuration settings stored in the database and makes them accessible via a service in your Symfony 2 project.
 * [KutnyAutowiringBundle](https://github.com/kutny/autowiring-bundle) ⚠️ Archived - a bundle providing autowiring for service arguments.
 * [JMSDiExtraBundle](http://jmsyst.com/bundles/JMSDiExtraBundle) - Provides Advanced Dependency Injection Features.
 * [PHP-DI](http://php-di.org) - The dependency injection container for humans.
 
 ## Storage
 
-* [DoctrineMigrationsBundle](https://github.com/doctrine/DoctrineMigrationsBundle) ⭐ 4,303 | 🐛 45 | 🌐 PHP | 📅 2026-06-14 - Integrates the Doctrine2 Migrations library.
-* [DoctrineFixturesBundle](https://github.com/doctrine/DoctrineFixturesBundle) ⭐ 2,531 | 🐛 29 | 🌐 PHP | 📅 2026-08-11 - Integrates the Doctrine2 Data Fixtures library.
+* [DoctrineMigrationsBundle](https://github.com/doctrine/DoctrineMigrationsBundle) ⭐ 4,304 | 🐛 45 | 🌐 PHP | 📅 2026-06-14 - Integrates the Doctrine2 Migrations library.
+* [DoctrineFixturesBundle](https://github.com/doctrine/DoctrineFixturesBundle) ⭐ 2,532 | 🐛 29 | 🌐 PHP | 📅 2026-08-11 - Integrates the Doctrine2 Data Fixtures library.
 * [StofDoctrineExtensionsBundle](https://github.com/stof/StofDoctrineExtensionsBundle) ⭐ 1,930 | 🐛 37 | 🌐 PHP | 📅 2026-01-23 - This bundle provides integration for DoctrineExtensions.
 * [SncRedisBundle](https://github.com/snc/SncRedisBundle) ⭐ 1,049 | 🐛 0 | 🌐 PHP | 📅 2026-08-03 - Bundle to integrate Redis into your app.
 * [KnpGaufretteBundle](https://github.com/KnpLabs/KnpGaufretteBundle) ⭐ 724 | 🐛 31 | 🌐 PHP | 📅 2026-07-24 - Integrates Gaufrette.
@@ -319,7 +319,7 @@ Table of contents:
 
 * [FOSRestBundle](https://github.com/FriendsOfSymfony/FOSRestBundle) ⭐ 2,796 | 🐛 159 | 🌐 PHP | 📅 2026-02-10 - Provides various tools to rapidly develop RESTful API's & applications.
 * [LexikJWTAuthenticationBundle](https://github.com/lexik/LexikJWTAuthenticationBundle) ⭐ 2,608 | 🐛 119 | 🌐 PHP | 📅 2026-07-01 - This bundle provides JWT (Json Web Token) authentication for your REST API using the lcobucci/jwt library.
-* [DunglasApiBundle](https://github.com/dunglas/DunglasApiBundle) ⭐ 2,571 | 🐛 260 | 🌐 PHP | 📅 2026-08-16 - Bundle to build hypermedia-driven REST API.
+* [DunglasApiBundle](https://github.com/dunglas/DunglasApiBundle) ⭐ 2,571 | 🐛 261 | 🌐 PHP | 📅 2026-08-16 - Bundle to build hypermedia-driven REST API.
 * [NelmioApiDocBundle](https://github.com/nelmio/NelmioApiDocBundle) ⭐ 2,362 | 🐛 61 | 🌐 PHP | 📅 2026-08-17 - Generates documentation for your REST API from annotations.
 * [NelmioCorsBundle](https://github.com/nelmio/NelmioCorsBundle) ⭐ 1,925 | 🐛 9 | 🌐 PHP | 📅 2026-01-14 - Adds ability to add CORS-related headers based on simple ACL-style per-URL configurations.
 * [JMSSerializerBundle](https://github.com/schmittjoh/JMSSerializerBundle) ⭐ 1,807 | 🐛 96 | 🌐 PHP | 📅 2026-03-26 - Easily serialize, and deserialize data of any complexity.
@@ -344,4 +344,4 @@ To the extent possible under law, [Emanuele Minotto](http://emanueleminotto.gith
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-20._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-21._
