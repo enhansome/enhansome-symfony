@@ -606,7 +606,7 @@
             "archived": false,
             "id": 2717549,
             "language": "PHP",
-            "last_commit": "2026-08-21T02:29:15Z",
+            "last_commit": "2026-08-22T02:23:32Z",
             "owner": "Sylius",
             "repo": "Sylius",
             "stars": 8511
@@ -1014,7 +1014,7 @@
             "archived": false,
             "id": 5328565,
             "language": "PHP",
-            "last_commit": "2026-08-20T03:04:59Z",
+            "last_commit": "2026-08-22T00:43:07Z",
             "owner": "helios-ag",
             "repo": "FMElfinderBundle",
             "stars": 280
@@ -2229,7 +2229,7 @@
             "archived": false,
             "id": 2011216,
             "language": "PHP",
-            "last_commit": "2026-08-21T09:45:02Z",
+            "last_commit": "2026-08-21T17:52:39Z",
             "owner": "craue",
             "repo": "CraueConfigBundle",
             "stars": 175
@@ -2973,7 +2973,7 @@
             "last_commit": "2026-08-16T22:00:56Z",
             "owner": "api-platform",
             "repo": "core",
-            "stars": 2571
+            "stars": 2572
           }
         },
         {
@@ -2988,7 +2988,7 @@
             "last_commit": "2026-08-17T03:55:35Z",
             "owner": "nelmio",
             "repo": "NelmioApiDocBundle",
-            "stars": 2362
+            "stars": 2363
           }
         },
         {
@@ -3206,7 +3206,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-21T10:03:49.055Z",
+    "last_updated": "2026-08-22T09:55:15.324Z",
     "original_repository": "sitepoint-editors/awesome-symfony",
     "original_repository_id": 22654969,
     "original_repository_sha": "754cb6f0d024103dae16e3dc1ca1074806f87d13",
