@@ -606,10 +606,10 @@
             "archived": false,
             "id": 2717549,
             "language": "PHP",
-            "last_commit": "2026-08-22T02:23:32Z",
+            "last_commit": "2026-08-23T02:29:25Z",
             "owner": "Sylius",
             "repo": "Sylius",
-            "stars": 8511
+            "stars": 8513
           }
         },
         {
@@ -1014,7 +1014,7 @@
             "archived": false,
             "id": 5328565,
             "language": "PHP",
-            "last_commit": "2026-08-22T00:43:07Z",
+            "last_commit": "2026-08-23T02:16:42Z",
             "owner": "helios-ag",
             "repo": "FMElfinderBundle",
             "stars": 280
@@ -2196,7 +2196,7 @@
             "last_commit": "2026-08-20T11:19:51Z",
             "owner": "symfony",
             "repo": "recipes",
-            "stars": 1026
+            "stars": 1025
           }
         },
         {
@@ -3206,7 +3206,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-22T09:55:15.324Z",
+    "last_updated": "2026-08-23T09:56:10.244Z",
     "original_repository": "sitepoint-editors/awesome-symfony",
     "original_repository_id": 22654969,
     "original_repository_sha": "754cb6f0d024103dae16e3dc1ca1074806f87d13",
