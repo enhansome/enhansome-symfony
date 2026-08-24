@@ -222,7 +222,7 @@
             "last_commit": "2017-07-07T22:31:27Z",
             "owner": "dunglas",
             "repo": "DunglasActionBundle",
-            "stars": 256
+            "stars": 255
           }
         },
         {
@@ -540,10 +540,10 @@
             "archived": false,
             "id": 31790438,
             "language": "PHP",
-            "last_commit": "2026-08-20T08:14:32Z",
+            "last_commit": "2026-08-24T06:31:59Z",
             "owner": "api-platform",
             "repo": "api-platform",
-            "stars": 9178
+            "stars": 9179
           }
         },
         {
@@ -558,7 +558,7 @@
             "last_commit": "2020-11-27T08:48:20Z",
             "owner": "symfony",
             "repo": "symfony-standard",
-            "stars": 1476
+            "stars": 1475
           }
         },
         {
@@ -606,7 +606,7 @@
             "archived": false,
             "id": 2717549,
             "language": "PHP",
-            "last_commit": "2026-08-23T02:29:25Z",
+            "last_commit": "2026-08-24T02:29:05Z",
             "owner": "Sylius",
             "repo": "Sylius",
             "stars": 8513
@@ -1212,7 +1212,7 @@
             "last_commit": "2018-09-19T08:24:59Z",
             "owner": "misd-service-development",
             "repo": "guzzle-bundle",
-            "stars": 100
+            "stars": 99
           }
         },
         {
@@ -2208,7 +2208,7 @@
             "archived": false,
             "id": 88190851,
             "language": "PHP",
-            "last_commit": "2026-08-20T08:03:03Z",
+            "last_commit": "2026-08-24T09:48:22Z",
             "owner": "symfony",
             "repo": "recipes-contrib",
             "stars": 558
@@ -2229,7 +2229,7 @@
             "archived": false,
             "id": 2011216,
             "language": "PHP",
-            "last_commit": "2026-08-21T17:52:39Z",
+            "last_commit": "2026-08-23T20:35:13Z",
             "owner": "craue",
             "repo": "CraueConfigBundle",
             "stars": 175
@@ -2283,7 +2283,7 @@
             "last_commit": "2026-08-11T22:13:18Z",
             "owner": "doctrine",
             "repo": "DoctrineFixturesBundle",
-            "stars": 2532
+            "stars": 2533
           }
         },
         {
@@ -2393,21 +2393,6 @@
         },
         {
           "node_type": "item",
-          "title": "AliceFixturesBundle",
-          "description": "A Symfony2 bundle for using Alice and Faker with data fixtures.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "id": 13414419,
-            "language": "PHP",
-            "last_commit": "2016-08-08T07:03:27Z",
-            "owner": "h4cc",
-            "repo": "AliceFixturesBundle",
-            "stars": 75
-          }
-        },
-        {
-          "node_type": "item",
           "title": "FPNTagBundle",
           "description": "This bundle adds tagging, with the ability to associate tags with any number of different entities.",
           "children": [],
@@ -2419,6 +2404,21 @@
             "owner": "FabienPennequin",
             "repo": "FPNTagBundle",
             "stars": 75
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "AliceFixturesBundle",
+          "description": "A Symfony2 bundle for using Alice and Faker with data fixtures.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 13414419,
+            "language": "PHP",
+            "last_commit": "2016-08-08T07:03:27Z",
+            "owner": "h4cc",
+            "repo": "AliceFixturesBundle",
+            "stars": 74
           }
         },
         {
@@ -2943,7 +2943,7 @@
             "last_commit": "2026-02-10T02:37:33Z",
             "owner": "FriendsOfSymfony",
             "repo": "FOSRestBundle",
-            "stars": 2796
+            "stars": 2795
           }
         },
         {
@@ -2958,7 +2958,7 @@
             "last_commit": "2026-07-01T23:42:25Z",
             "owner": "lexik",
             "repo": "LexikJWTAuthenticationBundle",
-            "stars": 2608
+            "stars": 2607
           }
         },
         {
@@ -2985,7 +2985,7 @@
             "archived": false,
             "id": 4006755,
             "language": "PHP",
-            "last_commit": "2026-08-17T03:55:35Z",
+            "last_commit": "2026-08-24T03:56:16Z",
             "owner": "nelmio",
             "repo": "NelmioApiDocBundle",
             "stars": 2363
@@ -3206,7 +3206,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-23T09:56:10.244Z",
+    "last_updated": "2026-08-24T10:20:29.337Z",
     "original_repository": "sitepoint-editors/awesome-symfony",
     "original_repository_id": 22654969,
     "original_repository_sha": "754cb6f0d024103dae16e3dc1ca1074806f87d13",
