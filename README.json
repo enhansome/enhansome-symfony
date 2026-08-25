@@ -609,7 +609,7 @@
             "last_commit": "2026-08-25T02:25:53Z",
             "owner": "Sylius",
             "repo": "Sylius",
-            "stars": 8514
+            "stars": 8513
           }
         },
         {
@@ -2208,7 +2208,7 @@
             "archived": false,
             "id": 88190851,
             "language": "PHP",
-            "last_commit": "2026-08-24T18:19:56Z",
+            "last_commit": "2026-08-25T09:38:54Z",
             "owner": "symfony",
             "repo": "recipes-contrib",
             "stars": 558
@@ -3206,7 +3206,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T06:05:57.724Z",
+    "last_updated": "2026-08-25T10:04:05.818Z",
     "original_repository": "sitepoint-editors/awesome-symfony",
     "original_repository_id": 22654969,
     "original_repository_sha": "754cb6f0d024103dae16e3dc1ca1074806f87d13",
