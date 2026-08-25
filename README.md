@@ -92,14 +92,14 @@ Table of contents:
 
 ## Distributions
 
-* [API Platform framework](https://github.com/api-platform/api-platform) ⭐ 9,179 | 🐛 1 | 🌐 PHP | 📅 2026-08-24
+* [API Platform framework](https://github.com/api-platform/api-platform) ⭐ 9,180 | 🐛 2 | 🌐 PHP | 📅 2026-08-24
 * [Symfony Standard Edition](https://github.com/symfony/symfony-standard) ⚠️ Archived
 * [Symfony CMF Standard Edition](https://github.com/symfony-cmf/standard-edition) ⚠️ Archived
 * [Kunstmaan Bundles Standard Edition](https://github.com/Kunstmaan/KunstmaanBundlesStandardEdition) ⚠️ Archived
 
 ## Ecommerce
 
-* [Sylius](https://github.com/Sylius/Sylius) ⭐ 8,513 | 🐛 215 | 🌐 PHP | 📅 2026-08-24 - E-Commerce PHP framework built on top of Symfony with component-based architecture and format-agnostic rendering
+* [Sylius](https://github.com/Sylius/Sylius) ⭐ 8,514 | 🐛 215 | 🌐 PHP | 📅 2026-08-25 - E-Commerce PHP framework built on top of Symfony with component-based architecture and format-agnostic rendering
 * [Elcodi](https://github.com/elcodi/elcodi) ⚠️ Archived - E-commerce PHP Components and Symfony Bundles
 * [Bamboo](https://github.com/elcodi/bamboo) ⚠️ Archived -  Full-stack E-commerce application based on Symfony and Elcodi components
 * [Aimeos](https://aimeos.org/Symfony/) - Ultra fast PHP e-commerce framework for #gigacommerce
@@ -240,7 +240,7 @@ Table of contents:
 ## Recipes
 
 * [Symfony Recipes](https://github.com/symfony/recipes) ⭐ 1,025 | 🐛 45 | 🌐 PHP | 📅 2026-08-20 - Symfony recipes allow the automation of Composer packages configuration via the Symfony Flex Composer plugin.
-* [Symfony Recipes (Contrib)](https://github.com/symfony/recipes-contrib) ⭐ 558 | 🐛 1 | 🌐 PHP | 📅 2026-08-24 - Symfony recipes allow the automation of Composer packages configuration via the Symfony Flex Composer plugin.
+* [Symfony Recipes (Contrib)](https://github.com/symfony/recipes-contrib) ⭐ 558 | 🐛 2 | 🌐 PHP | 📅 2026-08-24 - Symfony recipes allow the automation of Composer packages configuration via the Symfony Flex Composer plugin.
 
 ## Resources
 
@@ -250,7 +250,7 @@ Table of contents:
 
 ## Service Container
 
-* [CraueConfigBundle](https://github.com/craue/CraueConfigBundle) ⭐ 175 | 🐛 13 | 🌐 PHP | 📅 2026-08-23 - Manages configuration settings stored in the database and makes them accessible via a service in your Symfony 2 project.
+* [CraueConfigBundle](https://github.com/craue/CraueConfigBundle) ⭐ 175 | 🐛 10 | 🌐 PHP | 📅 2026-08-24 - Manages configuration settings stored in the database and makes them accessible via a service in your Symfony 2 project.
 * [KutnyAutowiringBundle](https://github.com/kutny/autowiring-bundle) ⚠️ Archived - a bundle providing autowiring for service arguments.
 * [JMSDiExtraBundle](http://jmsyst.com/bundles/JMSDiExtraBundle) - Provides Advanced Dependency Injection Features.
 * [PHP-DI](http://php-di.org) - The dependency injection container for humans.
@@ -318,9 +318,9 @@ Table of contents:
 ## Web Services
 
 * [FOSRestBundle](https://github.com/FriendsOfSymfony/FOSRestBundle) ⭐ 2,795 | 🐛 159 | 🌐 PHP | 📅 2026-02-10 - Provides various tools to rapidly develop RESTful API's & applications.
-* [LexikJWTAuthenticationBundle](https://github.com/lexik/LexikJWTAuthenticationBundle) ⭐ 2,607 | 🐛 119 | 🌐 PHP | 📅 2026-07-01 - This bundle provides JWT (Json Web Token) authentication for your REST API using the lcobucci/jwt library.
-* [DunglasApiBundle](https://github.com/dunglas/DunglasApiBundle) ⭐ 2,572 | 🐛 269 | 🌐 PHP | 📅 2026-08-16 - Bundle to build hypermedia-driven REST API.
-* [NelmioApiDocBundle](https://github.com/nelmio/NelmioApiDocBundle) ⭐ 2,363 | 🐛 60 | 🌐 PHP | 📅 2026-08-24 - Generates documentation for your REST API from annotations.
+* [LexikJWTAuthenticationBundle](https://github.com/lexik/LexikJWTAuthenticationBundle) ⭐ 2,608 | 🐛 119 | 🌐 PHP | 📅 2026-07-01 - This bundle provides JWT (Json Web Token) authentication for your REST API using the lcobucci/jwt library.
+* [DunglasApiBundle](https://github.com/dunglas/DunglasApiBundle) ⭐ 2,573 | 🐛 267 | 🌐 PHP | 📅 2026-08-16 - Bundle to build hypermedia-driven REST API.
+* [NelmioApiDocBundle](https://github.com/nelmio/NelmioApiDocBundle) ⭐ 2,364 | 🐛 60 | 🌐 PHP | 📅 2026-08-24 - Generates documentation for your REST API from annotations.
 * [NelmioCorsBundle](https://github.com/nelmio/NelmioCorsBundle) ⭐ 1,925 | 🐛 9 | 🌐 PHP | 📅 2026-01-14 - Adds ability to add CORS-related headers based on simple ACL-style per-URL configurations.
 * [JMSSerializerBundle](https://github.com/schmittjoh/JMSSerializerBundle) ⭐ 1,807 | 🐛 96 | 🌐 PHP | 📅 2026-03-26 - Easily serialize, and deserialize data of any complexity.
 * [FOSOAuthServerBundle](https://github.com/FriendsOfSymfony/FOSOAuthServerBundle) ⭐ 1,078 | 🐛 202 | 🌐 PHP | 📅 2024-01-12 - A server side OAuth2 bundle.
@@ -344,4 +344,4 @@ To the extent possible under law, [Emanuele Minotto](http://emanueleminotto.gith
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-24._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-25._

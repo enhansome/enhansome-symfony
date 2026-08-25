@@ -543,7 +543,7 @@
             "last_commit": "2026-08-24T06:31:59Z",
             "owner": "api-platform",
             "repo": "api-platform",
-            "stars": 9179
+            "stars": 9180
           }
         },
         {
@@ -606,10 +606,10 @@
             "archived": false,
             "id": 2717549,
             "language": "PHP",
-            "last_commit": "2026-08-24T02:29:05Z",
+            "last_commit": "2026-08-25T02:25:53Z",
             "owner": "Sylius",
             "repo": "Sylius",
-            "stars": 8513
+            "stars": 8514
           }
         },
         {
@@ -2208,7 +2208,7 @@
             "archived": false,
             "id": 88190851,
             "language": "PHP",
-            "last_commit": "2026-08-24T10:53:40Z",
+            "last_commit": "2026-08-24T18:19:56Z",
             "owner": "symfony",
             "repo": "recipes-contrib",
             "stars": 558
@@ -2229,7 +2229,7 @@
             "archived": false,
             "id": 2011216,
             "language": "PHP",
-            "last_commit": "2026-08-23T20:35:13Z",
+            "last_commit": "2026-08-24T17:25:28Z",
             "owner": "craue",
             "repo": "CraueConfigBundle",
             "stars": 175
@@ -2958,7 +2958,7 @@
             "last_commit": "2026-07-01T23:42:25Z",
             "owner": "lexik",
             "repo": "LexikJWTAuthenticationBundle",
-            "stars": 2607
+            "stars": 2608
           }
         },
         {
@@ -2973,7 +2973,7 @@
             "last_commit": "2026-08-16T22:00:56Z",
             "owner": "api-platform",
             "repo": "core",
-            "stars": 2572
+            "stars": 2573
           }
         },
         {
@@ -2988,7 +2988,7 @@
             "last_commit": "2026-08-24T03:56:16Z",
             "owner": "nelmio",
             "repo": "NelmioApiDocBundle",
-            "stars": 2363
+            "stars": 2364
           }
         },
         {
@@ -3206,7 +3206,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T14:08:39.790Z",
+    "last_updated": "2026-08-25T06:05:57.724Z",
     "original_repository": "sitepoint-editors/awesome-symfony",
     "original_repository_id": 22654969,
     "original_repository_sha": "754cb6f0d024103dae16e3dc1ca1074806f87d13",
