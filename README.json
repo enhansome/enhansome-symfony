@@ -606,10 +606,10 @@
             "archived": false,
             "id": 2717549,
             "language": "PHP",
-            "last_commit": "2026-08-25T02:25:53Z",
+            "last_commit": "2026-08-26T02:30:13Z",
             "owner": "Sylius",
             "repo": "Sylius",
-            "stars": 8513
+            "stars": 8517
           }
         },
         {
@@ -837,7 +837,7 @@
             "last_commit": "2026-08-20T10:25:19Z",
             "owner": "liip",
             "repo": "LiipImagineBundle",
-            "stars": 1711
+            "stars": 1712
           }
         },
         {
@@ -909,7 +909,7 @@
             "archived": false,
             "id": 13593847,
             "language": "PHP",
-            "last_commit": "2026-08-14T14:09:54Z",
+            "last_commit": "2026-08-26T06:56:23Z",
             "owner": "8p",
             "repo": "EightPointsGuzzleBundle",
             "stars": 445
@@ -999,7 +999,7 @@
             "archived": false,
             "id": 4423633,
             "language": "PHP",
-            "last_commit": "2026-01-13T13:28:01Z",
+            "last_commit": "2026-08-25T21:51:54Z",
             "owner": "beberlei",
             "repo": "metrics",
             "stars": 322
@@ -1014,7 +1014,7 @@
             "archived": false,
             "id": 5328565,
             "language": "PHP",
-            "last_commit": "2026-08-23T02:16:42Z",
+            "last_commit": "2026-08-26T04:22:55Z",
             "owner": "helios-ag",
             "repo": "FMElfinderBundle",
             "stars": 280
@@ -2265,7 +2265,7 @@
             "archived": false,
             "id": 1649191,
             "language": "PHP",
-            "last_commit": "2026-06-14T06:57:42Z",
+            "last_commit": "2026-08-26T06:00:01Z",
             "owner": "doctrine",
             "repo": "DoctrineMigrationsBundle",
             "stars": 4304
@@ -2280,7 +2280,7 @@
             "archived": false,
             "id": 1648795,
             "language": "PHP",
-            "last_commit": "2026-08-11T22:13:18Z",
+            "last_commit": "2026-08-25T22:55:07Z",
             "owner": "doctrine",
             "repo": "DoctrineFixturesBundle",
             "stars": 2533
@@ -2958,7 +2958,7 @@
             "last_commit": "2026-07-01T23:42:25Z",
             "owner": "lexik",
             "repo": "LexikJWTAuthenticationBundle",
-            "stars": 2608
+            "stars": 2609
           }
         },
         {
@@ -2988,7 +2988,7 @@
             "last_commit": "2026-08-24T03:56:16Z",
             "owner": "nelmio",
             "repo": "NelmioApiDocBundle",
-            "stars": 2364
+            "stars": 2365
           }
         },
         {
@@ -3206,7 +3206,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T10:04:05.818Z",
+    "last_updated": "2026-08-26T10:15:56.045Z",
     "original_repository": "sitepoint-editors/awesome-symfony",
     "original_repository_id": 22654969,
     "original_repository_sha": "754cb6f0d024103dae16e3dc1ca1074806f87d13",
