@@ -177,7 +177,7 @@
             "last_commit": "2026-06-29T19:31:59Z",
             "owner": "liip",
             "repo": "LiipFunctionalTestBundle",
-            "stars": 649
+            "stars": 648
           }
         },
         {
@@ -543,7 +543,7 @@
             "last_commit": "2026-08-24T06:31:59Z",
             "owner": "api-platform",
             "repo": "api-platform",
-            "stars": 9180
+            "stars": 9179
           }
         },
         {
@@ -606,10 +606,10 @@
             "archived": false,
             "id": 2717549,
             "language": "PHP",
-            "last_commit": "2026-08-26T02:30:13Z",
+            "last_commit": "2026-08-27T03:44:33Z",
             "owner": "Sylius",
             "repo": "Sylius",
-            "stars": 8517
+            "stars": 8516
           }
         },
         {
@@ -909,7 +909,7 @@
             "archived": false,
             "id": 13593847,
             "language": "PHP",
-            "last_commit": "2026-08-26T06:56:23Z",
+            "last_commit": "2026-08-27T08:55:36Z",
             "owner": "8p",
             "repo": "EightPointsGuzzleBundle",
             "stars": 445
@@ -999,10 +999,10 @@
             "archived": false,
             "id": 4423633,
             "language": "PHP",
-            "last_commit": "2026-08-25T21:51:54Z",
+            "last_commit": "2026-08-27T12:01:37Z",
             "owner": "beberlei",
             "repo": "metrics",
-            "stars": 322
+            "stars": 323
           }
         },
         {
@@ -1014,7 +1014,7 @@
             "archived": false,
             "id": 5328565,
             "language": "PHP",
-            "last_commit": "2026-08-26T04:22:55Z",
+            "last_commit": "2026-08-27T09:40:29Z",
             "owner": "helios-ag",
             "repo": "FMElfinderBundle",
             "stars": 280
@@ -2208,7 +2208,7 @@
             "archived": false,
             "id": 88190851,
             "language": "PHP",
-            "last_commit": "2026-08-25T09:38:54Z",
+            "last_commit": "2026-08-27T12:05:36Z",
             "owner": "symfony",
             "repo": "recipes-contrib",
             "stars": 558
@@ -2958,7 +2958,7 @@
             "last_commit": "2026-07-01T23:42:25Z",
             "owner": "lexik",
             "repo": "LexikJWTAuthenticationBundle",
-            "stars": 2609
+            "stars": 2608
           }
         },
         {
@@ -2973,7 +2973,7 @@
             "last_commit": "2026-08-16T22:00:56Z",
             "owner": "api-platform",
             "repo": "core",
-            "stars": 2573
+            "stars": 2572
           }
         },
         {
@@ -3206,9 +3206,16 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-26T10:15:56.045Z",
-    "original_repository": "sitepoint-editors/awesome-symfony",
-    "original_repository_id": 22654969,
+    "last_updated": "2026-08-27T12:07:48.496Z",
+    "original_repository_info": {
+      "archived": false,
+      "id": 22654969,
+      "language": null,
+      "last_commit": "2023-02-22T09:22:45Z",
+      "owner": "sitepoint-editors",
+      "repo": "awesome-symfony",
+      "stars": 1573
+    },
     "original_repository_sha": "754cb6f0d024103dae16e3dc1ca1074806f87d13",
     "enhanced_repository": "enhansome/enhansome-symfony",
     "enhanced_repository_description": null,
