@@ -15,7 +15,7 @@
             "last_commit": "2026-06-04T03:13:59Z",
             "owner": "sonata-project",
             "repo": "SonataAdminBundle",
-            "stars": 2126
+            "stars": 2127
           }
         },
         {
@@ -141,7 +141,7 @@
             "last_commit": "2022-10-01T22:00:54Z",
             "owner": "certificationy",
             "repo": "certificationy-cli",
-            "stars": 434
+            "stars": 433
           }
         },
         {
@@ -909,7 +909,7 @@
             "archived": false,
             "id": 13593847,
             "language": "PHP",
-            "last_commit": "2026-08-27T08:55:36Z",
+            "last_commit": "2026-08-27T17:56:43Z",
             "owner": "8p",
             "repo": "EightPointsGuzzleBundle",
             "stars": 445
@@ -999,7 +999,7 @@
             "archived": false,
             "id": 4423633,
             "language": "PHP",
-            "last_commit": "2026-08-27T12:01:37Z",
+            "last_commit": "2026-08-27T14:39:28Z",
             "owner": "beberlei",
             "repo": "metrics",
             "stars": 323
@@ -2100,7 +2100,7 @@
             "last_commit": "2025-12-22T17:06:17Z",
             "owner": "php-enqueue",
             "repo": "enqueue-dev",
-            "stars": 2219
+            "stars": 2220
           }
         },
         {
@@ -2193,7 +2193,7 @@
             "archived": false,
             "id": 79607905,
             "language": "PHP",
-            "last_commit": "2026-08-20T11:19:51Z",
+            "last_commit": "2026-08-27T19:47:23Z",
             "owner": "symfony",
             "repo": "recipes",
             "stars": 1025
@@ -3206,7 +3206,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T12:07:48.496Z",
+    "last_updated": "2026-08-27T19:58:28.740Z",
     "original_repository_info": {
       "archived": false,
       "id": 22654969,
