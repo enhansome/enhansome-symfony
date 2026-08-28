@@ -16,7 +16,8 @@
             "owner": "sonata-project",
             "repo": "SonataAdminBundle",
             "stars": 2127
-          }
+          },
+          "first_seen": "2026-08-28T20:59:04.761Z"
         },
         {
           "node_type": "item",
@@ -31,7 +32,8 @@
             "owner": "symfony2admingenerator",
             "repo": "AdmingeneratorGeneratorBundle",
             "stars": 359
-          }
+          },
+          "first_seen": "2026-08-28T20:59:04.761Z"
         },
         {
           "node_type": "item",
@@ -46,7 +48,8 @@
             "owner": "kevinpapst",
             "repo": "AdminLTEBundle",
             "stars": 211
-          }
+          },
+          "first_seen": "2026-08-28T20:59:04.761Z"
         },
         {
           "node_type": "item",
@@ -61,7 +64,8 @@
             "owner": "acantepie",
             "repo": "umbrella-admin-bundle",
             "stars": 146
-          }
+          },
+          "first_seen": "2026-08-28T20:59:04.761Z"
         },
         {
           "node_type": "item",
@@ -76,7 +80,8 @@
             "owner": "kevinpapst",
             "repo": "TablerBundle",
             "stars": 133
-          }
+          },
+          "first_seen": "2026-08-28T20:59:04.761Z"
         },
         {
           "node_type": "item",
@@ -91,7 +96,8 @@
             "owner": "javiereguiluz",
             "repo": "EasyAdminBundle",
             "stars": 22
-          }
+          },
+          "first_seen": "2026-08-28T20:59:04.761Z"
         },
         {
           "node_type": "item",
@@ -106,7 +112,8 @@
             "owner": "MWSimple",
             "repo": "AdminCrudBundle",
             "stars": 20
-          }
+          },
+          "first_seen": "2026-08-28T20:59:04.761Z"
         }
       ],
       "title": "Administration"
@@ -126,8 +133,9 @@
             "last_commit": "2024-04-27T19:25:49Z",
             "owner": "ThomasBerends",
             "repo": "symfony-certification-preparation-list",
-            "stars": 693
-          }
+            "stars": 692
+          },
+          "first_seen": "2026-08-28T20:59:04.761Z"
         },
         {
           "node_type": "item",
@@ -142,7 +150,8 @@
             "owner": "certificationy",
             "repo": "certificationy-cli",
             "stars": 433
-          }
+          },
+          "first_seen": "2026-08-28T20:59:04.761Z"
         },
         {
           "node_type": "item",
@@ -157,7 +166,8 @@
             "owner": "raulconti",
             "repo": "symfony-3-certification-guide",
             "stars": 140
-          }
+          },
+          "first_seen": "2026-08-28T20:59:04.761Z"
         }
       ],
       "title": "Certification"
@@ -178,7 +188,8 @@
             "owner": "liip",
             "repo": "LiipFunctionalTestBundle",
             "stars": 648
-          }
+          },
+          "first_seen": "2026-08-28T20:59:04.761Z"
         },
         {
           "node_type": "item",
@@ -193,7 +204,8 @@
             "owner": "raulfraile",
             "repo": "LadybugBundle",
             "stars": 325
-          }
+          },
+          "first_seen": "2026-08-28T20:59:04.761Z"
         },
         {
           "node_type": "item",
@@ -208,7 +220,8 @@
             "owner": "Elao",
             "repo": "WebProfilerExtraBundle",
             "stars": 261
-          }
+          },
+          "first_seen": "2026-08-28T20:59:04.761Z"
         },
         {
           "node_type": "item",
@@ -223,7 +236,8 @@
             "owner": "dunglas",
             "repo": "DunglasActionBundle",
             "stars": 255
-          }
+          },
+          "first_seen": "2026-08-28T20:59:04.761Z"
         },
         {
           "node_type": "item",
@@ -238,7 +252,8 @@
             "owner": "jonaswouters",
             "repo": "XhprofBundle",
             "stars": 208
-          }
+          },
+          "first_seen": "2026-08-28T20:59:04.761Z"
         },
         {
           "node_type": "item",
@@ -253,7 +268,8 @@
             "owner": "theofidry",
             "repo": "PsyshBundle",
             "stars": 207
-          }
+          },
+          "first_seen": "2026-08-28T20:59:04.761Z"
         },
         {
           "node_type": "item",
@@ -268,7 +284,8 @@
             "owner": "liuggio",
             "repo": "StatsDClientBundle",
             "stars": 164
-          }
+          },
+          "first_seen": "2026-08-28T20:59:04.761Z"
         },
         {
           "node_type": "item",
@@ -283,7 +300,8 @@
             "owner": "mmoreram",
             "repo": "ControllerExtraBundle",
             "stars": 151
-          }
+          },
+          "first_seen": "2026-08-28T20:59:04.761Z"
         },
         {
           "node_type": "item",
@@ -298,7 +316,8 @@
             "owner": "BedrockStreaming",
             "repo": "ApiExceptionBundle",
             "stars": 65
-          }
+          },
+          "first_seen": "2026-08-28T20:59:04.761Z"
         },
         {
           "node_type": "item",
@@ -313,7 +332,8 @@
             "owner": "webfactory",
             "repo": "exceptions-bundle",
             "stars": 62
-          }
+          },
+          "first_seen": "2026-08-28T20:59:04.761Z"
         },
         {
           "node_type": "item",
@@ -328,7 +348,8 @@
             "owner": "egulias",
             "repo": "ListenersDebugCommandBundle",
             "stars": 56
-          }
+          },
+          "first_seen": "2026-08-28T20:59:04.761Z"
         },
         {
           "node_type": "item",
@@ -343,7 +364,8 @@
             "owner": "PUGX",
             "repo": "PUGXGeneratorBundle",
             "stars": 56
-          }
+          },
+          "first_seen": "2026-08-28T20:59:04.761Z"
         },
         {
           "node_type": "item",
@@ -358,7 +380,8 @@
             "owner": "phpmetrics",
             "repo": "PhpMetricsCollectorBundle",
             "stars": 51
-          }
+          },
+          "first_seen": "2026-08-28T20:59:04.761Z"
         },
         {
           "node_type": "item",
@@ -373,7 +396,8 @@
             "owner": "linaori",
             "repo": "http-bundle",
             "stars": 39
-          }
+          },
+          "first_seen": "2026-08-28T20:59:04.761Z"
         },
         {
           "node_type": "item",
@@ -388,7 +412,8 @@
             "owner": "liip",
             "repo": "LiipCodeBundle",
             "stars": 25
-          }
+          },
+          "first_seen": "2026-08-28T20:59:04.761Z"
         },
         {
           "node_type": "item",
@@ -403,7 +428,8 @@
             "owner": "yamiko-ninja",
             "repo": "CacheAdministrationBundle",
             "stars": 18
-          }
+          },
+          "first_seen": "2026-08-28T20:59:04.761Z"
         },
         {
           "node_type": "item",
@@ -418,7 +444,8 @@
             "owner": "danrevah",
             "repo": "sandbox-bundle",
             "stars": 18
-          }
+          },
+          "first_seen": "2026-08-28T20:59:04.761Z"
         },
         {
           "node_type": "item",
@@ -433,7 +460,8 @@
             "owner": "Bee-Lab",
             "repo": "BeelabTestBundle",
             "stars": 17
-          }
+          },
+          "first_seen": "2026-08-28T20:59:04.761Z"
         },
         {
           "node_type": "item",
@@ -448,7 +476,8 @@
             "owner": "jakzal",
             "repo": "ParamConverterBundle",
             "stars": 16
-          }
+          },
+          "first_seen": "2026-08-28T20:59:04.761Z"
         },
         {
           "node_type": "item",
@@ -463,7 +492,8 @@
             "owner": "antarestupin",
             "repo": "AccessibleBundle",
             "stars": 15
-          }
+          },
+          "first_seen": "2026-08-28T20:59:04.761Z"
         },
         {
           "node_type": "item",
@@ -478,7 +508,8 @@
             "owner": "arnaud-lb",
             "repo": "TwigReflectionBundle",
             "stars": 15
-          }
+          },
+          "first_seen": "2026-08-28T20:59:04.761Z"
         },
         {
           "node_type": "item",
@@ -493,7 +524,8 @@
             "owner": "egulias",
             "repo": "TagDebugCommandBundle",
             "stars": 8
-          }
+          },
+          "first_seen": "2026-08-28T20:59:04.761Z"
         },
         {
           "node_type": "item",
@@ -508,7 +540,8 @@
             "owner": "gnugat",
             "repo": "redaktilo-bundle",
             "stars": 6
-          }
+          },
+          "first_seen": "2026-08-28T20:59:04.761Z"
         },
         {
           "node_type": "item",
@@ -523,7 +556,8 @@
             "owner": "AppVentus",
             "repo": "AvAjaxBundle",
             "stars": 1
-          }
+          },
+          "first_seen": "2026-08-28T20:59:04.761Z"
         }
       ],
       "title": "Development"
@@ -543,8 +577,9 @@
             "last_commit": "2026-08-24T06:31:59Z",
             "owner": "api-platform",
             "repo": "api-platform",
-            "stars": 9179
-          }
+            "stars": 9180
+          },
+          "first_seen": "2026-08-28T20:59:04.761Z"
         },
         {
           "node_type": "item",
@@ -559,7 +594,8 @@
             "owner": "symfony",
             "repo": "symfony-standard",
             "stars": 1475
-          }
+          },
+          "first_seen": "2026-08-28T20:59:04.761Z"
         },
         {
           "node_type": "item",
@@ -574,7 +610,8 @@
             "owner": "symfony-cmf",
             "repo": "standard-edition",
             "stars": 116
-          }
+          },
+          "first_seen": "2026-08-28T20:59:04.761Z"
         },
         {
           "node_type": "item",
@@ -589,7 +626,8 @@
             "owner": "Kunstmaan",
             "repo": "KunstmaanBundlesStandardEdition",
             "stars": 90
-          }
+          },
+          "first_seen": "2026-08-28T20:59:04.761Z"
         }
       ],
       "title": "Distributions"
@@ -606,11 +644,12 @@
             "archived": false,
             "id": 2717549,
             "language": "PHP",
-            "last_commit": "2026-08-27T03:44:33Z",
+            "last_commit": "2026-08-28T04:41:49Z",
             "owner": "Sylius",
             "repo": "Sylius",
-            "stars": 8516
-          }
+            "stars": 8517
+          },
+          "first_seen": "2026-08-28T20:59:04.761Z"
         },
         {
           "node_type": "item",
@@ -625,7 +664,8 @@
             "owner": "elcodi",
             "repo": "elcodi",
             "stars": 421
-          }
+          },
+          "first_seen": "2026-08-28T20:59:04.761Z"
         },
         {
           "node_type": "item",
@@ -640,7 +680,8 @@
             "owner": "elcodi",
             "repo": "bamboo",
             "stars": 197
-          }
+          },
+          "first_seen": "2026-08-28T20:59:04.761Z"
         }
       ],
       "title": "Ecommerce"
@@ -661,7 +702,8 @@
             "owner": "craue",
             "repo": "CraueFormFlowBundle",
             "stars": 749
-          }
+          },
+          "first_seen": "2026-08-28T20:59:04.761Z"
         },
         {
           "node_type": "item",
@@ -676,7 +718,8 @@
             "owner": "lexik",
             "repo": "LexikFormFilterBundle",
             "stars": 387
-          }
+          },
+          "first_seen": "2026-08-28T20:59:04.761Z"
         },
         {
           "node_type": "item",
@@ -691,7 +734,8 @@
             "owner": "egeloen",
             "repo": "IvoryCKEditorBundle",
             "stars": 333
-          }
+          },
+          "first_seen": "2026-08-28T20:59:04.761Z"
         },
         {
           "node_type": "item",
@@ -706,7 +750,8 @@
             "owner": "karser",
             "repo": "KarserRecaptcha3Bundle",
             "stars": 187
-          }
+          },
+          "first_seen": "2026-08-28T20:59:04.761Z"
         },
         {
           "node_type": "item",
@@ -721,7 +766,8 @@
             "owner": "infinite-networks",
             "repo": "InfiniteFormBundle",
             "stars": 169
-          }
+          },
+          "first_seen": "2026-08-28T20:59:04.761Z"
         },
         {
           "node_type": "item",
@@ -736,7 +782,8 @@
             "owner": "egeloen",
             "repo": "IvoryOrderedFormBundle",
             "stars": 48
-          }
+          },
+          "first_seen": "2026-08-28T20:59:04.761Z"
         }
       ],
       "title": "Forms"
@@ -757,7 +804,8 @@
             "owner": "willdurand",
             "repo": "BazingaJsTranslationBundle",
             "stars": 584
-          }
+          },
+          "first_seen": "2026-08-28T20:59:04.761Z"
         },
         {
           "node_type": "item",
@@ -772,7 +820,8 @@
             "owner": "lexik",
             "repo": "LexikTranslationBundle",
             "stars": 438
-          }
+          },
+          "first_seen": "2026-08-28T20:59:04.761Z"
         },
         {
           "node_type": "item",
@@ -787,7 +836,8 @@
             "owner": "a2lix",
             "repo": "TranslationFormBundle",
             "stars": 337
-          }
+          },
+          "first_seen": "2026-08-28T20:59:04.761Z"
         },
         {
           "node_type": "item",
@@ -802,7 +852,8 @@
             "owner": "lunetics-org",
             "repo": "LocaleBundle",
             "stars": 186
-          }
+          },
+          "first_seen": "2026-08-28T20:59:04.761Z"
         },
         {
           "node_type": "item",
@@ -817,7 +868,8 @@
             "owner": "lunetics",
             "repo": "TimezoneBundle",
             "stars": 26
-          }
+          },
+          "first_seen": "2026-08-28T20:59:04.761Z"
         }
       ],
       "title": "Internationalization"
@@ -837,8 +889,9 @@
             "last_commit": "2026-08-20T10:25:19Z",
             "owner": "liip",
             "repo": "LiipImagineBundle",
-            "stars": 1712
-          }
+            "stars": 1711
+          },
+          "first_seen": "2026-08-28T20:59:04.761Z"
         },
         {
           "node_type": "item",
@@ -853,7 +906,8 @@
             "owner": "KnpLabs",
             "repo": "KnpSnappyBundle",
             "stars": 1247
-          }
+          },
+          "first_seen": "2026-08-28T20:59:04.761Z"
         },
         {
           "node_type": "item",
@@ -868,7 +922,8 @@
             "owner": "1up-lab",
             "repo": "OneupUploaderBundle",
             "stars": 605
-          }
+          },
+          "first_seen": "2026-08-28T20:59:04.761Z"
         },
         {
           "node_type": "item",
@@ -883,7 +938,8 @@
             "owner": "APY",
             "repo": "APYDataGridBundle",
             "stars": 492
-          }
+          },
+          "first_seen": "2026-08-28T20:59:04.761Z"
         },
         {
           "node_type": "item",
@@ -898,7 +954,8 @@
             "owner": "misd-service-development",
             "repo": "phone-number-bundle",
             "stars": 454
-          }
+          },
+          "first_seen": "2026-08-28T20:59:04.761Z"
         },
         {
           "node_type": "item",
@@ -909,11 +966,12 @@
             "archived": false,
             "id": 13593847,
             "language": "PHP",
-            "last_commit": "2026-08-27T17:56:43Z",
+            "last_commit": "2026-08-28T08:03:05Z",
             "owner": "8p",
             "repo": "EightPointsGuzzleBundle",
             "stars": 445
-          }
+          },
+          "first_seen": "2026-08-28T20:59:04.761Z"
         },
         {
           "node_type": "item",
@@ -928,7 +986,8 @@
             "owner": "KnpLabs",
             "repo": "KnpMarkdownBundle",
             "stars": 412
-          }
+          },
+          "first_seen": "2026-08-28T20:59:04.761Z"
         },
         {
           "node_type": "item",
@@ -943,7 +1002,8 @@
             "owner": "braincrafted",
             "repo": "bootstrap-bundle",
             "stars": 392
-          }
+          },
+          "first_seen": "2026-08-28T20:59:04.761Z"
         },
         {
           "node_type": "item",
@@ -958,7 +1018,8 @@
             "owner": "suncat2000",
             "repo": "MobileDetectBundle",
             "stars": 392
-          }
+          },
+          "first_seen": "2026-08-28T20:59:04.761Z"
         },
         {
           "node_type": "item",
@@ -973,7 +1034,8 @@
             "owner": "liuggio",
             "repo": "ExcelBundle",
             "stars": 370
-          }
+          },
+          "first_seen": "2026-08-28T20:59:04.761Z"
         },
         {
           "node_type": "item",
@@ -988,7 +1050,8 @@
             "owner": "geocoder-php",
             "repo": "BazingaGeocoderBundle",
             "stars": 323
-          }
+          },
+          "first_seen": "2026-08-28T20:59:04.761Z"
         },
         {
           "node_type": "item",
@@ -999,11 +1062,12 @@
             "archived": false,
             "id": 4423633,
             "language": "PHP",
-            "last_commit": "2026-08-27T14:39:28Z",
+            "last_commit": "2026-08-28T14:51:01Z",
             "owner": "beberlei",
             "repo": "metrics",
             "stars": 323
-          }
+          },
+          "first_seen": "2026-08-28T20:59:04.761Z"
         },
         {
           "node_type": "item",
@@ -1014,11 +1078,12 @@
             "archived": false,
             "id": 5328565,
             "language": "PHP",
-            "last_commit": "2026-08-27T09:40:29Z",
+            "last_commit": "2026-08-28T07:21:25Z",
             "owner": "helios-ag",
             "repo": "FMElfinderBundle",
             "stars": 280
-          }
+          },
+          "first_seen": "2026-08-28T20:59:04.761Z"
         },
         {
           "node_type": "item",
@@ -1033,7 +1098,8 @@
             "owner": "willdurand",
             "repo": "BazingaFakerBundle",
             "stars": 276
-          }
+          },
+          "first_seen": "2026-08-28T20:59:04.761Z"
         },
         {
           "node_type": "item",
@@ -1048,7 +1114,8 @@
             "owner": "lexik",
             "repo": "LexikMaintenanceBundle",
             "stars": 255
-          }
+          },
+          "first_seen": "2026-08-28T20:59:04.761Z"
         },
         {
           "node_type": "item",
@@ -1063,7 +1130,8 @@
             "owner": "csarrazi",
             "repo": "CsaGuzzleBundle",
             "stars": 250
-          }
+          },
+          "first_seen": "2026-08-28T20:59:04.761Z"
         },
         {
           "node_type": "item",
@@ -1078,7 +1146,8 @@
             "owner": "BabDev",
             "repo": "PagerfantaBundle",
             "stars": 210
-          }
+          },
+          "first_seen": "2026-08-28T20:59:04.761Z"
         },
         {
           "node_type": "item",
@@ -1093,7 +1162,8 @@
             "owner": "dizda",
             "repo": "CloudBackupBundle",
             "stars": 196
-          }
+          },
+          "first_seen": "2026-08-28T20:59:04.761Z"
         },
         {
           "node_type": "item",
@@ -1108,7 +1178,8 @@
             "owner": "TheBigBrainsCompany",
             "repo": "TbbcMoneyBundle",
             "stars": 196
-          }
+          },
+          "first_seen": "2026-08-28T20:59:04.761Z"
         },
         {
           "node_type": "item",
@@ -1123,7 +1194,8 @@
             "owner": "stephpy",
             "repo": "timeline-bundle",
             "stars": 191
-          }
+          },
+          "first_seen": "2026-08-28T20:59:04.761Z"
         },
         {
           "node_type": "item",
@@ -1138,7 +1210,8 @@
             "owner": "marcaube",
             "repo": "ObHighchartsBundle",
             "stars": 163
-          }
+          },
+          "first_seen": "2026-08-28T20:59:04.761Z"
         },
         {
           "node_type": "item",
@@ -1153,7 +1226,8 @@
             "owner": "CoreSphere",
             "repo": "ConsoleBundle",
             "stars": 140
-          }
+          },
+          "first_seen": "2026-08-28T20:59:04.761Z"
         },
         {
           "node_type": "item",
@@ -1168,7 +1242,8 @@
             "owner": "alexdebril",
             "repo": "rss-atom-bundle",
             "stars": 138
-          }
+          },
+          "first_seen": "2026-08-28T20:59:04.761Z"
         },
         {
           "node_type": "item",
@@ -1183,7 +1258,8 @@
             "owner": "rvanlaak",
             "repo": "SettingsBundle",
             "stars": 114
-          }
+          },
+          "first_seen": "2026-08-28T20:59:04.761Z"
         },
         {
           "node_type": "item",
@@ -1198,7 +1274,8 @@
             "owner": "shivas",
             "repo": "versioning-bundle",
             "stars": 110
-          }
+          },
+          "first_seen": "2026-08-28T20:59:04.761Z"
         },
         {
           "node_type": "item",
@@ -1213,7 +1290,8 @@
             "owner": "misd-service-development",
             "repo": "guzzle-bundle",
             "stars": 99
-          }
+          },
+          "first_seen": "2026-08-28T20:59:04.761Z"
         },
         {
           "node_type": "item",
@@ -1228,7 +1306,8 @@
             "owner": "voryx",
             "repo": "ThruwayBundle",
             "stars": 98
-          }
+          },
+          "first_seen": "2026-08-28T20:59:04.761Z"
         },
         {
           "node_type": "item",
@@ -1243,7 +1322,8 @@
             "owner": "APY",
             "repo": "APYBreadcrumbTrailBundle",
             "stars": 84
-          }
+          },
+          "first_seen": "2026-08-28T20:59:04.761Z"
         },
         {
           "node_type": "item",
@@ -1258,7 +1338,8 @@
             "owner": "kitpages",
             "repo": "KitpagesDataGridBundle",
             "stars": 77
-          }
+          },
+          "first_seen": "2026-08-28T20:59:04.761Z"
         },
         {
           "node_type": "item",
@@ -1273,7 +1354,8 @@
             "owner": "mhujer",
             "repo": "BreadcrumbsBundle",
             "stars": 70
-          }
+          },
+          "first_seen": "2026-08-28T20:59:04.761Z"
         },
         {
           "node_type": "item",
@@ -1288,7 +1370,8 @@
             "owner": "florianv",
             "repo": "symfony-swap",
             "stars": 63
-          }
+          },
+          "first_seen": "2026-08-28T20:59:04.761Z"
         },
         {
           "node_type": "item",
@@ -1303,7 +1386,8 @@
             "owner": "pulse00",
             "repo": "ffmpeg-bundle",
             "stars": 57
-          }
+          },
+          "first_seen": "2026-08-28T20:59:04.761Z"
         },
         {
           "node_type": "item",
@@ -1318,7 +1402,8 @@
             "owner": "helios-ag",
             "repo": "FMBbCodeBundle",
             "stars": 56
-          }
+          },
+          "first_seen": "2026-08-28T20:59:04.761Z"
         },
         {
           "node_type": "item",
@@ -1333,7 +1418,8 @@
             "owner": "liip",
             "repo": "LiipUrlAutoConverterBundle",
             "stars": 49
-          }
+          },
+          "first_seen": "2026-08-28T20:59:04.761Z"
         },
         {
           "node_type": "item",
@@ -1348,7 +1434,8 @@
             "owner": "timewasted",
             "repo": "Search-SphinxsearchBundle",
             "stars": 40
-          }
+          },
+          "first_seen": "2026-08-28T20:59:04.761Z"
         },
         {
           "node_type": "item",
@@ -1363,7 +1450,8 @@
             "owner": "marekkalnik",
             "repo": "FeatureToggleBundle",
             "stars": 37
-          }
+          },
+          "first_seen": "2026-08-28T20:59:04.761Z"
         },
         {
           "node_type": "item",
@@ -1378,7 +1466,8 @@
             "owner": "TheBigBrainsCompany",
             "repo": "TbbcCacheBundle",
             "stars": 36
-          }
+          },
+          "first_seen": "2026-08-28T20:59:04.761Z"
         },
         {
           "node_type": "item",
@@ -1393,7 +1482,8 @@
             "owner": "stfalcon",
             "repo": "BlogBundle",
             "stars": 33
-          }
+          },
+          "first_seen": "2026-08-28T20:59:04.761Z"
         },
         {
           "node_type": "item",
@@ -1408,7 +1498,8 @@
             "owner": "IAkumaI",
             "repo": "SphinxsearchBundle",
             "stars": 27
-          }
+          },
+          "first_seen": "2026-08-28T20:59:04.761Z"
         },
         {
           "node_type": "item",
@@ -1423,7 +1514,8 @@
             "owner": "wjzijderveld",
             "repo": "CheckBundles",
             "stars": 25
-          }
+          },
+          "first_seen": "2026-08-28T20:59:04.761Z"
         },
         {
           "node_type": "item",
@@ -1438,7 +1530,8 @@
             "owner": "PUGX",
             "repo": "godfather",
             "stars": 25
-          }
+          },
+          "first_seen": "2026-08-28T20:59:04.761Z"
         },
         {
           "node_type": "item",
@@ -1453,7 +1546,8 @@
             "owner": "paterik",
             "repo": "BGBarcodeBundle",
             "stars": 24
-          }
+          },
+          "first_seen": "2026-08-28T20:59:04.761Z"
         },
         {
           "node_type": "item",
@@ -1468,7 +1562,8 @@
             "owner": "gnugat-legacy",
             "repo": "GnugatWizardBundle",
             "stars": 22
-          }
+          },
+          "first_seen": "2026-08-28T20:59:04.761Z"
         },
         {
           "node_type": "item",
@@ -1483,7 +1578,8 @@
             "owner": "gordalina",
             "repo": "CacheToolBundle",
             "stars": 18
-          }
+          },
+          "first_seen": "2026-08-28T20:59:04.761Z"
         },
         {
           "node_type": "item",
@@ -1498,7 +1594,8 @@
             "owner": "vivait",
             "repo": "StringGeneratorBundle",
             "stars": 17
-          }
+          },
+          "first_seen": "2026-08-28T20:59:04.761Z"
         },
         {
           "node_type": "item",
@@ -1513,7 +1610,8 @@
             "owner": "jaytaph",
             "repo": "MultiParamBundle",
             "stars": 16
-          }
+          },
+          "first_seen": "2026-08-28T20:59:04.761Z"
         },
         {
           "node_type": "item",
@@ -1528,7 +1626,8 @@
             "owner": "Visithor",
             "repo": "VisithorBundle",
             "stars": 16
-          }
+          },
+          "first_seen": "2026-08-28T20:59:04.761Z"
         },
         {
           "node_type": "item",
@@ -1543,7 +1642,8 @@
             "owner": "lightsuner",
             "repo": "CarbonBundle",
             "stars": 15
-          }
+          },
+          "first_seen": "2026-08-28T20:59:04.761Z"
         },
         {
           "node_type": "item",
@@ -1558,7 +1658,8 @@
             "owner": "lhpalacio",
             "repo": "BackupManagerBundle",
             "stars": 13
-          }
+          },
+          "first_seen": "2026-08-28T20:59:04.761Z"
         },
         {
           "node_type": "item",
@@ -1573,7 +1674,8 @@
             "owner": "browscap",
             "repo": "BrowscapBundle",
             "stars": 13
-          }
+          },
+          "first_seen": "2026-08-28T20:59:04.761Z"
         },
         {
           "node_type": "item",
@@ -1588,7 +1690,8 @@
             "owner": "anacona16",
             "repo": "ImageCropBundle",
             "stars": 13
-          }
+          },
+          "first_seen": "2026-08-28T20:59:04.761Z"
         },
         {
           "node_type": "item",
@@ -1603,7 +1706,8 @@
             "owner": "fabstei",
             "repo": "shorturl-bundle",
             "stars": 12
-          }
+          },
+          "first_seen": "2026-08-28T20:59:04.761Z"
         },
         {
           "node_type": "item",
@@ -1618,7 +1722,8 @@
             "owner": "widop",
             "repo": "WidopFrameworkExtraBundle",
             "stars": 11
-          }
+          },
+          "first_seen": "2026-08-28T20:59:04.761Z"
         },
         {
           "node_type": "item",
@@ -1633,7 +1738,8 @@
             "owner": "EGYG33K",
             "repo": "CsvBundle",
             "stars": 9
-          }
+          },
+          "first_seen": "2026-08-28T20:59:04.761Z"
         },
         {
           "node_type": "item",
@@ -1648,7 +1754,8 @@
             "owner": "mops1k",
             "repo": "request-object-resolver-bundle",
             "stars": 9
-          }
+          },
+          "first_seen": "2026-08-28T20:59:04.761Z"
         },
         {
           "node_type": "item",
@@ -1663,7 +1770,8 @@
             "owner": "hilobok",
             "repo": "AnhTaggableBundle",
             "stars": 6
-          }
+          },
+          "first_seen": "2026-08-28T20:59:04.761Z"
         },
         {
           "node_type": "item",
@@ -1678,7 +1786,8 @@
             "owner": "AppVentus",
             "repo": "AvListBundle",
             "stars": 6
-          }
+          },
+          "first_seen": "2026-08-28T20:59:04.761Z"
         },
         {
           "node_type": "item",
@@ -1693,7 +1802,8 @@
             "owner": "michelsalib",
             "repo": "BCCMyrrixBundle",
             "stars": 6
-          }
+          },
+          "first_seen": "2026-08-28T20:59:04.761Z"
         },
         {
           "node_type": "item",
@@ -1708,7 +1818,8 @@
             "owner": "kayue",
             "repo": "KayueEssenceBundle",
             "stars": 6
-          }
+          },
+          "first_seen": "2026-08-28T20:59:04.761Z"
         },
         {
           "node_type": "item",
@@ -1723,7 +1834,8 @@
             "owner": "mhor",
             "repo": "MhorMediaInfoBundle",
             "stars": 6
-          }
+          },
+          "first_seen": "2026-08-28T20:59:04.761Z"
         },
         {
           "node_type": "item",
@@ -1738,7 +1850,8 @@
             "owner": "Prezent",
             "repo": "prezent-grid-bundle",
             "stars": 6
-          }
+          },
+          "first_seen": "2026-08-28T20:59:04.761Z"
         },
         {
           "node_type": "item",
@@ -1753,7 +1866,8 @@
             "owner": "camdram",
             "repo": "sphinx-realtime-bundle",
             "stars": 5
-          }
+          },
+          "first_seen": "2026-08-28T20:59:04.761Z"
         },
         {
           "node_type": "item",
@@ -1768,7 +1882,8 @@
             "owner": "wozbe",
             "repo": "WozbeRedirectBundle",
             "stars": 5
-          }
+          },
+          "first_seen": "2026-08-28T20:59:04.761Z"
         },
         {
           "node_type": "item",
@@ -1783,7 +1898,8 @@
             "owner": "AppVentus",
             "repo": "AviaryBundle",
             "stars": 4
-          }
+          },
+          "first_seen": "2026-08-28T20:59:04.761Z"
         },
         {
           "node_type": "item",
@@ -1798,7 +1914,8 @@
             "owner": "arnaud-lb",
             "repo": "HTMLPurifierBundle",
             "stars": 4
-          }
+          },
+          "first_seen": "2026-08-28T20:59:04.761Z"
         },
         {
           "node_type": "item",
@@ -1813,7 +1930,8 @@
             "owner": "J3-Tech",
             "repo": "TransmissionBundle",
             "stars": 4
-          }
+          },
+          "first_seen": "2026-08-28T20:59:04.761Z"
         },
         {
           "node_type": "item",
@@ -1828,7 +1946,8 @@
             "owner": "flint",
             "repo": "AntennaBundle",
             "stars": 3
-          }
+          },
+          "first_seen": "2026-08-28T20:59:04.761Z"
         },
         {
           "node_type": "item",
@@ -1843,7 +1962,8 @@
             "owner": "misd-service-development",
             "repo": "highcharts-bundle",
             "stars": 3
-          }
+          },
+          "first_seen": "2026-08-28T20:59:04.761Z"
         },
         {
           "node_type": "item",
@@ -1858,7 +1978,8 @@
             "owner": "EmanueleMinotto",
             "repo": "EmbedlyBundle",
             "stars": 2
-          }
+          },
+          "first_seen": "2026-08-28T20:59:04.761Z"
         },
         {
           "node_type": "item",
@@ -1873,7 +1994,8 @@
             "owner": "EmanueleMinotto",
             "repo": "SimpleArrayBundle",
             "stars": 2
-          }
+          },
+          "first_seen": "2026-08-28T20:59:04.761Z"
         },
         {
           "node_type": "item",
@@ -1888,7 +2010,8 @@
             "owner": "gnugat-legacy",
             "repo": "query-bus-bundle",
             "stars": 1
-          }
+          },
+          "first_seen": "2026-08-28T20:59:04.761Z"
         },
         {
           "node_type": "item",
@@ -1903,7 +2026,8 @@
             "owner": "AppVentus",
             "repo": "AvAlertifyBundle",
             "stars": 0
-          }
+          },
+          "first_seen": "2026-08-28T20:59:04.761Z"
         },
         {
           "node_type": "item",
@@ -1918,7 +2042,8 @@
             "owner": "EGYG33K",
             "repo": "DomainParserBundle",
             "stars": 0
-          }
+          },
+          "first_seen": "2026-08-28T20:59:04.761Z"
         },
         {
           "node_type": "item",
@@ -1933,7 +2058,8 @@
             "owner": "ibrows",
             "repo": "IbrowsWizardAnnotationBundle",
             "stars": 0
-          }
+          },
+          "first_seen": "2026-08-28T20:59:04.761Z"
         },
         {
           "node_type": "item",
@@ -1948,7 +2074,8 @@
             "owner": "mops1k",
             "repo": "JMDUnoconvBundle",
             "stars": 0
-          }
+          },
+          "first_seen": "2026-08-28T20:59:04.761Z"
         },
         {
           "node_type": "item",
@@ -1963,7 +2090,8 @@
             "owner": "gnugat-legacy",
             "repo": "marshaller-bundle",
             "stars": 0
-          }
+          },
+          "first_seen": "2026-08-28T20:59:04.761Z"
         }
       ],
       "title": "Miscellaneous"
@@ -1984,7 +2112,8 @@
             "owner": "liip",
             "repo": "LiipMonitorBundle",
             "stars": 474
-          }
+          },
+          "first_seen": "2026-08-28T20:59:04.761Z"
         },
         {
           "node_type": "item",
@@ -1999,7 +2128,8 @@
             "owner": "SoCloz",
             "repo": "SoclozMonitoringBundle",
             "stars": 69
-          }
+          },
+          "first_seen": "2026-08-28T20:59:04.761Z"
         }
       ],
       "title": "Monitoring"
@@ -2020,7 +2150,8 @@
             "owner": "Payum",
             "repo": "PayumBundle",
             "stars": 583
-          }
+          },
+          "first_seen": "2026-08-28T20:59:04.761Z"
         },
         {
           "node_type": "item",
@@ -2035,7 +2166,8 @@
             "owner": "schmittjoh",
             "repo": "JMSPaymentPaypalBundle",
             "stars": 124
-          }
+          },
+          "first_seen": "2026-08-28T20:59:04.761Z"
         },
         {
           "node_type": "item",
@@ -2050,7 +2182,8 @@
             "owner": "leaphly",
             "repo": "CartBundle",
             "stars": 101
-          }
+          },
+          "first_seen": "2026-08-28T20:59:04.761Z"
         },
         {
           "node_type": "item",
@@ -2065,7 +2198,8 @@
             "owner": "ruudk",
             "repo": "PaymentAdyenBundle",
             "stars": 6
-          }
+          },
+          "first_seen": "2026-08-28T20:59:04.761Z"
         },
         {
           "node_type": "item",
@@ -2080,7 +2214,8 @@
             "owner": "AppVentus",
             "repo": "MangopayBundle",
             "stars": 0
-          }
+          },
+          "first_seen": "2026-08-28T20:59:04.761Z"
         }
       ],
       "title": "Payments Management"
@@ -2101,7 +2236,8 @@
             "owner": "php-enqueue",
             "repo": "enqueue-dev",
             "stars": 2220
-          }
+          },
+          "first_seen": "2026-08-28T20:59:04.761Z"
         },
         {
           "node_type": "item",
@@ -2116,7 +2252,8 @@
             "owner": "armetiz",
             "repo": "LeezyPheanstalkBundle",
             "stars": 124
-          }
+          },
+          "first_seen": "2026-08-28T20:59:04.761Z"
         },
         {
           "node_type": "item",
@@ -2131,7 +2268,8 @@
             "owner": "bernardphp",
             "repo": "BernardBundle",
             "stars": 94
-          }
+          },
+          "first_seen": "2026-08-28T20:59:04.761Z"
         },
         {
           "node_type": "item",
@@ -2146,7 +2284,8 @@
             "owner": "mmoreram",
             "repo": "RSQueueBundle",
             "stars": 52
-          }
+          },
+          "first_seen": "2026-08-28T20:59:04.761Z"
         },
         {
           "node_type": "item",
@@ -2161,7 +2300,8 @@
             "owner": "videlalvaro",
             "repo": "RabbitMqBundle",
             "stars": 35
-          }
+          },
+          "first_seen": "2026-08-28T20:59:04.761Z"
         },
         {
           "node_type": "item",
@@ -2176,7 +2316,8 @@
             "owner": "heristop",
             "repo": "heri-jobqueue-bundle",
             "stars": 15
-          }
+          },
+          "first_seen": "2026-08-28T20:59:04.761Z"
         }
       ],
       "title": "Queues"
@@ -2193,11 +2334,12 @@
             "archived": false,
             "id": 79607905,
             "language": "PHP",
-            "last_commit": "2026-08-27T19:47:23Z",
+            "last_commit": "2026-08-28T19:32:04Z",
             "owner": "symfony",
             "repo": "recipes",
             "stars": 1025
-          }
+          },
+          "first_seen": "2026-08-28T20:59:04.761Z"
         },
         {
           "node_type": "item",
@@ -2208,11 +2350,12 @@
             "archived": false,
             "id": 88190851,
             "language": "PHP",
-            "last_commit": "2026-08-27T12:05:36Z",
+            "last_commit": "2026-08-28T08:33:25Z",
             "owner": "symfony",
             "repo": "recipes-contrib",
             "stars": 558
-          }
+          },
+          "first_seen": "2026-08-28T20:59:04.761Z"
         }
       ],
       "title": "Recipes"
@@ -2233,7 +2376,8 @@
             "owner": "craue",
             "repo": "CraueConfigBundle",
             "stars": 175
-          }
+          },
+          "first_seen": "2026-08-28T20:59:04.761Z"
         },
         {
           "node_type": "item",
@@ -2248,7 +2392,8 @@
             "owner": "kutny",
             "repo": "autowiring-bundle",
             "stars": 12
-          }
+          },
+          "first_seen": "2026-08-28T20:59:04.761Z"
         }
       ],
       "title": "Service Container"
@@ -2269,7 +2414,8 @@
             "owner": "doctrine",
             "repo": "DoctrineMigrationsBundle",
             "stars": 4304
-          }
+          },
+          "first_seen": "2026-08-28T20:59:04.761Z"
         },
         {
           "node_type": "item",
@@ -2284,7 +2430,8 @@
             "owner": "doctrine",
             "repo": "DoctrineFixturesBundle",
             "stars": 2533
-          }
+          },
+          "first_seen": "2026-08-28T20:59:04.761Z"
         },
         {
           "node_type": "item",
@@ -2298,8 +2445,9 @@
             "last_commit": "2026-01-23T08:46:28Z",
             "owner": "stof",
             "repo": "StofDoctrineExtensionsBundle",
-            "stars": 1930
-          }
+            "stars": 1931
+          },
+          "first_seen": "2026-08-28T20:59:04.761Z"
         },
         {
           "node_type": "item",
@@ -2314,7 +2462,8 @@
             "owner": "snc",
             "repo": "SncRedisBundle",
             "stars": 1049
-          }
+          },
+          "first_seen": "2026-08-28T20:59:04.761Z"
         },
         {
           "node_type": "item",
@@ -2329,7 +2478,8 @@
             "owner": "KnpLabs",
             "repo": "KnpGaufretteBundle",
             "stars": 724
-          }
+          },
+          "first_seen": "2026-08-28T20:59:04.761Z"
         },
         {
           "node_type": "item",
@@ -2344,7 +2494,8 @@
             "owner": "1up-lab",
             "repo": "OneupFlysystemBundle",
             "stars": 642
-          }
+          },
+          "first_seen": "2026-08-28T20:59:04.761Z"
         },
         {
           "node_type": "item",
@@ -2359,7 +2510,8 @@
             "owner": "fre5h",
             "repo": "DoctrineEnumBundle",
             "stars": 461
-          }
+          },
+          "first_seen": "2026-08-28T20:59:04.761Z"
         },
         {
           "node_type": "item",
@@ -2374,7 +2526,8 @@
             "owner": "eko",
             "repo": "FeedBundle",
             "stars": 141
-          }
+          },
+          "first_seen": "2026-08-28T20:59:04.761Z"
         },
         {
           "node_type": "item",
@@ -2389,7 +2542,8 @@
             "owner": "dustin10",
             "repo": "VichGeographicalBundle",
             "stars": 105
-          }
+          },
+          "first_seen": "2026-08-28T20:59:04.761Z"
         },
         {
           "node_type": "item",
@@ -2404,7 +2558,8 @@
             "owner": "FabienPennequin",
             "repo": "FPNTagBundle",
             "stars": 75
-          }
+          },
+          "first_seen": "2026-08-28T20:59:04.761Z"
         },
         {
           "node_type": "item",
@@ -2419,7 +2574,8 @@
             "owner": "h4cc",
             "repo": "AliceFixturesBundle",
             "stars": 74
-          }
+          },
+          "first_seen": "2026-08-28T20:59:04.761Z"
         },
         {
           "node_type": "item",
@@ -2434,7 +2590,8 @@
             "owner": "vmelnik-ukraine",
             "repo": "DoctrineEncryptBundle",
             "stars": 72
-          }
+          },
+          "first_seen": "2026-08-28T20:59:04.761Z"
         },
         {
           "node_type": "item",
@@ -2449,7 +2606,8 @@
             "owner": "mapado",
             "repo": "MysqlDoctrineFunctions",
             "stars": 44
-          }
+          },
+          "first_seen": "2026-08-28T20:59:04.761Z"
         },
         {
           "node_type": "item",
@@ -2464,7 +2622,8 @@
             "owner": "wpottier",
             "repo": "WizadDoctrineDocBundle",
             "stars": 15
-          }
+          },
+          "first_seen": "2026-08-28T20:59:04.761Z"
         },
         {
           "node_type": "item",
@@ -2479,7 +2638,8 @@
             "owner": "mapado",
             "repo": "elastica-query-bundle",
             "stars": 12
-          }
+          },
+          "first_seen": "2026-08-28T20:59:04.761Z"
         },
         {
           "node_type": "item",
@@ -2494,7 +2654,8 @@
             "owner": "Ph3nol",
             "repo": "RelationBundle",
             "stars": 10
-          }
+          },
+          "first_seen": "2026-08-28T20:59:04.761Z"
         },
         {
           "node_type": "item",
@@ -2509,7 +2670,8 @@
             "owner": "AppVentus",
             "repo": "AvSpoolMailerBundle",
             "stars": 7
-          }
+          },
+          "first_seen": "2026-08-28T20:59:04.761Z"
         },
         {
           "node_type": "item",
@@ -2524,7 +2686,8 @@
             "owner": "digitalkaoz",
             "repo": "GaufretteBrowserBundle",
             "stars": 4
-          }
+          },
+          "first_seen": "2026-08-28T20:59:04.761Z"
         },
         {
           "node_type": "item",
@@ -2539,7 +2702,8 @@
             "owner": "eschmar",
             "repo": "doctrine-routing-bundle",
             "stars": 1
-          }
+          },
+          "first_seen": "2026-08-28T20:59:04.761Z"
         }
       ],
       "title": "Storage"
@@ -2560,7 +2724,8 @@
             "owner": "KnpLabs",
             "repo": "KnpTimeBundle",
             "stars": 624
-          }
+          },
+          "first_seen": "2026-08-28T20:59:04.761Z"
         },
         {
           "node_type": "item",
@@ -2575,7 +2740,8 @@
             "owner": "henrikbjorn",
             "repo": "GravatarBundle",
             "stars": 126
-          }
+          },
+          "first_seen": "2026-08-28T20:59:04.761Z"
         },
         {
           "node_type": "item",
@@ -2590,7 +2756,8 @@
             "owner": "EmanueleMinotto",
             "repo": "TwigCacheBundle",
             "stars": 59
-          }
+          },
+          "first_seen": "2026-08-28T20:59:04.761Z"
         },
         {
           "node_type": "item",
@@ -2605,7 +2772,8 @@
             "owner": "Rasanga",
             "repo": "FlashAlertBundle",
             "stars": 23
-          }
+          },
+          "first_seen": "2026-08-28T20:59:04.761Z"
         },
         {
           "node_type": "item",
@@ -2620,7 +2788,8 @@
             "owner": "boekkooi",
             "repo": "TwigJackBundle",
             "stars": 23
-          }
+          },
+          "first_seen": "2026-08-28T20:59:04.761Z"
         },
         {
           "node_type": "item",
@@ -2635,7 +2804,8 @@
             "owner": "carlos-granados",
             "repo": "CgKintBundle",
             "stars": 21
-          }
+          },
+          "first_seen": "2026-08-28T20:59:04.761Z"
         },
         {
           "node_type": "item",
@@ -2650,7 +2820,8 @@
             "owner": "goetas",
             "repo": "twital-bundle",
             "stars": 20
-          }
+          },
+          "first_seen": "2026-08-28T20:59:04.761Z"
         },
         {
           "node_type": "item",
@@ -2665,7 +2836,8 @@
             "owner": "simodima",
             "repo": "swift-css-inliner-bundle",
             "stars": 11
-          }
+          },
+          "first_seen": "2026-08-28T20:59:04.761Z"
         },
         {
           "node_type": "item",
@@ -2680,7 +2852,8 @@
             "owner": "csanquer",
             "repo": "TwigExtraBundle",
             "stars": 7
-          }
+          },
+          "first_seen": "2026-08-28T20:59:04.761Z"
         },
         {
           "node_type": "item",
@@ -2695,7 +2868,8 @@
             "owner": "sgomez",
             "repo": "UcoTwigExtensionsBundle",
             "stars": 5
-          }
+          },
+          "first_seen": "2026-08-28T20:59:04.761Z"
         },
         {
           "node_type": "item",
@@ -2710,7 +2884,8 @@
             "owner": "EmanueleMinotto",
             "repo": "TwigInflectionBundle",
             "stars": 3
-          }
+          },
+          "first_seen": "2026-08-28T20:59:04.761Z"
         }
       ],
       "title": "Template Engine"
@@ -2731,7 +2906,8 @@
             "owner": "algolia",
             "repo": "search-bundle",
             "stars": 193
-          }
+          },
+          "first_seen": "2026-08-28T20:59:04.761Z"
         },
         {
           "node_type": "item",
@@ -2746,7 +2922,8 @@
             "owner": "swarrot",
             "repo": "SwarrotBundle",
             "stars": 90
-          }
+          },
+          "first_seen": "2026-08-28T20:59:04.761Z"
         },
         {
           "node_type": "item",
@@ -2761,7 +2938,8 @@
             "owner": "rjanot",
             "repo": "YuccaPrerenderBundle",
             "stars": 56
-          }
+          },
+          "first_seen": "2026-08-28T20:59:04.761Z"
         },
         {
           "node_type": "item",
@@ -2776,7 +2954,8 @@
             "owner": "ScullWM",
             "repo": "MailHookBundle",
             "stars": 38
-          }
+          },
+          "first_seen": "2026-08-28T20:59:04.761Z"
         },
         {
           "node_type": "item",
@@ -2791,7 +2970,8 @@
             "owner": "coopTilleuls",
             "repo": "CoopTilleulsOvhBundle",
             "stars": 29
-          }
+          },
+          "first_seen": "2026-08-28T20:59:04.761Z"
         },
         {
           "node_type": "item",
@@ -2806,7 +2986,8 @@
             "owner": "gordalina",
             "repo": "GordalinaMixpanelBundle",
             "stars": 14
-          }
+          },
+          "first_seen": "2026-08-28T20:59:04.761Z"
         }
       ],
       "title": "Third Party APIs"
@@ -2826,8 +3007,9 @@
             "last_commit": "2026-08-11T07:37:00Z",
             "owner": "hwi",
             "repo": "HWIOAuthBundle",
-            "stars": 2365
-          }
+            "stars": 2364
+          },
+          "first_seen": "2026-08-28T20:59:04.761Z"
         },
         {
           "node_type": "item",
@@ -2842,7 +3024,8 @@
             "owner": "scheb",
             "repo": "two-factor-bundle",
             "stars": 385
-          }
+          },
+          "first_seen": "2026-08-28T20:59:04.761Z"
         },
         {
           "node_type": "item",
@@ -2857,7 +3040,8 @@
             "owner": "jmikola",
             "repo": "JmikolaAutoLoginBundle",
             "stars": 84
-          }
+          },
+          "first_seen": "2026-08-28T20:59:04.761Z"
         },
         {
           "node_type": "item",
@@ -2872,7 +3056,8 @@
             "owner": "pdias",
             "repo": "SamlBundle",
             "stars": 16
-          }
+          },
+          "first_seen": "2026-08-28T20:59:04.761Z"
         }
       ],
       "title": "User Management"
@@ -2893,7 +3078,8 @@
             "owner": "rdohms",
             "repo": "dms-filter-bundle",
             "stars": 78
-          }
+          },
+          "first_seen": "2026-08-28T20:59:04.761Z"
         },
         {
           "node_type": "item",
@@ -2908,7 +3094,8 @@
             "owner": "ddeboer",
             "repo": "vatin-bundle",
             "stars": 30
-          }
+          },
+          "first_seen": "2026-08-28T20:59:04.761Z"
         },
         {
           "node_type": "item",
@@ -2923,7 +3110,8 @@
             "owner": "jbafford",
             "repo": "PasswordStrengthBundle",
             "stars": 28
-          }
+          },
+          "first_seen": "2026-08-28T20:59:04.761Z"
         }
       ],
       "title": "Validation"
@@ -2944,7 +3132,8 @@
             "owner": "FriendsOfSymfony",
             "repo": "FOSRestBundle",
             "stars": 2795
-          }
+          },
+          "first_seen": "2026-08-28T20:59:04.761Z"
         },
         {
           "node_type": "item",
@@ -2958,8 +3147,9 @@
             "last_commit": "2026-07-01T23:42:25Z",
             "owner": "lexik",
             "repo": "LexikJWTAuthenticationBundle",
-            "stars": 2608
-          }
+            "stars": 2609
+          },
+          "first_seen": "2026-08-28T20:59:04.761Z"
         },
         {
           "node_type": "item",
@@ -2973,8 +3163,9 @@
             "last_commit": "2026-08-16T22:00:56Z",
             "owner": "api-platform",
             "repo": "core",
-            "stars": 2572
-          }
+            "stars": 2573
+          },
+          "first_seen": "2026-08-28T20:59:04.761Z"
         },
         {
           "node_type": "item",
@@ -2988,8 +3179,9 @@
             "last_commit": "2026-08-24T03:56:16Z",
             "owner": "nelmio",
             "repo": "NelmioApiDocBundle",
-            "stars": 2365
-          }
+            "stars": 2366
+          },
+          "first_seen": "2026-08-28T20:59:04.761Z"
         },
         {
           "node_type": "item",
@@ -3004,7 +3196,8 @@
             "owner": "nelmio",
             "repo": "NelmioCorsBundle",
             "stars": 1925
-          }
+          },
+          "first_seen": "2026-08-28T20:59:04.761Z"
         },
         {
           "node_type": "item",
@@ -3019,7 +3212,8 @@
             "owner": "schmittjoh",
             "repo": "JMSSerializerBundle",
             "stars": 1807
-          }
+          },
+          "first_seen": "2026-08-28T20:59:04.761Z"
         },
         {
           "node_type": "item",
@@ -3034,7 +3228,8 @@
             "owner": "FriendsOfSymfony",
             "repo": "FOSOAuthServerBundle",
             "stars": 1078
-          }
+          },
+          "first_seen": "2026-08-28T20:59:04.761Z"
         },
         {
           "node_type": "item",
@@ -3049,7 +3244,8 @@
             "owner": "jaytaph",
             "repo": "RateLimitBundle",
             "stars": 333
-          }
+          },
+          "first_seen": "2026-08-28T20:59:04.761Z"
         },
         {
           "node_type": "item",
@@ -3064,7 +3260,8 @@
             "owner": "willdurand",
             "repo": "BazingaHateoasBundle",
             "stars": 297
-          }
+          },
+          "first_seen": "2026-08-28T20:59:04.761Z"
         },
         {
           "node_type": "item",
@@ -3079,7 +3276,8 @@
             "owner": "dunglas",
             "repo": "DunglasAngularCsrfBundle",
             "stars": 148
-          }
+          },
+          "first_seen": "2026-08-28T20:59:04.761Z"
         },
         {
           "node_type": "item",
@@ -3094,7 +3292,8 @@
             "owner": "stanlemon",
             "repo": "rest-bundle",
             "stars": 121
-          }
+          },
+          "first_seen": "2026-08-28T20:59:04.761Z"
         },
         {
           "node_type": "item",
@@ -3109,7 +3308,8 @@
             "owner": "nilportugues",
             "repo": "symfony-jsonapi",
             "stars": 114
-          }
+          },
+          "first_seen": "2026-08-28T20:59:04.761Z"
         },
         {
           "node_type": "item",
@@ -3124,7 +3324,8 @@
             "owner": "KnpLabs",
             "repo": "KnpJsonSchemaBundle",
             "stars": 72
-          }
+          },
+          "first_seen": "2026-08-28T20:59:04.761Z"
         },
         {
           "node_type": "item",
@@ -3139,7 +3340,8 @@
             "owner": "creads",
             "repo": "api2symfony-bundle",
             "stars": 51
-          }
+          },
+          "first_seen": "2026-08-28T20:59:04.761Z"
         },
         {
           "node_type": "item",
@@ -3154,7 +3356,8 @@
             "owner": "sroze",
             "repo": "SRIORestUploadBundle",
             "stars": 46
-          }
+          },
+          "first_seen": "2026-08-28T20:59:04.761Z"
         },
         {
           "node_type": "item",
@@ -3169,7 +3372,8 @@
             "owner": "ProgrammingAreHard",
             "repo": "ResourceBundle",
             "stars": 33
-          }
+          },
+          "first_seen": "2026-08-28T20:59:04.761Z"
         },
         {
           "node_type": "item",
@@ -3184,7 +3388,8 @@
             "owner": "zim32",
             "repo": "Symfony2-RequestLimitBundle",
             "stars": 11
-          }
+          },
+          "first_seen": "2026-08-28T20:59:04.761Z"
         },
         {
           "node_type": "item",
@@ -3199,14 +3404,15 @@
             "owner": "Pulpmedia",
             "repo": "SerializedResponseBundle",
             "stars": 5
-          }
+          },
+          "first_seen": "2026-08-28T20:59:04.761Z"
         }
       ],
       "title": "Web Services"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T19:58:28.740Z",
+    "last_updated": "2026-08-28T20:59:04.761Z",
     "original_repository_info": {
       "archived": false,
       "id": 22654969,
