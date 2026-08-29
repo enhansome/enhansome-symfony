@@ -998,7 +998,7 @@
             "open_issues": 215,
             "owner": "Sylius",
             "repo": "Sylius",
-            "stars": 8516,
+            "stars": 8518,
             "topics": [
               "api",
               "api-ecommerce",
@@ -3433,8 +3433,8 @@
             "id": 79607905,
             "language": "PHP",
             "license": "MIT",
-            "last_commit": "2026-08-28T19:32:04Z",
-            "open_issues": 48,
+            "last_commit": "2026-08-29T13:43:49Z",
+            "open_issues": 51,
             "owner": "symfony",
             "repo": "recipes",
             "stars": 1025,
@@ -3457,8 +3457,8 @@
             "id": 88190851,
             "language": "PHP",
             "license": "MIT",
-            "last_commit": "2026-08-28T08:33:25Z",
-            "open_issues": 1,
+            "last_commit": "2026-08-29T11:10:06Z",
+            "open_issues": 3,
             "owner": "symfony",
             "repo": "recipes-contrib",
             "stars": 558,
@@ -5040,7 +5040,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T04:31:03.625Z",
+    "last_updated": "2026-08-29T14:40:27.461Z",
     "original_repository_info": {
       "archived": false,
       "description": "A list of awesome Symfony bundles, utilities and resources.",
