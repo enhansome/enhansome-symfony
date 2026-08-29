@@ -99,7 +99,7 @@ Table of contents:
 
 ## Ecommerce
 
-* [Sylius](https://github.com/Sylius/Sylius) ⭐ 8,517 | 🐛 215 | 🌐 PHP | 📅 2026-08-28 - E-Commerce PHP framework built on top of Symfony with component-based architecture and format-agnostic rendering
+* [Sylius](https://github.com/Sylius/Sylius) ⭐ 8,516 | 🐛 215 | 🌐 PHP | 📅 2026-08-29 - E-Commerce PHP framework built on top of Symfony with component-based architecture and format-agnostic rendering
 * [Elcodi](https://github.com/elcodi/elcodi) ⚠️ Archived - E-commerce PHP Components and Symfony Bundles
 * [Bamboo](https://github.com/elcodi/bamboo) ⚠️ Archived -  Full-stack E-commerce application based on Symfony and Elcodi components
 * [Aimeos](https://aimeos.org/Symfony/) - Ultra fast PHP e-commerce framework for #gigacommerce
@@ -137,7 +137,7 @@ Table of contents:
 * [ExcelBundle](https://github.com/liuggio/ExcelBundle) ⭐ 370 | 🐛 18 | 🌐 PHP | 📅 2022-11-25 - Excel integration in Symfony2 thanks to <https://github.com/PHPOffice/PHPExcel> ⚠️ Archived library.
 * [BazingaGeocoderBundle](https://github.com/geocoder-php/BazingaGeocoderBundle) ⭐ 323 | 🐛 3 | 🌐 PHP | 📅 2026-02-17 - Integration of the Geocoder library.
 * [metrics](https://github.com/beberlei/metrics) ⭐ 323 | 🐛 0 | 🌐 PHP | 📅 2026-08-28 - Simple library that abstracts different metrics collectors.
-* [FMElfinderBundle](https://github.com/helios-ag/FMElfinderBundle) ⭐ 280 | 🐛 6 | 🌐 PHP | 📅 2026-08-28 - Provides Elfinder filebrowser integration with popular WYSIWYG editors.
+* [FMElfinderBundle](https://github.com/helios-ag/FMElfinderBundle) ⭐ 280 | 🐛 6 | 🌐 PHP | 📅 2026-08-29 - Provides Elfinder filebrowser integration with popular WYSIWYG editors.
 * [BazingaFakerBundle](https://github.com/willdurand/BazingaFakerBundle) ⭐ 276 | 🐛 12 | 🌐 PHP | 📅 2021-06-18 - Put the awesome Faker library into the Symfony2 DIC and populate your database with fake data.
 * [LexikMaintenanceBundle](https://github.com/lexik/LexikMaintenanceBundle) ⚠️ Archived - This Symfony2 bundle allows you to place your website in maintenance mode by calling two commands in your console.
 * [CsaGuzzleBundle](https://github.com/csarrazi/CsaGuzzleBundle) ⚠️ Archived - Bundle integrating Guzzle >=4.0 in Symfony.
@@ -344,4 +344,4 @@ To the extent possible under law, [Emanuele Minotto](http://emanueleminotto.gith
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-28._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-29._
