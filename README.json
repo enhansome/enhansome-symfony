@@ -994,7 +994,7 @@
             "id": 2717549,
             "language": "PHP",
             "license": "MIT",
-            "last_commit": "2026-08-29T02:11:00Z",
+            "last_commit": "2026-08-30T02:12:36Z",
             "open_issues": 215,
             "owner": "Sylius",
             "repo": "Sylius",
@@ -3457,8 +3457,8 @@
             "id": 88190851,
             "language": "PHP",
             "license": "MIT",
-            "last_commit": "2026-08-29T11:10:06Z",
-            "open_issues": 3,
+            "last_commit": "2026-08-30T13:04:00Z",
+            "open_issues": 4,
             "owner": "symfony",
             "repo": "recipes-contrib",
             "stars": 558,
@@ -4615,7 +4615,7 @@
             "open_issues": 119,
             "owner": "lexik",
             "repo": "LexikJWTAuthenticationBundle",
-            "stars": 2609,
+            "stars": 2608,
             "topics": [
               "authentication",
               "jwt",
@@ -4639,7 +4639,7 @@
             "language": "PHP",
             "license": "MIT",
             "last_commit": "2026-08-16T22:00:56Z",
-            "open_issues": 272,
+            "open_issues": 273,
             "owner": "api-platform",
             "repo": "core",
             "stars": 2573,
@@ -5040,7 +5040,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T14:40:27.461Z",
+    "last_updated": "2026-08-30T14:30:31.493Z",
     "original_repository_info": {
       "archived": false,
       "description": "A list of awesome Symfony bundles, utilities and resources.",
