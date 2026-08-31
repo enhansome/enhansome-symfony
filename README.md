@@ -99,7 +99,7 @@ Table of contents:
 
 ## Ecommerce
 
-* [Sylius](https://github.com/Sylius/Sylius) ⭐ 8,518 | 🐛 215 | 🌐 PHP | 📅 2026-08-30 - E-Commerce PHP framework built on top of Symfony with component-based architecture and format-agnostic rendering
+* [Sylius](https://github.com/Sylius/Sylius) ⭐ 8,519 | 🐛 215 | 🌐 PHP | 📅 2026-08-31 - E-Commerce PHP framework built on top of Symfony with component-based architecture and format-agnostic rendering
 * [Elcodi](https://github.com/elcodi/elcodi) ⚠️ Archived - E-commerce PHP Components and Symfony Bundles
 * [Bamboo](https://github.com/elcodi/bamboo) ⚠️ Archived -  Full-stack E-commerce application based on Symfony and Elcodi components
 * [Aimeos](https://aimeos.org/Symfony/) - Ultra fast PHP e-commerce framework for #gigacommerce
@@ -137,7 +137,7 @@ Table of contents:
 * [ExcelBundle](https://github.com/liuggio/ExcelBundle) ⭐ 370 | 🐛 18 | 🌐 PHP | 📅 2022-11-25 - Excel integration in Symfony2 thanks to <https://github.com/PHPOffice/PHPExcel> ⚠️ Archived library.
 * [BazingaGeocoderBundle](https://github.com/geocoder-php/BazingaGeocoderBundle) ⭐ 323 | 🐛 3 | 🌐 PHP | 📅 2026-02-17 - Integration of the Geocoder library.
 * [metrics](https://github.com/beberlei/metrics) ⭐ 323 | 🐛 0 | 🌐 PHP | 📅 2026-08-28 - Simple library that abstracts different metrics collectors.
-* [FMElfinderBundle](https://github.com/helios-ag/FMElfinderBundle) ⭐ 280 | 🐛 6 | 🌐 PHP | 📅 2026-08-29 - Provides Elfinder filebrowser integration with popular WYSIWYG editors.
+* [FMElfinderBundle](https://github.com/helios-ag/FMElfinderBundle) ⭐ 280 | 🐛 5 | 🌐 PHP | 📅 2026-08-31 - Provides Elfinder filebrowser integration with popular WYSIWYG editors.
 * [BazingaFakerBundle](https://github.com/willdurand/BazingaFakerBundle) ⭐ 276 | 🐛 12 | 🌐 PHP | 📅 2021-06-18 - Put the awesome Faker library into the Symfony2 DIC and populate your database with fake data.
 * [LexikMaintenanceBundle](https://github.com/lexik/LexikMaintenanceBundle) ⚠️ Archived - This Symfony2 bundle allows you to place your website in maintenance mode by calling two commands in your console.
 * [CsaGuzzleBundle](https://github.com/csarrazi/CsaGuzzleBundle) ⚠️ Archived - Bundle integrating Guzzle >=4.0 in Symfony.
@@ -220,7 +220,7 @@ Table of contents:
 
 ## Queues
 
-* [Enqueue](https://github.com/php-enqueue/enqueue-dev) ⭐ 2,220 | 🐛 63 | 🌐 PHP | 📅 2025-12-22 -  Provides a common way for programs to create, send, read messages. Inspired by Java JMS
+* [Enqueue](https://github.com/php-enqueue/enqueue-dev) ⭐ 2,220 | 🐛 62 | 🌐 PHP | 📅 2026-08-30 -  Provides a common way for programs to create, send, read messages. Inspired by Java JMS
 * [LeezyPheanstalkBundle](https://github.com/armetiz/LeezyPheanstalkBundle) ⭐ 124 | 🐛 2 | 🌐 PHP | 📅 2023-07-25 - Bundle for Pheanstalk, PHP client for beanstalkd queue.
 * [BernardBundle](https://github.com/bernardphp/BernardBundle) ⭐ 94 | 🐛 12 | 🌐 PHP | 📅 2022-04-29 - Bernard is a multi-backend PHP library for creating background jobs for later processing.
 * [RSQueueBundle](https://github.com/mmoreram/RSQueueBundle) ⭐ 52 | 🐛 4 | 🌐 PHP | 📅 2017-07-07 - Queues infrastructure based on Redis, with Producer-Consumer and Publisher-Subscriber
@@ -239,8 +239,8 @@ Table of contents:
 
 ## Recipes
 
-* [Symfony Recipes](https://github.com/symfony/recipes) ⭐ 1,025 | 🐛 51 | 🌐 PHP | 📅 2026-08-29 - Symfony recipes allow the automation of Composer packages configuration via the Symfony Flex Composer plugin.
-* [Symfony Recipes (Contrib)](https://github.com/symfony/recipes-contrib) ⭐ 558 | 🐛 4 | 🌐 PHP | 📅 2026-08-30 - Symfony recipes allow the automation of Composer packages configuration via the Symfony Flex Composer plugin.
+* [Symfony Recipes](https://github.com/symfony/recipes) ⭐ 1,025 | 🐛 50 | 🌐 PHP | 📅 2026-08-29 - Symfony recipes allow the automation of Composer packages configuration via the Symfony Flex Composer plugin.
+* [Symfony Recipes (Contrib)](https://github.com/symfony/recipes-contrib) ⭐ 558 | 🐛 5 | 🌐 PHP | 📅 2026-08-31 - Symfony recipes allow the automation of Composer packages configuration via the Symfony Flex Composer plugin.
 
 ## Resources
 
@@ -344,4 +344,4 @@ To the extent possible under law, [Emanuele Minotto](http://emanueleminotto.gith
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-30._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-31._
