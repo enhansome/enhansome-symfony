@@ -29,12 +29,12 @@ Table of contents:
 
 ## Administration
 
-* [SonataAdminBundle](https://github.com/sonata-project/SonataAdminBundle) ⭐ 2,126 | 🐛 15 | 🌐 PHP | 📅 2026-06-04 - AdminBundle - The missing Symfony2 Admin Generator
+* [SonataAdminBundle](https://github.com/sonata-project/SonataAdminBundle) ⭐ 2,126 | 🐛 16 | 🌐 PHP | 📅 2026-06-04 - AdminBundle - The missing Symfony2 Admin Generator
 * [AdmingeneratorGeneratorBundle](https://github.com/symfony2admingenerator/AdmingeneratorGeneratorBundle) ⭐ 359 | 🐛 39 | 🌐 PHP | 📅 2016-05-16 - Admingenerator for Symfony2, parse generator.yml files to build classes
 * [AdminLTEBundle](https://github.com/kevinpapst/AdminLTEBundle) ⚠️ Archived - Admin theme based on the AdminLTE Template
 * [Umbrella framework](https://github.com/acantepie/umbrella) ⭐ 146 | 🐛 5 | 🌐 PHP | 📅 2025-03-30 - Admin components and theme to create administration backends.
 * [TablerBundle](https://github.com/kevinpapst/TablerBundle) ⭐ 133 | 🐛 15 | 🌐 Twig | 📅 2026-09-03 - Admin theme based on the Tabler Template. It ships with many twig helpers (functions, filter, embeds, macros and includes).
-* [EasyAdminBundle](https://github.com/javiereguiluz/EasyAdminBundle) ⭐ 22 | 🐛 0 | 🌐 PHP | 📅 2026-09-03 - Simple admin generator for Symfony applications
+* [EasyAdminBundle](https://github.com/javiereguiluz/EasyAdminBundle) ⭐ 22 | 🐛 0 | 🌐 PHP | 📅 2026-09-05 - Simple admin generator for Symfony applications
 * [AdminCrudBundle](https://github.com/MWSimple/AdminCrudBundle) ⭐ 20 | 🐛 10 | 🌐 HTML | 📅 2019-04-26 - AdminCrudBundle - Use SensioGeneratorBundle. Extend controller, add paginator, filter, others.
 
 ## Certification
@@ -92,14 +92,14 @@ Table of contents:
 
 ## Distributions
 
-* [API Platform framework](https://github.com/api-platform/api-platform) ⭐ 9,185 | 🐛 2 | 🌐 PHP | 📅 2026-09-01
+* [API Platform framework](https://github.com/api-platform/api-platform) ⭐ 9,184 | 🐛 2 | 🌐 PHP | 📅 2026-09-01
 * [Symfony Standard Edition](https://github.com/symfony/symfony-standard) ⚠️ Archived
 * [Symfony CMF Standard Edition](https://github.com/symfony-cmf/standard-edition) ⚠️ Archived
 * [Kunstmaan Bundles Standard Edition](https://github.com/Kunstmaan/KunstmaanBundlesStandardEdition) ⚠️ Archived
 
 ## Ecommerce
 
-* [Sylius](https://github.com/Sylius/Sylius) ⭐ 8,523 | 🐛 220 | 🌐 PHP | 📅 2026-09-04 - E-Commerce PHP framework built on top of Symfony with component-based architecture and format-agnostic rendering
+* [Sylius](https://github.com/Sylius/Sylius) ⭐ 8,522 | 🐛 220 | 🌐 PHP | 📅 2026-09-04 - E-Commerce PHP framework built on top of Symfony with component-based architecture and format-agnostic rendering
 * [Elcodi](https://github.com/elcodi/elcodi) ⚠️ Archived - E-commerce PHP Components and Symfony Bundles
 * [Bamboo](https://github.com/elcodi/bamboo) ⚠️ Archived -  Full-stack E-commerce application based on Symfony and Elcodi components
 * [Aimeos](https://aimeos.org/Symfony/) - Ultra fast PHP e-commerce framework for #gigacommerce
@@ -125,7 +125,7 @@ Table of contents:
 
 ## Miscellaneous
 
-* [LiipImagineBundle](https://github.com/liip/LiipImagineBundle) ⭐ 1,711 | 🐛 82 | 🌐 PHP | 📅 2026-08-20 - Image manipulation bundle, based on Imagine library.
+* [LiipImagineBundle](https://github.com/liip/LiipImagineBundle) ⭐ 1,708 | 🐛 82 | 🌐 PHP | 📅 2026-08-20 - Image manipulation bundle, based on Imagine library.
 * [KnpSnappyBundle](https://github.com/KnpLabs/KnpSnappyBundle) ⭐ 1,246 | 🐛 1 | 🌐 PHP | 📅 2026-01-07 - Easily create PDF and images by converting html using webkit.
 * [OneupUploaderBundle](https://github.com/1up-lab/OneupUploaderBundle) ⭐ 604 | 🐛 20 | 🌐 PHP | 📅 2026-02-17 - Provides server implementations for several multi file uploader.
 * [APYDataGridBundle](https://github.com/APY/APYDataGridBundle) ⭐ 492 | 🐛 85 | 🌐 PHP | 📅 2026-06-19 - Datagrid Bundle.
@@ -138,7 +138,7 @@ Table of contents:
 * [BazingaGeocoderBundle](https://github.com/geocoder-php/BazingaGeocoderBundle) ⭐ 323 | 🐛 3 | 🌐 PHP | 📅 2026-02-17 - Integration of the Geocoder library.
 * [metrics](https://github.com/beberlei/metrics) ⭐ 323 | 🐛 0 | 🌐 PHP | 📅 2026-08-28 - Simple library that abstracts different metrics collectors.
 * [FMElfinderBundle](https://github.com/helios-ag/FMElfinderBundle) ⭐ 280 | 🐛 0 | 🌐 PHP | 📅 2026-09-02 - Provides Elfinder filebrowser integration with popular WYSIWYG editors.
-* [BazingaFakerBundle](https://github.com/willdurand/BazingaFakerBundle) ⭐ 276 | 🐛 12 | 🌐 PHP | 📅 2021-06-18 - Put the awesome Faker library into the Symfony2 DIC and populate your database with fake data.
+* [BazingaFakerBundle](https://github.com/willdurand/BazingaFakerBundle) ⭐ 275 | 🐛 12 | 🌐 PHP | 📅 2021-06-18 - Put the awesome Faker library into the Symfony2 DIC and populate your database with fake data.
 * [LexikMaintenanceBundle](https://github.com/lexik/LexikMaintenanceBundle) ⚠️ Archived - This Symfony2 bundle allows you to place your website in maintenance mode by calling two commands in your console.
 * [CsaGuzzleBundle](https://github.com/csarrazi/CsaGuzzleBundle) ⚠️ Archived - Bundle integrating Guzzle >=4.0 in Symfony.
 * [BabDevPagerfantaBundle](https://github.com/BabDev/BabDevPagerfantaBundle) ⭐ 210 | 🐛 1 | 🌐 PHP | 📅 2026-01-05 - Bundle to use Pagerfanta.
@@ -211,7 +211,7 @@ Table of contents:
 
 ## Payments Management
 
-* [PayumBundle](https://github.com/Payum/PayumBundle) ⭐ 583 | 🐛 38 | 🌐 PHP | 📅 2026-08-11 - Rich payment solutions for symfony2. Paypal, Stripe, Payex, Authorize.NET, Be2bill, Klarna, recurring paymens, instant notifications and many more
+* [PayumBundle](https://github.com/Payum/PayumBundle) ⭐ 580 | 🐛 38 | 🌐 PHP | 📅 2026-08-11 - Rich payment solutions for symfony2. Paypal, Stripe, Payex, Authorize.NET, Be2bill, Klarna, recurring paymens, instant notifications and many more
 * [JMSPaymentPaypalBundle](https://github.com/schmittjoh/JMSPaymentPaypalBundle) ⭐ 124 | 🐛 22 | 🌐 PHP | 📅 2022-12-07 - Payment Bundle providing access to the PayPal API.
 * [CartBundle](https://github.com/leaphly/CartBundle) ⭐ 101 | 🐛 7 | 🌐 PHP | 📅 2014-03-12 - High quality cart for developers.
 * [PaymentAdyenBundle](https://github.com/ruudk/PaymentAdyenBundle) ⚠️ Archived - Provides access to the Adyen API. Based on JMSPaymentCoreBundle.
@@ -239,8 +239,8 @@ Table of contents:
 
 ## Recipes
 
-* [Symfony Recipes](https://github.com/symfony/recipes) ⭐ 1,027 | 🐛 41 | 🌐 PHP | 📅 2026-09-04 - Symfony recipes allow the automation of Composer packages configuration via the Symfony Flex Composer plugin.
-* [Symfony Recipes (Contrib)](https://github.com/symfony/recipes-contrib) ⭐ 558 | 🐛 3 | 🌐 PHP | 📅 2026-09-04 - Symfony recipes allow the automation of Composer packages configuration via the Symfony Flex Composer plugin.
+* [Symfony Recipes](https://github.com/symfony/recipes) ⭐ 1,027 | 🐛 42 | 🌐 PHP | 📅 2026-09-06 - Symfony recipes allow the automation of Composer packages configuration via the Symfony Flex Composer plugin.
+* [Symfony Recipes (Contrib)](https://github.com/symfony/recipes-contrib) ⭐ 559 | 🐛 3 | 🌐 PHP | 📅 2026-09-04 - Symfony recipes allow the automation of Composer packages configuration via the Symfony Flex Composer plugin.
 
 ## Resources
 
@@ -257,12 +257,12 @@ Table of contents:
 
 ## Storage
 
-* [DoctrineMigrationsBundle](https://github.com/doctrine/DoctrineMigrationsBundle) ⭐ 4,304 | 🐛 43 | 🌐 PHP | 📅 2026-08-31 - Integrates the Doctrine2 Migrations library.
-* [DoctrineFixturesBundle](https://github.com/doctrine/DoctrineFixturesBundle) ⭐ 2,534 | 🐛 28 | 🌐 PHP | 📅 2026-09-04 - Integrates the Doctrine2 Data Fixtures library.
-* [StofDoctrineExtensionsBundle](https://github.com/stof/StofDoctrineExtensionsBundle) ⭐ 1,930 | 🐛 37 | 🌐 PHP | 📅 2026-01-23 - This bundle provides integration for DoctrineExtensions.
+* [DoctrineMigrationsBundle](https://github.com/doctrine/DoctrineMigrationsBundle) ⭐ 4,301 | 🐛 43 | 🌐 PHP | 📅 2026-08-31 - Integrates the Doctrine2 Migrations library.
+* [DoctrineFixturesBundle](https://github.com/doctrine/DoctrineFixturesBundle) ⭐ 2,532 | 🐛 28 | 🌐 PHP | 📅 2026-09-04 - Integrates the Doctrine2 Data Fixtures library.
+* [StofDoctrineExtensionsBundle](https://github.com/stof/StofDoctrineExtensionsBundle) ⭐ 1,927 | 🐛 37 | 🌐 PHP | 📅 2026-01-23 - This bundle provides integration for DoctrineExtensions.
 * [SncRedisBundle](https://github.com/snc/SncRedisBundle) ⭐ 1,049 | 🐛 0 | 🌐 PHP | 📅 2026-08-03 - Bundle to integrate Redis into your app.
-* [KnpGaufretteBundle](https://github.com/KnpLabs/KnpGaufretteBundle) ⭐ 724 | 🐛 31 | 🌐 PHP | 📅 2026-07-24 - Integrates Gaufrette.
-* [OneupFlysystemBundle](https://github.com/1up-lab/OneupFlysystemBundle) ⭐ 642 | 🐛 11 | 🌐 PHP | 📅 2026-05-20 - Integrates Flysystem.
+* [KnpGaufretteBundle](https://github.com/KnpLabs/KnpGaufretteBundle) ⭐ 722 | 🐛 31 | 🌐 PHP | 📅 2026-07-24 - Integrates Gaufrette.
+* [OneupFlysystemBundle](https://github.com/1up-lab/OneupFlysystemBundle) ⭐ 641 | 🐛 11 | 🌐 PHP | 📅 2026-05-20 - Integrates Flysystem.
 * [DoctrineEnumBundle](https://github.com/fre5h/DoctrineEnumBundle) ⭐ 460 | 🐛 11 | 🌐 PHP | 📅 2026-03-26 - Provides support of MySQL ENUM type for Doctrine2.
 * [FeedBundle](https://github.com/eko/FeedBundle) ⭐ 141 | 🐛 13 | 🌐 PHP | 📅 2024-10-07 - A bundle to build RSS feeds from your entities.
 * [VichGeographicalBundle](https://github.com/dustin10/VichGeographicalBundle) ⭐ 105 | 🐛 14 | 🌐 PHP | 📅 2016-10-23 - A bundle which provides geographical features for ORM and ODM entities and object oriented javascript maps rendering.
@@ -318,14 +318,14 @@ Table of contents:
 ## Web Services
 
 * [FOSRestBundle](https://github.com/FriendsOfSymfony/FOSRestBundle) ⭐ 2,795 | 🐛 159 | 🌐 PHP | 📅 2026-02-10 - Provides various tools to rapidly develop RESTful API's & applications.
-* [LexikJWTAuthenticationBundle](https://github.com/lexik/LexikJWTAuthenticationBundle) ⭐ 2,608 | 🐛 119 | 🌐 PHP | 📅 2026-07-01 - This bundle provides JWT (Json Web Token) authentication for your REST API using the lcobucci/jwt library.
-* [DunglasApiBundle](https://github.com/dunglas/DunglasApiBundle) ⭐ 2,575 | 🐛 267 | 🌐 PHP | 📅 2026-09-05 - Bundle to build hypermedia-driven REST API.
+* [LexikJWTAuthenticationBundle](https://github.com/lexik/LexikJWTAuthenticationBundle) ⭐ 2,609 | 🐛 119 | 🌐 PHP | 📅 2026-07-01 - This bundle provides JWT (Json Web Token) authentication for your REST API using the lcobucci/jwt library.
+* [DunglasApiBundle](https://github.com/dunglas/DunglasApiBundle) ⭐ 2,574 | 🐛 268 | 🌐 PHP | 📅 2026-09-05 - Bundle to build hypermedia-driven REST API.
 * [NelmioApiDocBundle](https://github.com/nelmio/NelmioApiDocBundle) ⭐ 2,366 | 🐛 52 | 🌐 PHP | 📅 2026-09-04 - Generates documentation for your REST API from annotations.
-* [NelmioCorsBundle](https://github.com/nelmio/NelmioCorsBundle) ⭐ 1,926 | 🐛 9 | 🌐 PHP | 📅 2026-01-14 - Adds ability to add CORS-related headers based on simple ACL-style per-URL configurations.
-* [JMSSerializerBundle](https://github.com/schmittjoh/JMSSerializerBundle) ⭐ 1,806 | 🐛 96 | 🌐 PHP | 📅 2026-03-26 - Easily serialize, and deserialize data of any complexity.
-* [FOSOAuthServerBundle](https://github.com/FriendsOfSymfony/FOSOAuthServerBundle) ⭐ 1,078 | 🐛 201 | 🌐 PHP | 📅 2024-01-12 - A server side OAuth2 bundle.
+* [NelmioCorsBundle](https://github.com/nelmio/NelmioCorsBundle) ⭐ 1,924 | 🐛 9 | 🌐 PHP | 📅 2026-01-14 - Adds ability to add CORS-related headers based on simple ACL-style per-URL configurations.
+* [JMSSerializerBundle](https://github.com/schmittjoh/JMSSerializerBundle) ⭐ 1,802 | 🐛 96 | 🌐 PHP | 📅 2026-03-26 - Easily serialize, and deserialize data of any complexity.
+* [FOSOAuthServerBundle](https://github.com/FriendsOfSymfony/FOSOAuthServerBundle) ⭐ 1,076 | 🐛 201 | 🌐 PHP | 📅 2024-01-12 - A server side OAuth2 bundle.
 * [RateLimitBundle](https://github.com/jaytaph/RateLimitBundle) ⭐ 333 | 🐛 21 | 🌐 PHP | 📅 2025-11-17 - Add rate limits to your controllers/actions easily through annotations.
-* [BazingaHateoasBundle](https://github.com/willdurand/BazingaHateoasBundle) ⭐ 297 | 🐛 11 | 🌐 PHP | 📅 2026-07-17 - Integration of the Hateoas library.
+* [BazingaHateoasBundle](https://github.com/willdurand/BazingaHateoasBundle) ⭐ 296 | 🐛 11 | 🌐 PHP | 📅 2026-07-17 - Integration of the Hateoas library.
 * [DunglasAngularCsrfBundle](https://github.com/dunglas/DunglasAngularCsrfBundle) ⚠️ Archived - Automatic CSRF protection for Symfony APIs used with AngularJS and other major AJAX libraries
 * [LemonRestBundle](https://github.com/stanlemon/rest-bundle) ⚠️ Archived - An opinionated bundle providing REST endpoints for Doctrine entities.
 * [JSONApiBundle](https://github.com/nilportugues/symfony-jsonapi) ⭐ 114 | 🐛 13 | 🌐 PHP | 📅 2019-05-27 - Bundle which provides support for formatting REST reponses to follow the JSON API specification.
@@ -344,4 +344,4 @@ To the extent possible under law, [Emanuele Minotto](http://emanueleminotto.gith
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-05._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-06._
