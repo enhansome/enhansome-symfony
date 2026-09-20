@@ -135,7 +135,7 @@ Table of contents:
 * [bootstrap-bundle](https://github.com/braincrafted/bootstrap-bundle) ⭐ 392 | 🐛 45 | 🌐 PHP | 📅 2020-09-23 - Integrates Bootstrap into Symfony2 by providing templates, Twig extensions, services and commands.
 * [MobileDetectBundle](https://github.com/suncat2000/MobileDetectBundle) ⭐ 392 | 🐛 30 | 🌐 PHP | 📅 2023-07-01 - Bundle for detect mobile devices, manage mobile view and redirect to the mobile and tablet version.
 * [ExcelBundle](https://github.com/liuggio/ExcelBundle) ⭐ 370 | 🐛 18 | 🌐 PHP | 📅 2022-11-25 - Excel integration in Symfony2 thanks to <https://github.com/PHPOffice/PHPExcel> ⚠️ Archived library.
-* [metrics](https://github.com/beberlei/metrics) ⭐ 337 | 🐛 0 | 🌐 PHP | 📅 2026-09-09 - Simple library that abstracts different metrics collectors.
+* [metrics](https://github.com/beberlei/metrics) ⭐ 338 | 🐛 0 | 🌐 PHP | 📅 2026-09-09 - Simple library that abstracts different metrics collectors.
 * [BazingaGeocoderBundle](https://github.com/geocoder-php/BazingaGeocoderBundle) ⭐ 323 | 🐛 3 | 🌐 PHP | 📅 2026-02-17 - Integration of the Geocoder library.
 * [FMElfinderBundle](https://github.com/helios-ag/FMElfinderBundle) ⭐ 280 | 🐛 0 | 🌐 PHP | 📅 2026-09-17 - Provides Elfinder filebrowser integration with popular WYSIWYG editors.
 * [BazingaFakerBundle](https://github.com/willdurand/BazingaFakerBundle) ⭐ 275 | 🐛 12 | 🌐 PHP | 📅 2021-06-18 - Put the awesome Faker library into the Symfony2 DIC and populate your database with fake data.
@@ -240,7 +240,7 @@ Table of contents:
 ## Recipes
 
 * [Symfony Recipes](https://github.com/symfony/recipes) ⭐ 1,027 | 🐛 47 | 🌐 PHP | 📅 2026-09-18 - Symfony recipes allow the automation of Composer packages configuration via the Symfony Flex Composer plugin.
-* [Symfony Recipes (Contrib)](https://github.com/symfony/recipes-contrib) ⭐ 559 | 🐛 8 | 🌐 PHP | 📅 2026-09-19 - Symfony recipes allow the automation of Composer packages configuration via the Symfony Flex Composer plugin.
+* [Symfony Recipes (Contrib)](https://github.com/symfony/recipes-contrib) ⭐ 559 | 🐛 9 | 🌐 PHP | 📅 2026-09-20 - Symfony recipes allow the automation of Composer packages configuration via the Symfony Flex Composer plugin.
 
 ## Resources
 
@@ -344,4 +344,4 @@ To the extent possible under law, [Emanuele Minotto](http://emanueleminotto.gith
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-19._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-20._
