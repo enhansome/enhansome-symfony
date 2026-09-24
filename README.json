@@ -161,7 +161,7 @@
             "id": 194716538,
             "language": "PHP",
             "license": "MIT",
-            "last_commit": "2026-09-21T19:55:22Z",
+            "last_commit": "2026-09-23T18:35:15Z",
             "open_issues": 0,
             "owner": "javiereguiluz",
             "repo": "EasyAdminBundle",
@@ -994,11 +994,11 @@
             "id": 2717549,
             "language": "PHP",
             "license": "MIT",
-            "last_commit": "2026-09-23T06:49:36Z",
-            "open_issues": 231,
+            "last_commit": "2026-09-24T10:32:30Z",
+            "open_issues": 233,
             "owner": "Sylius",
             "repo": "Sylius",
-            "stars": 8541,
+            "stars": 8542,
             "topics": [
               "api",
               "api-ecommerce",
@@ -1506,8 +1506,8 @@
             "id": 13593847,
             "language": "PHP",
             "license": "MIT",
-            "last_commit": "2026-09-17T14:39:00Z",
-            "open_issues": 14,
+            "last_commit": "2026-09-24T06:44:01Z",
+            "open_issues": 15,
             "owner": "8p",
             "repo": "EightPointsGuzzleBundle",
             "stars": 445,
@@ -1548,27 +1548,6 @@
         },
         {
           "node_type": "item",
-          "title": "bootstrap-bundle",
-          "description": "Integrates Bootstrap into Symfony2 by providing templates, Twig extensions, services and commands.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "BraincraftedBootstrapBundle integrates Bootstrap into Symfony2 by providing templates, Twig extensions, services and commands.",
-            "homepage": "http://bootstrap.braincrafted.com",
-            "id": 5133745,
-            "language": "PHP",
-            "license": "MIT",
-            "last_commit": "2020-09-23T20:28:10Z",
-            "open_issues": 45,
-            "owner": "braincrafted",
-            "repo": "bootstrap-bundle",
-            "stars": 392,
-            "topics": []
-          },
-          "first_seen": "2026-08-28T20:59:04.761Z"
-        },
-        {
-          "node_type": "item",
           "title": "MobileDetectBundle",
           "description": "Bundle for detect mobile devices, manage mobile view and redirect to the mobile and tablet version.",
           "children": [],
@@ -1583,6 +1562,27 @@
             "open_issues": 30,
             "owner": "suncat2000",
             "repo": "MobileDetectBundle",
+            "stars": 393,
+            "topics": []
+          },
+          "first_seen": "2026-08-28T20:59:04.761Z"
+        },
+        {
+          "node_type": "item",
+          "title": "bootstrap-bundle",
+          "description": "Integrates Bootstrap into Symfony2 by providing templates, Twig extensions, services and commands.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "BraincraftedBootstrapBundle integrates Bootstrap into Symfony2 by providing templates, Twig extensions, services and commands.",
+            "homepage": "http://bootstrap.braincrafted.com",
+            "id": 5133745,
+            "language": "PHP",
+            "license": "MIT",
+            "last_commit": "2020-09-23T20:28:10Z",
+            "open_issues": 45,
+            "owner": "braincrafted",
+            "repo": "bootstrap-bundle",
             "stars": 392,
             "topics": []
           },
@@ -3347,7 +3347,7 @@
             "open_issues": 12,
             "owner": "bernardphp",
             "repo": "BernardBundle",
-            "stars": 94,
+            "stars": 95,
             "topics": []
           },
           "first_seen": "2026-08-28T20:59:04.761Z"
@@ -3433,8 +3433,8 @@
             "id": 79607905,
             "language": "PHP",
             "license": "MIT",
-            "last_commit": "2026-09-22T18:31:34Z",
-            "open_issues": 50,
+            "last_commit": "2026-09-24T12:13:26Z",
+            "open_issues": 49,
             "owner": "symfony",
             "repo": "recipes",
             "stars": 1029,
@@ -3457,7 +3457,7 @@
             "id": 88190851,
             "language": "PHP",
             "license": "MIT",
-            "last_commit": "2026-09-22T21:17:44Z",
+            "last_commit": "2026-09-23T16:24:18Z",
             "open_issues": 4,
             "owner": "symfony",
             "repo": "recipes-contrib",
@@ -4257,7 +4257,7 @@
             "open_issues": 26,
             "owner": "algolia",
             "repo": "search-bundle",
-            "stars": 193,
+            "stars": 194,
             "topics": []
           },
           "first_seen": "2026-08-28T20:59:04.761Z"
@@ -4588,7 +4588,7 @@
             "open_issues": 159,
             "owner": "FriendsOfSymfony",
             "repo": "FOSRestBundle",
-            "stars": 2794,
+            "stars": 2795,
             "topics": [
               "php",
               "rest",
@@ -4638,8 +4638,8 @@
             "id": 29501260,
             "language": "PHP",
             "license": "MIT",
-            "last_commit": "2026-09-23T14:19:18Z",
-            "open_issues": 236,
+            "last_commit": "2026-09-24T07:24:51Z",
+            "open_issues": 238,
             "owner": "api-platform",
             "repo": "core",
             "stars": 2576,
@@ -5040,7 +5040,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-23T14:24:31.979Z",
+    "last_updated": "2026-09-24T14:23:38.912Z",
     "original_repository_info": {
       "archived": false,
       "description": "A list of awesome Symfony bundles, utilities and resources.",
