@@ -81,7 +81,7 @@ Table of contents:
 * [LiipCodeBundle](https://github.com/liip/LiipCodeBundle) ⚠️ Archived - A set of Symfony2 console commands to help developers deal with the various ways of identifying classes, templates, bundles, services, etc.
 * [CacheAdministrationBundle](https://github.com/yamiko-ninja/CacheAdministrationBundle) ⭐ 18 | 🐛 1 | 🌐 PHP | 📅 2017-01-07 - This bundle includes a controller with actions to clear the various caches.
 * [SandboxBundle](https://github.com/danrevah/sandbox-bundle) ⭐ 18 | 🐛 0 | 🌐 PHP | 📅 2018-07-14 - Overriding controller logic & response in a Sandbox environment.
-* [BeelabTestBundle](https://github.com/Bee-Lab/BeelabTestBundle) ⭐ 17 | 🐛 1 | 🌐 PHP | 📅 2026-09-22 - This bundle contains just an opinionated extension of Symfony WebTestCase.
+* [BeelabTestBundle](https://github.com/Bee-Lab/BeelabTestBundle) ⭐ 17 | 🐛 0 | 🌐 PHP | 📅 2026-09-26 - This bundle contains just an opinionated extension of Symfony WebTestCase.
 * [ParamConverterBundle](https://github.com/jakzal/ParamConverterBundle) ⚠️ Archived - This bundle provides additional param converters for Symfony.
 * [AccessibleBundle](https://github.com/antares993/AccessibleBundle) ⭐ 15 | 🐛 0 | 🌐 PHP | 📅 2017-05-17 - Define your class' getters, setters and constructor using powerful annotations.
 * [TwigReflectionBundle](https://github.com/arnaud-lb/TwigReflectionBundle) ⭐ 15 | 🐛 1 | 🌐 PHP | 📅 2013-01-19 - Displays what's in Twig.
@@ -92,14 +92,14 @@ Table of contents:
 
 ## Distributions
 
-* [API Platform framework](https://github.com/api-platform/api-platform) ⭐ 9,185 | 🐛 3 | 🌐 PHP | 📅 2026-09-01
+* [API Platform framework](https://github.com/api-platform/api-platform) ⭐ 9,186 | 🐛 3 | 🌐 PHP | 📅 2026-09-01
 * [Symfony Standard Edition](https://github.com/symfony/symfony-standard) ⚠️ Archived
 * [Symfony CMF Standard Edition](https://github.com/symfony-cmf/standard-edition) ⚠️ Archived
 * [Kunstmaan Bundles Standard Edition](https://github.com/Kunstmaan/KunstmaanBundlesStandardEdition) ⚠️ Archived
 
 ## Ecommerce
 
-* [Sylius](https://github.com/Sylius/Sylius) ⭐ 8,542 | 🐛 228 | 🌐 PHP | 📅 2026-09-25 - E-Commerce PHP framework built on top of Symfony with component-based architecture and format-agnostic rendering
+* [Sylius](https://github.com/Sylius/Sylius) ⭐ 8,542 | 🐛 229 | 🌐 PHP | 📅 2026-09-26 - E-Commerce PHP framework built on top of Symfony with component-based architecture and format-agnostic rendering
 * [Elcodi](https://github.com/elcodi/elcodi) ⚠️ Archived - E-commerce PHP Components and Symfony Bundles
 * [Bamboo](https://github.com/elcodi/bamboo) ⚠️ Archived -  Full-stack E-commerce application based on Symfony and Elcodi components
 * [Aimeos](https://aimeos.org/Symfony/) - Ultra fast PHP e-commerce framework for #gigacommerce
@@ -257,7 +257,7 @@ Table of contents:
 
 ## Storage
 
-* [DoctrineMigrationsBundle](https://github.com/doctrine/DoctrineMigrationsBundle) ⭐ 4,302 | 🐛 44 | 🌐 PHP | 📅 2026-08-31 - Integrates the Doctrine2 Migrations library.
+* [DoctrineMigrationsBundle](https://github.com/doctrine/DoctrineMigrationsBundle) ⭐ 4,301 | 🐛 44 | 🌐 PHP | 📅 2026-08-31 - Integrates the Doctrine2 Migrations library.
 * [DoctrineFixturesBundle](https://github.com/doctrine/DoctrineFixturesBundle) ⭐ 2,532 | 🐛 28 | 🌐 PHP | 📅 2026-09-16 - Integrates the Doctrine2 Data Fixtures library.
 * [StofDoctrineExtensionsBundle](https://github.com/stof/StofDoctrineExtensionsBundle) ⭐ 1,927 | 🐛 37 | 🌐 PHP | 📅 2026-01-23 - This bundle provides integration for DoctrineExtensions.
 * [SncRedisBundle](https://github.com/snc/SncRedisBundle) ⭐ 1,049 | 🐛 0 | 🌐 PHP | 📅 2026-08-03 - Bundle to integrate Redis into your app.
@@ -294,7 +294,7 @@ Table of contents:
 
 ## Third Party APIs
 
-* [AlgoliaSearchBundle](https://github.com/algolia/AlgoliaSearchBundle) ⭐ 194 | 🐛 26 | 🌐 PHP | 📅 2026-04-21 - Seamless integration of Algolia Search into your Symfony project.
+* [AlgoliaSearchBundle](https://github.com/algolia/AlgoliaSearchBundle) ⭐ 195 | 🐛 26 | 🌐 PHP | 📅 2026-04-21 - Seamless integration of Algolia Search into your Symfony project.
 * [SwarrotBundle](https://github.com/swarrot/SwarrotBundle) ⭐ 90 | 🐛 12 | 🌐 PHP | 📅 2026-07-29 - A bundle for swarrot integration.
 * [YuccaPrerenderBundle](https://github.com/rjanot/YuccaPrerenderBundle) ⭐ 56 | 🐛 8 | 🌐 PHP | 📅 2019-01-05 - Symfony2 Bundle to use prerender.io.
 * [SwmMailHookBundle](https://github.com/ScullWM/MailHookBundle/) ⭐ 38 | 🐛 0 | 🌐 PHP | 📅 2024-01-02 - Bundle to catch API webhook from different mail service (Mailjet, Mandrill, custom)
@@ -319,8 +319,8 @@ Table of contents:
 
 * [FOSRestBundle](https://github.com/FriendsOfSymfony/FOSRestBundle) ⭐ 2,795 | 🐛 159 | 🌐 PHP | 📅 2026-02-10 - Provides various tools to rapidly develop RESTful API's & applications.
 * [LexikJWTAuthenticationBundle](https://github.com/lexik/LexikJWTAuthenticationBundle) ⭐ 2,609 | 🐛 120 | 🌐 PHP | 📅 2026-07-01 - This bundle provides JWT (Json Web Token) authentication for your REST API using the lcobucci/jwt library.
-* [DunglasApiBundle](https://github.com/dunglas/DunglasApiBundle) ⭐ 2,575 | 🐛 223 | 🌐 PHP | 📅 2026-09-25 - Bundle to build hypermedia-driven REST API.
-* [NelmioApiDocBundle](https://github.com/nelmio/NelmioApiDocBundle) ⭐ 2,368 | 🐛 60 | 🌐 PHP | 📅 2026-09-21 - Generates documentation for your REST API from annotations.
+* [DunglasApiBundle](https://github.com/dunglas/DunglasApiBundle) ⭐ 2,575 | 🐛 217 | 🌐 PHP | 📅 2026-09-25 - Bundle to build hypermedia-driven REST API.
+* [NelmioApiDocBundle](https://github.com/nelmio/NelmioApiDocBundle) ⭐ 2,368 | 🐛 61 | 🌐 PHP | 📅 2026-09-21 - Generates documentation for your REST API from annotations.
 * [NelmioCorsBundle](https://github.com/nelmio/NelmioCorsBundle) ⭐ 1,925 | 🐛 9 | 🌐 PHP | 📅 2026-01-14 - Adds ability to add CORS-related headers based on simple ACL-style per-URL configurations.
 * [JMSSerializerBundle](https://github.com/schmittjoh/JMSSerializerBundle) ⭐ 1,802 | 🐛 96 | 🌐 PHP | 📅 2026-03-26 - Easily serialize, and deserialize data of any complexity.
 * [FOSOAuthServerBundle](https://github.com/FriendsOfSymfony/FOSOAuthServerBundle) ⭐ 1,076 | 🐛 201 | 🌐 PHP | 📅 2024-01-12 - A server side OAuth2 bundle.
@@ -344,4 +344,4 @@ To the extent possible under law, [Emanuele Minotto](http://emanueleminotto.gith
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-25._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-26._

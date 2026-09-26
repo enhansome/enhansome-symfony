@@ -705,8 +705,8 @@
             "id": 28238667,
             "language": "PHP",
             "license": "LGPL-3.0",
-            "last_commit": "2026-09-22T16:37:41Z",
-            "open_issues": 1,
+            "last_commit": "2026-09-26T06:32:59Z",
+            "open_issues": 0,
             "owner": "Bee-Lab",
             "repo": "BeelabTestBundle",
             "stars": 17,
@@ -878,7 +878,7 @@
             "open_issues": 3,
             "owner": "api-platform",
             "repo": "api-platform",
-            "stars": 9185,
+            "stars": 9186,
             "topics": [
               "api",
               "api-platform",
@@ -994,8 +994,8 @@
             "id": 2717549,
             "language": "PHP",
             "license": "MIT",
-            "last_commit": "2026-09-25T13:50:34Z",
-            "open_issues": 228,
+            "last_commit": "2026-09-26T02:11:34Z",
+            "open_issues": 229,
             "owner": "Sylius",
             "repo": "Sylius",
             "stars": 8542,
@@ -3544,7 +3544,7 @@
             "open_issues": 44,
             "owner": "doctrine",
             "repo": "DoctrineMigrationsBundle",
-            "stars": 4302,
+            "stars": 4301,
             "topics": [
               "bundle",
               "doctrine",
@@ -4257,7 +4257,7 @@
             "open_issues": 26,
             "owner": "algolia",
             "repo": "search-bundle",
-            "stars": 194,
+            "stars": 195,
             "topics": []
           },
           "first_seen": "2026-08-28T20:59:04.761Z"
@@ -4638,8 +4638,8 @@
             "id": 29501260,
             "language": "PHP",
             "license": "MIT",
-            "last_commit": "2026-09-25T09:03:18Z",
-            "open_issues": 223,
+            "last_commit": "2026-09-25T19:38:37Z",
+            "open_issues": 217,
             "owner": "api-platform",
             "repo": "core",
             "stars": 2575,
@@ -4675,7 +4675,7 @@
             "language": "PHP",
             "license": "MIT",
             "last_commit": "2026-09-21T03:54:34Z",
-            "open_issues": 60,
+            "open_issues": 61,
             "owner": "nelmio",
             "repo": "NelmioApiDocBundle",
             "stars": 2368,
@@ -5040,7 +5040,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-25T14:43:46.988Z",
+    "last_updated": "2026-09-26T13:51:52.599Z",
     "original_repository_info": {
       "archived": false,
       "description": "A list of awesome Symfony bundles, utilities and resources.",
