@@ -306,7 +306,7 @@
             "open_issues": 46,
             "owner": "liip",
             "repo": "LiipFunctionalTestBundle",
-            "stars": 648,
+            "stars": 647,
             "topics": [
               "bundle",
               "php",
@@ -332,7 +332,7 @@
             "open_issues": 14,
             "owner": "raulfraile",
             "repo": "LadybugBundle",
-            "stars": 325,
+            "stars": 324,
             "topics": []
           },
           "first_seen": "2026-08-28T20:59:04.761Z"
@@ -994,8 +994,8 @@
             "id": 2717549,
             "language": "PHP",
             "license": "MIT",
-            "last_commit": "2026-09-26T02:11:34Z",
-            "open_issues": 229,
+            "last_commit": "2026-09-27T09:53:41Z",
+            "open_issues": 227,
             "owner": "Sylius",
             "repo": "Sylius",
             "stars": 8542,
@@ -1084,7 +1084,7 @@
             "open_issues": 72,
             "owner": "craue",
             "repo": "CraueFormFlowBundle",
-            "stars": 749,
+            "stars": 748,
             "topics": [
               "bundle",
               "php",
@@ -1397,7 +1397,7 @@
             "open_issues": 1,
             "owner": "KnpLabs",
             "repo": "KnpSnappyBundle",
-            "stars": 1246,
+            "stars": 1244,
             "topics": [
               "hacktoberfest",
               "html-to-image",
@@ -2155,7 +2155,7 @@
             "open_issues": 15,
             "owner": "helios-ag",
             "repo": "FMBbCodeBundle",
-            "stars": 56,
+            "stars": 55,
             "topics": [
               "bbcode",
               "bbcode-filter",
@@ -3457,8 +3457,8 @@
             "id": 88190851,
             "language": "PHP",
             "license": "MIT",
-            "last_commit": "2026-09-24T15:15:02Z",
-            "open_issues": 5,
+            "last_commit": "2026-09-26T20:59:05Z",
+            "open_issues": 7,
             "owner": "symfony",
             "repo": "recipes-contrib",
             "stars": 559,
@@ -3544,7 +3544,7 @@
             "open_issues": 44,
             "owner": "doctrine",
             "repo": "DoctrineMigrationsBundle",
-            "stars": 4301,
+            "stars": 4300,
             "topics": [
               "bundle",
               "doctrine",
@@ -3572,7 +3572,7 @@
             "open_issues": 28,
             "owner": "doctrine",
             "repo": "DoctrineFixturesBundle",
-            "stars": 2532,
+            "stars": 2530,
             "topics": [
               "doctrine",
               "doctrine-fixtures",
@@ -3600,7 +3600,7 @@
             "open_issues": 37,
             "owner": "stof",
             "repo": "StofDoctrineExtensionsBundle",
-            "stars": 1927,
+            "stars": 1926,
             "topics": [
               "doctrine",
               "doctrine-odm-mongodb",
@@ -4639,10 +4639,10 @@
             "language": "PHP",
             "license": "MIT",
             "last_commit": "2026-09-25T19:38:37Z",
-            "open_issues": 217,
+            "open_issues": 218,
             "owner": "api-platform",
             "repo": "core",
-            "stars": 2575,
+            "stars": 2574,
             "topics": [
               "api",
               "api-platform",
@@ -4710,7 +4710,7 @@
             "open_issues": 9,
             "owner": "nelmio",
             "repo": "NelmioCorsBundle",
-            "stars": 1925,
+            "stars": 1924,
             "topics": [
               "bundle",
               "cors",
@@ -5040,7 +5040,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-26T13:51:52.599Z",
+    "last_updated": "2026-09-27T14:49:31.288Z",
     "original_repository_info": {
       "archived": false,
       "description": "A list of awesome Symfony bundles, utilities and resources.",
@@ -5052,7 +5052,7 @@
       "open_issues": 11,
       "owner": "sitepoint-editors",
       "repo": "awesome-symfony",
-      "stars": 1570,
+      "stars": 1569,
       "topics": []
     },
     "original_repository_sha": "754cb6f0d024103dae16e3dc1ca1074806f87d13",
