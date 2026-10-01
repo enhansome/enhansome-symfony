@@ -92,7 +92,7 @@ Table of contents:
 
 ## Distributions
 
-* [API Platform framework](https://github.com/api-platform/api-platform) ⭐ 9,186 | 🐛 3 | 🌐 PHP | 📅 2026-09-01
+* [API Platform framework](https://github.com/api-platform/api-platform) ⭐ 9,187 | 🐛 3 | 🌐 PHP | 📅 2026-09-01
 * [Symfony Standard Edition](https://github.com/symfony/symfony-standard) ⚠️ Archived
 * [Symfony CMF Standard Edition](https://github.com/symfony-cmf/standard-edition) ⚠️ Archived
 * [Kunstmaan Bundles Standard Edition](https://github.com/Kunstmaan/KunstmaanBundlesStandardEdition) ⚠️ Archived
@@ -239,14 +239,14 @@ Table of contents:
 
 ## Recipes
 
-* [Symfony Recipes](https://github.com/symfony/recipes) ⭐ 1,029 | 🐛 52 | 🌐 PHP | 📅 2026-09-28 - Symfony recipes allow the automation of Composer packages configuration via the Symfony Flex Composer plugin.
+* [Symfony Recipes](https://github.com/symfony/recipes) ⭐ 1,029 | 🐛 53 | 🌐 PHP | 📅 2026-10-01 - Symfony recipes allow the automation of Composer packages configuration via the Symfony Flex Composer plugin.
 * [Symfony Recipes (Contrib)](https://github.com/symfony/recipes-contrib) ⭐ 559 | 🐛 5 | 🌐 PHP | 📅 2026-09-30 - Symfony recipes allow the automation of Composer packages configuration via the Symfony Flex Composer plugin.
 
 ## Resources
 
 * [Symfony2 Service Config Converter](http://converter.rosstuck.com/) - A simple service to convert services configuration between YAML, XML and INI.
 * [Twigfiddle](http://twigfiddle.com/) - Small development environment to develop, run, store and access Twig code online.
-* [Modern PHP cheatsheet](https://github.com/smknstd/modern-php-cheatsheet) ⭐ 1,327 | 🐛 1 | 📅 2025-02-11 - Cheatsheet for some Php knowledge you will frequently encounter in modern projects.
+* [Modern PHP cheatsheet](https://github.com/smknstd/modern-php-cheatsheet) ⭐ 1,328 | 🐛 1 | 📅 2025-02-11 - Cheatsheet for some Php knowledge you will frequently encounter in modern projects.
 
 ## Service Container
 
@@ -303,7 +303,7 @@ Table of contents:
 
 ## User Management
 
-* [HWIOAuthBundle](https://github.com/hwi/HWIOAuthBundle) ⭐ 2,362 | 🐛 0 | 🌐 PHP | 📅 2026-08-11 - OAuth client integration. Supports both OAuth1.0a and OAuth2.
+* [HWIOAuthBundle](https://github.com/hwi/HWIOAuthBundle) ⭐ 2,359 | 🐛 0 | 🌐 PHP | 📅 2026-08-11 - OAuth client integration. Supports both OAuth1.0a and OAuth2.
 * [two-factor-bundle](https://github.com/scheb/two-factor-bundle) ⚠️ Archived - This Symfony2 bundle provides two-factor authentication for your website.
 * [JmikolaAutoLoginBundle](https://github.com/jmikola/JmikolaAutoLoginBundle) ⭐ 84 | 🐛 7 | 🌐 PHP | 📅 2023-12-11 - This bundle integrates the AutoLogin library with Symfony2, which implements a security firewall listener to authenticate users based on a single query parameter.
 * [SamlBundle](https://github.com/pdias/SamlBundle) ⭐ 16 | 🐛 0 | 🌐 PHP | 📅 2020-01-23 - The SamlBundle adds support for SAML 2.0 Service Provider in Symfony2.
@@ -318,8 +318,8 @@ Table of contents:
 ## Web Services
 
 * [FOSRestBundle](https://github.com/FriendsOfSymfony/FOSRestBundle) ⭐ 2,795 | 🐛 159 | 🌐 PHP | 📅 2026-02-10 - Provides various tools to rapidly develop RESTful API's & applications.
-* [LexikJWTAuthenticationBundle](https://github.com/lexik/LexikJWTAuthenticationBundle) ⭐ 2,609 | 🐛 120 | 🌐 PHP | 📅 2026-07-01 - This bundle provides JWT (Json Web Token) authentication for your REST API using the lcobucci/jwt library.
-* [DunglasApiBundle](https://github.com/dunglas/DunglasApiBundle) ⭐ 2,576 | 🐛 135 | 🌐 PHP | 📅 2026-09-30 - Bundle to build hypermedia-driven REST API.
+* [LexikJWTAuthenticationBundle](https://github.com/lexik/LexikJWTAuthenticationBundle) ⭐ 2,608 | 🐛 120 | 🌐 PHP | 📅 2026-07-01 - This bundle provides JWT (Json Web Token) authentication for your REST API using the lcobucci/jwt library.
+* [DunglasApiBundle](https://github.com/dunglas/DunglasApiBundle) ⭐ 2,577 | 🐛 135 | 🌐 PHP | 📅 2026-10-01 - Bundle to build hypermedia-driven REST API.
 * [NelmioApiDocBundle](https://github.com/nelmio/NelmioApiDocBundle) ⭐ 2,370 | 🐛 64 | 🌐 PHP | 📅 2026-09-28 - Generates documentation for your REST API from annotations.
 * [NelmioCorsBundle](https://github.com/nelmio/NelmioCorsBundle) ⭐ 1,925 | 🐛 9 | 🌐 PHP | 📅 2026-01-14 - Adds ability to add CORS-related headers based on simple ACL-style per-URL configurations.
 * [JMSSerializerBundle](https://github.com/schmittjoh/JMSSerializerBundle) ⭐ 1,801 | 🐛 97 | 🌐 PHP | 📅 2026-03-26 - Easily serialize, and deserialize data of any complexity.
@@ -344,4 +344,4 @@ To the extent possible under law, [Emanuele Minotto](http://emanueleminotto.gith
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-30._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-01._
