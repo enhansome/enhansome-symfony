@@ -34,7 +34,7 @@ Table of contents:
 * [AdminLTEBundle](https://github.com/kevinpapst/AdminLTEBundle) ⚠️ Archived - Admin theme based on the AdminLTE Template
 * [Umbrella framework](https://github.com/acantepie/umbrella) ⭐ 146 | 🐛 5 | 🌐 PHP | 📅 2025-03-30 - Admin components and theme to create administration backends.
 * [TablerBundle](https://github.com/kevinpapst/TablerBundle) ⭐ 133 | 🐛 13 | 🌐 Twig | 📅 2026-09-24 - Admin theme based on the Tabler Template. It ships with many twig helpers (functions, filter, embeds, macros and includes).
-* [EasyAdminBundle](https://github.com/javiereguiluz/EasyAdminBundle) ⭐ 22 | 🐛 0 | 🌐 PHP | 📅 2026-10-01 - Simple admin generator for Symfony applications
+* [EasyAdminBundle](https://github.com/javiereguiluz/EasyAdminBundle) ⭐ 22 | 🐛 0 | 🌐 PHP | 📅 2026-10-02 - Simple admin generator for Symfony applications
 * [AdminCrudBundle](https://github.com/MWSimple/AdminCrudBundle) ⭐ 20 | 🐛 10 | 🌐 HTML | 📅 2019-04-26 - AdminCrudBundle - Use SensioGeneratorBundle. Extend controller, add paginator, filter, others.
 
 ## Certification
@@ -99,7 +99,7 @@ Table of contents:
 
 ## Ecommerce
 
-* [Sylius](https://github.com/Sylius/Sylius) ⭐ 8,546 | 🐛 233 | 🌐 PHP | 📅 2026-09-28 - E-Commerce PHP framework built on top of Symfony with component-based architecture and format-agnostic rendering
+* [Sylius](https://github.com/Sylius/Sylius) ⭐ 8,548 | 🐛 234 | 🌐 PHP | 📅 2026-09-28 - E-Commerce PHP framework built on top of Symfony with component-based architecture and format-agnostic rendering
 * [Elcodi](https://github.com/elcodi/elcodi) ⚠️ Archived - E-commerce PHP Components and Symfony Bundles
 * [Bamboo](https://github.com/elcodi/bamboo) ⚠️ Archived -  Full-stack E-commerce application based on Symfony and Elcodi components
 * [Aimeos](https://aimeos.org/Symfony/) - Ultra fast PHP e-commerce framework for #gigacommerce
@@ -116,7 +116,7 @@ Table of contents:
 ## Internationalization
 
 * [BazingaJsTranslationBundle](https://github.com/willdurand/BazingaJsTranslationBundle) ⭐ 583 | 🐛 4 | 🌐 PHP | 📅 2026-03-06 - A pretty nice way to expose your Symfony2 translation messages to your client applications.
-* [LexikTranslationBundle](https://github.com/lexik/LexikTranslationBundle) ⭐ 437 | 🐛 70 | 🌐 PHP | 📅 2026-07-07 - Allows to import translation files content into the database and provide a GUI to edit translations.
+* [LexikTranslationBundle](https://github.com/lexik/LexikTranslationBundle) ⭐ 437 | 🐛 72 | 🌐 PHP | 📅 2026-07-07 - Allows to import translation files content into the database and provide a GUI to edit translations.
 * [TranslationFormBundle](https://github.com/a2lix/TranslationFormBundle) ⭐ 336 | 🐛 0 | 🌐 PHP | 📅 2026-04-15 - Translation field to facilitate the use of the Translatable Doctrine extension.
 * [LuneticsLocaleBundle](https://github.com/lunetics/LocaleBundle) ⭐ 186 | 🐛 28 | 🌐 PHP | 📅 2024-05-31 - Guess the visitor’s locale from different parameters.
 * [TimezoneBundle](https://github.com/lunetics/TimezoneBundle) ⭐ 26 | 🐛 1 | 🌐 PHP | 📅 2026-08-19 - Serverside Timezone detection.
@@ -257,7 +257,7 @@ Table of contents:
 
 ## Storage
 
-* [DoctrineMigrationsBundle](https://github.com/doctrine/DoctrineMigrationsBundle) ⭐ 4,301 | 🐛 44 | 🌐 PHP | 📅 2026-08-31 - Integrates the Doctrine2 Migrations library.
+* [DoctrineMigrationsBundle](https://github.com/doctrine/DoctrineMigrationsBundle) ⭐ 4,300 | 🐛 44 | 🌐 PHP | 📅 2026-08-31 - Integrates the Doctrine2 Migrations library.
 * [DoctrineFixturesBundle](https://github.com/doctrine/DoctrineFixturesBundle) ⭐ 2,531 | 🐛 28 | 🌐 PHP | 📅 2026-09-29 - Integrates the Doctrine2 Data Fixtures library.
 * [StofDoctrineExtensionsBundle](https://github.com/stof/StofDoctrineExtensionsBundle) ⭐ 1,926 | 🐛 37 | 🌐 PHP | 📅 2026-01-23 - This bundle provides integration for DoctrineExtensions.
 * [SncRedisBundle](https://github.com/snc/SncRedisBundle) ⭐ 1,049 | 🐛 0 | 🌐 PHP | 📅 2026-08-03 - Bundle to integrate Redis into your app.
@@ -344,4 +344,4 @@ To the extent possible under law, [Emanuele Minotto](http://emanueleminotto.gith
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-02._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-03._

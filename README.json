@@ -161,7 +161,7 @@
             "id": 194716538,
             "language": "PHP",
             "license": "MIT",
-            "last_commit": "2026-10-01T19:01:19Z",
+            "last_commit": "2026-10-02T17:48:58Z",
             "open_issues": 0,
             "owner": "javiereguiluz",
             "repo": "EasyAdminBundle",
@@ -205,7 +205,7 @@
         {
           "node_type": "item",
           "title": "Symfony certification preparation list",
-          "description": null,
+          "description": "ThomasBerends/symfony-certification-preparation-list",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -235,7 +235,7 @@
         {
           "node_type": "item",
           "title": "CLI tool to train certifications",
-          "description": null,
+          "description": "certificationy/certificationy-cli",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -261,7 +261,7 @@
         {
           "node_type": "item",
           "title": "Symfony 3 certification guide",
-          "description": null,
+          "description": "raulconti/symfony-3-certification-guide",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -865,7 +865,7 @@
         {
           "node_type": "item",
           "title": "API Platform framework",
-          "description": null,
+          "description": "api-platform/api-platform",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -907,7 +907,7 @@
         {
           "node_type": "item",
           "title": "Symfony Standard Edition",
-          "description": null,
+          "description": "symfony/symfony-standard",
           "children": [],
           "repo_info": {
             "archived": true,
@@ -933,7 +933,7 @@
         {
           "node_type": "item",
           "title": "Symfony CMF Standard Edition",
-          "description": null,
+          "description": "symfony-cmf/standard-edition",
           "children": [],
           "repo_info": {
             "archived": true,
@@ -958,7 +958,7 @@
         {
           "node_type": "item",
           "title": "Kunstmaan Bundles Standard Edition",
-          "description": null,
+          "description": "Kunstmaan/KunstmaanBundlesStandardEdition",
           "children": [],
           "repo_info": {
             "archived": true,
@@ -995,10 +995,10 @@
             "language": "PHP",
             "license": "MIT",
             "last_commit": "2026-09-28T13:17:03Z",
-            "open_issues": 233,
+            "open_issues": 234,
             "owner": "Sylius",
             "repo": "Sylius",
-            "stars": 8546,
+            "stars": 8548,
             "topics": [
               "api",
               "api-ecommerce",
@@ -1260,7 +1260,7 @@
             "language": "PHP",
             "license": "MIT",
             "last_commit": "2026-07-07T22:23:51Z",
-            "open_issues": 70,
+            "open_issues": 72,
             "owner": "lexik",
             "repo": "LexikTranslationBundle",
             "stars": 437,
@@ -3544,7 +3544,7 @@
             "open_issues": 44,
             "owner": "doctrine",
             "repo": "DoctrineMigrationsBundle",
-            "stars": 4301,
+            "stars": 4300,
             "topics": [
               "bundle",
               "doctrine",
@@ -4638,7 +4638,7 @@
             "id": 29501260,
             "language": "PHP",
             "license": "MIT",
-            "last_commit": "2026-10-02T13:49:31Z",
+            "last_commit": "2026-10-02T21:28:23Z",
             "open_issues": 133,
             "owner": "api-platform",
             "repo": "core",
@@ -5040,7 +5040,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-02T15:57:29.416Z",
+    "last_updated": "2026-10-03T05:07:48.680Z",
     "original_repository_info": {
       "archived": false,
       "description": "A list of awesome Symfony bundles, utilities and resources.",
