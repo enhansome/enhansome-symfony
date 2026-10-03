@@ -878,7 +878,7 @@
             "open_issues": 3,
             "owner": "api-platform",
             "repo": "api-platform",
-            "stars": 9186,
+            "stars": 9187,
             "topics": [
               "api",
               "api-platform",
@@ -998,7 +998,7 @@
             "open_issues": 234,
             "owner": "Sylius",
             "repo": "Sylius",
-            "stars": 8548,
+            "stars": 8549,
             "topics": [
               "api",
               "api-ecommerce",
@@ -3544,7 +3544,7 @@
             "open_issues": 44,
             "owner": "doctrine",
             "repo": "DoctrineMigrationsBundle",
-            "stars": 4300,
+            "stars": 4301,
             "topics": [
               "bundle",
               "doctrine",
@@ -4639,7 +4639,7 @@
             "language": "PHP",
             "license": "MIT",
             "last_commit": "2026-10-02T21:28:23Z",
-            "open_issues": 133,
+            "open_issues": 134,
             "owner": "api-platform",
             "repo": "core",
             "stars": 2577,
@@ -5040,7 +5040,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-03T05:07:48.680Z",
+    "last_updated": "2026-10-03T14:24:36.770Z",
     "original_repository_info": {
       "archived": false,
       "description": "A list of awesome Symfony bundles, utilities and resources.",
