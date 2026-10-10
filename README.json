@@ -161,7 +161,7 @@
             "id": 194716538,
             "language": "PHP",
             "license": "MIT",
-            "last_commit": "2026-10-08T19:04:40Z",
+            "last_commit": "2026-10-10T07:28:28Z",
             "open_issues": 0,
             "owner": "javiereguiluz",
             "repo": "EasyAdminBundle",
@@ -998,7 +998,7 @@
             "open_issues": 240,
             "owner": "Sylius",
             "repo": "Sylius",
-            "stars": 8556,
+            "stars": 8555,
             "topics": [
               "api",
               "api-ecommerce",
@@ -1911,7 +1911,7 @@
             "open_issues": 7,
             "owner": "alexdebril",
             "repo": "rss-atom-bundle",
-            "stars": 138,
+            "stars": 137,
             "topics": [
               "atom",
               "atom-feed",
@@ -3433,8 +3433,8 @@
             "id": 79607905,
             "language": "PHP",
             "license": "MIT",
-            "last_commit": "2026-10-07T12:26:30Z",
-            "open_issues": 56,
+            "last_commit": "2026-10-10T05:59:48Z",
+            "open_issues": 59,
             "owner": "symfony",
             "repo": "recipes",
             "stars": 1029,
@@ -4639,7 +4639,7 @@
             "language": "PHP",
             "license": "MIT",
             "last_commit": "2026-10-09T14:54:06Z",
-            "open_issues": 146,
+            "open_issues": 150,
             "owner": "api-platform",
             "repo": "core",
             "stars": 2579,
@@ -4678,7 +4678,7 @@
             "open_issues": 53,
             "owner": "nelmio",
             "repo": "NelmioApiDocBundle",
-            "stars": 2370,
+            "stars": 2372,
             "topics": [
               "api",
               "api-documentation",
@@ -5040,7 +5040,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-09T16:31:36.509Z",
+    "last_updated": "2026-10-10T15:33:20.471Z",
     "original_repository_info": {
       "archived": false,
       "description": "A list of awesome Symfony bundles, utilities and resources.",
