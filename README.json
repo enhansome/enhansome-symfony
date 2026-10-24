@@ -994,7 +994,7 @@
             "id": 2717549,
             "language": "PHP",
             "license": "MIT",
-            "last_commit": "2026-10-23T02:13:36Z",
+            "last_commit": "2026-10-24T02:11:24Z",
             "open_issues": 247,
             "owner": "Sylius",
             "repo": "Sylius",
@@ -1625,7 +1625,7 @@
             "open_issues": 0,
             "owner": "beberlei",
             "repo": "metrics",
-            "stars": 338,
+            "stars": 337,
             "topics": []
           },
           "first_seen": "2026-08-28T20:59:04.761Z"
@@ -3284,7 +3284,7 @@
             "open_issues": 61,
             "owner": "php-enqueue",
             "repo": "enqueue-dev",
-            "stars": 2223,
+            "stars": 2222,
             "topics": [
               "amazon-sqs",
               "amqp",
@@ -3457,8 +3457,8 @@
             "id": 88190851,
             "language": "PHP",
             "license": "MIT",
-            "last_commit": "2026-10-23T08:43:59Z",
-            "open_issues": 8,
+            "last_commit": "2026-10-24T06:58:01Z",
+            "open_issues": 9,
             "owner": "symfony",
             "repo": "recipes-contrib",
             "stars": 559,
@@ -4639,7 +4639,7 @@
             "language": "PHP",
             "license": "MIT",
             "last_commit": "2026-10-23T07:53:05Z",
-            "open_issues": 147,
+            "open_issues": 150,
             "owner": "api-platform",
             "repo": "core",
             "stars": 2579,
@@ -4675,7 +4675,7 @@
             "language": "PHP",
             "license": "MIT",
             "last_commit": "2026-10-19T03:55:02Z",
-            "open_issues": 56,
+            "open_issues": 57,
             "owner": "nelmio",
             "repo": "NelmioApiDocBundle",
             "stars": 2375,
@@ -4885,7 +4885,7 @@
             "open_issues": 13,
             "owner": "nilportugues",
             "repo": "symfony-jsonapi",
-            "stars": 114,
+            "stars": 113,
             "topics": [
               "api",
               "json",
@@ -5040,7 +5040,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-23T14:24:02.817Z",
+    "last_updated": "2026-10-24T13:33:59.023Z",
     "original_repository_info": {
       "archived": false,
       "description": "A list of awesome Symfony bundles, utilities and resources.",
@@ -5052,7 +5052,7 @@
       "open_issues": 13,
       "owner": "sitepoint-editors",
       "repo": "awesome-symfony",
-      "stars": 1569,
+      "stars": 1568,
       "topics": []
     },
     "original_repository_sha": "754cb6f0d024103dae16e3dc1ca1074806f87d13",
