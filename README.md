@@ -34,7 +34,7 @@ Table of contents:
 * [AdminLTEBundle](https://github.com/kevinpapst/AdminLTEBundle) ⚠️ Archived - Admin theme based on the AdminLTE Template
 * [Umbrella framework](https://github.com/acantepie/umbrella) ⭐ 146 | 🐛 5 | 🌐 PHP | 📅 2025-03-30 - Admin components and theme to create administration backends.
 * [TablerBundle](https://github.com/kevinpapst/TablerBundle) ⭐ 133 | 🐛 15 | 🌐 Twig | 📅 2026-09-24 - Admin theme based on the Tabler Template. It ships with many twig helpers (functions, filter, embeds, macros and includes).
-* [EasyAdminBundle](https://github.com/javiereguiluz/EasyAdminBundle) ⭐ 22 | 🐛 0 | 🌐 PHP | 📅 2026-10-23 - Simple admin generator for Symfony applications
+* [EasyAdminBundle](https://github.com/javiereguiluz/EasyAdminBundle) ⭐ 22 | 🐛 0 | 🌐 PHP | 📅 2026-10-25 - Simple admin generator for Symfony applications
 * [AdminCrudBundle](https://github.com/MWSimple/AdminCrudBundle) ⭐ 20 | 🐛 10 | 🌐 HTML | 📅 2019-04-26 - AdminCrudBundle - Use SensioGeneratorBundle. Extend controller, add paginator, filter, others.
 
 ## Certification
@@ -92,14 +92,14 @@ Table of contents:
 
 ## Distributions
 
-* [API Platform framework](https://github.com/api-platform/api-platform) ⭐ 9,195 | 🐛 4 | 🌐 PHP | 📅 2026-09-01
+* [API Platform framework](https://github.com/api-platform/api-platform) ⭐ 9,196 | 🐛 4 | 🌐 PHP | 📅 2026-09-01
 * [Symfony Standard Edition](https://github.com/symfony/symfony-standard) ⚠️ Archived
 * [Symfony CMF Standard Edition](https://github.com/symfony-cmf/standard-edition) ⚠️ Archived
 * [Kunstmaan Bundles Standard Edition](https://github.com/Kunstmaan/KunstmaanBundlesStandardEdition) ⚠️ Archived
 
 ## Ecommerce
 
-* [Sylius](https://github.com/Sylius/Sylius) ⭐ 8,561 | 🐛 247 | 🌐 PHP | 📅 2026-10-24 - E-Commerce PHP framework built on top of Symfony with component-based architecture and format-agnostic rendering
+* [Sylius](https://github.com/Sylius/Sylius) ⭐ 8,562 | 🐛 247 | 🌐 PHP | 📅 2026-10-25 - E-Commerce PHP framework built on top of Symfony with component-based architecture and format-agnostic rendering
 * [Elcodi](https://github.com/elcodi/elcodi) ⚠️ Archived - E-commerce PHP Components and Symfony Bundles
 * [Bamboo](https://github.com/elcodi/bamboo) ⚠️ Archived -  Full-stack E-commerce application based on Symfony and Elcodi components
 * [Aimeos](https://aimeos.org/Symfony/) - Ultra fast PHP e-commerce framework for #gigacommerce
@@ -110,7 +110,7 @@ Table of contents:
 * [LexikFormFilterBundle](https://github.com/lexik/LexikFormFilterBundle) ⚠️ Archived - Lexik Form Filter bundle.
 * [IvoryCKEditorBundle](https://github.com/egeloen/IvoryCKEditorBundle) ⭐ 333 | 🐛 16 | 🌐 PHP | 📅 2019-03-06 - CKEditor integration in Symfony.
 * [KarserRecaptcha3Bundle](https://github.com/karser/KarserRecaptcha3Bundle) ⭐ 187 | 🐛 12 | 🌐 PHP | 📅 2025-12-08 - Integrates Google ReCAPTCHA v3 into Symfony.
-* [InfiniteFormBundle](https://github.com/infinite-networks/InfiniteFormBundle) ⭐ 169 | 🐛 12 | 🌐 PHP | 📅 2025-12-12 - A collection of useful form types and extensions.
+* [InfiniteFormBundle](https://github.com/infinite-networks/InfiniteFormBundle) ⭐ 169 | 🐛 13 | 🌐 PHP | 📅 2025-12-12 - A collection of useful form types and extensions.
 * [IvoryOrderedFormBundle](https://github.com/egeloen/IvoryOrderedFormBundle) ⭐ 48 | 🐛 2 | 🌐 PHP | 📅 2018-02-14 - Provides a form ordering support.
 
 ## Internationalization
@@ -126,7 +126,7 @@ Table of contents:
 ## Miscellaneous
 
 * [LiipImagineBundle](https://github.com/liip/LiipImagineBundle) ⭐ 1,709 | 🐛 82 | 🌐 PHP | 📅 2026-10-13 - Image manipulation bundle, based on Imagine library.
-* [KnpSnappyBundle](https://github.com/KnpLabs/KnpSnappyBundle) ⭐ 1,245 | 🐛 1 | 🌐 PHP | 📅 2026-01-07 - Easily create PDF and images by converting html using webkit.
+* [KnpSnappyBundle](https://github.com/KnpLabs/KnpSnappyBundle) ⭐ 1,244 | 🐛 1 | 🌐 PHP | 📅 2026-01-07 - Easily create PDF and images by converting html using webkit.
 * [OneupUploaderBundle](https://github.com/1up-lab/OneupUploaderBundle) ⭐ 604 | 🐛 20 | 🌐 PHP | 📅 2026-02-17 - Provides server implementations for several multi file uploader.
 * [APYDataGridBundle](https://github.com/APY/APYDataGridBundle) ⭐ 492 | 🐛 85 | 🌐 PHP | 📅 2026-06-19 - Datagrid Bundle.
 * [phone-number-bundle](https://github.com/misd-service-development/phone-number-bundle) ⭐ 454 | 🐛 64 | 🌐 PHP | 📅 2023-12-06 - Integrates libphonenumber.
@@ -137,7 +137,7 @@ Table of contents:
 * [ExcelBundle](https://github.com/liuggio/ExcelBundle) ⭐ 369 | 🐛 18 | 🌐 PHP | 📅 2022-11-25 - Excel integration in Symfony2 thanks to <https://github.com/PHPOffice/PHPExcel> ⚠️ Archived library.
 * [metrics](https://github.com/beberlei/metrics) ⭐ 337 | 🐛 0 | 🌐 PHP | 📅 2026-10-21 - Simple library that abstracts different metrics collectors.
 * [BazingaGeocoderBundle](https://github.com/geocoder-php/BazingaGeocoderBundle) ⭐ 323 | 🐛 3 | 🌐 PHP | 📅 2026-02-17 - Integration of the Geocoder library.
-* [FMElfinderBundle](https://github.com/helios-ag/FMElfinderBundle) ⭐ 280 | 🐛 0 | 🌐 PHP | 📅 2026-10-04 - Provides Elfinder filebrowser integration with popular WYSIWYG editors.
+* [FMElfinderBundle](https://github.com/helios-ag/FMElfinderBundle) ⭐ 281 | 🐛 0 | 🌐 PHP | 📅 2026-10-04 - Provides Elfinder filebrowser integration with popular WYSIWYG editors.
 * [BazingaFakerBundle](https://github.com/willdurand/BazingaFakerBundle) ⭐ 274 | 🐛 12 | 🌐 PHP | 📅 2021-06-18 - Put the awesome Faker library into the Symfony2 DIC and populate your database with fake data.
 * [LexikMaintenanceBundle](https://github.com/lexik/LexikMaintenanceBundle) ⚠️ Archived - This Symfony2 bundle allows you to place your website in maintenance mode by calling two commands in your console.
 * [CsaGuzzleBundle](https://github.com/csarrazi/CsaGuzzleBundle) ⚠️ Archived - Bundle integrating Guzzle >=4.0 in Symfony.
@@ -239,8 +239,8 @@ Table of contents:
 
 ## Recipes
 
-* [Symfony Recipes](https://github.com/symfony/recipes) ⭐ 1,029 | 🐛 60 | 🌐 PHP | 📅 2026-10-22 - Symfony recipes allow the automation of Composer packages configuration via the Symfony Flex Composer plugin.
-* [Symfony Recipes (Contrib)](https://github.com/symfony/recipes-contrib) ⭐ 559 | 🐛 9 | 🌐 PHP | 📅 2026-10-24 - Symfony recipes allow the automation of Composer packages configuration via the Symfony Flex Composer plugin.
+* [Symfony Recipes](https://github.com/symfony/recipes) ⭐ 1,029 | 🐛 59 | 🌐 PHP | 📅 2026-10-22 - Symfony recipes allow the automation of Composer packages configuration via the Symfony Flex Composer plugin.
+* [Symfony Recipes (Contrib)](https://github.com/symfony/recipes-contrib) ⭐ 559 | 🐛 10 | 🌐 PHP | 📅 2026-10-24 - Symfony recipes allow the automation of Composer packages configuration via the Symfony Flex Composer plugin.
 
 ## Resources
 
@@ -344,4 +344,4 @@ To the extent possible under law, [Emanuele Minotto](http://emanueleminotto.gith
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-24._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-25._
