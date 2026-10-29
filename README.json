@@ -19,7 +19,7 @@
             "open_issues": 21,
             "owner": "sonata-project",
             "repo": "SonataAdminBundle",
-            "stars": 2127,
+            "stars": 2126,
             "topics": [
               "admin",
               "admin-generator",
@@ -127,7 +127,7 @@
             "language": "Twig",
             "license": "MIT",
             "last_commit": "2026-09-24T15:02:47Z",
-            "open_issues": 16,
+            "open_issues": 17,
             "owner": "kevinpapst",
             "repo": "TablerBundle",
             "stars": 133,
@@ -161,7 +161,7 @@
             "id": 194716538,
             "language": "PHP",
             "license": "MIT",
-            "last_commit": "2026-10-27T22:15:52Z",
+            "last_commit": "2026-10-28T20:34:24Z",
             "open_issues": 0,
             "owner": "javiereguiluz",
             "repo": "EasyAdminBundle",
@@ -248,7 +248,7 @@
             "open_issues": 2,
             "owner": "certificationy",
             "repo": "certificationy-cli",
-            "stars": 433,
+            "stars": 432,
             "topics": [
               "cli",
               "cli-application",
@@ -422,7 +422,7 @@
             "open_issues": 9,
             "owner": "theofidry",
             "repo": "PsyshBundle",
-            "stars": 207,
+            "stars": 206,
             "topics": [
               "debug",
               "php",
@@ -470,7 +470,7 @@
             "open_issues": 7,
             "owner": "mmoreram",
             "repo": "ControllerExtraBundle",
-            "stars": 151,
+            "stars": 150,
             "topics": [
               "annotation",
               "controller",
@@ -878,7 +878,7 @@
             "open_issues": 7,
             "owner": "api-platform",
             "repo": "api-platform",
-            "stars": 9200,
+            "stars": 9199,
             "topics": [
               "api",
               "api-platform",
@@ -920,7 +920,7 @@
             "open_issues": 0,
             "owner": "symfony",
             "repo": "symfony-standard",
-            "stars": 1474,
+            "stars": 1473,
             "topics": [
               "php",
               "skeleton",
@@ -946,7 +946,7 @@
             "open_issues": 2,
             "owner": "symfony-cmf",
             "repo": "standard-edition",
-            "stars": 115,
+            "stars": 114,
             "topics": [
               "symfony",
               "symfony-application",
@@ -994,8 +994,8 @@
             "id": 2717549,
             "language": "PHP",
             "license": "MIT",
-            "last_commit": "2026-10-28T02:08:46Z",
-            "open_issues": 247,
+            "last_commit": "2026-10-29T08:00:00Z",
+            "open_issues": 245,
             "owner": "Sylius",
             "repo": "Sylius",
             "stars": 8563,
@@ -1289,7 +1289,7 @@
             "open_issues": 0,
             "owner": "a2lix",
             "repo": "TranslationFormBundle",
-            "stars": 336,
+            "stars": 335,
             "topics": [
               "bundle",
               "doctrine",
@@ -1318,7 +1318,7 @@
             "open_issues": 28,
             "owner": "lunetics-org",
             "repo": "LocaleBundle",
-            "stars": 186,
+            "stars": 185,
             "topics": [
               "localization",
               "symfony",
@@ -1397,7 +1397,7 @@
             "open_issues": 1,
             "owner": "KnpLabs",
             "repo": "KnpSnappyBundle",
-            "stars": 1244,
+            "stars": 1243,
             "topics": [
               "hacktoberfest",
               "html-to-image",
@@ -1482,7 +1482,7 @@
             "open_issues": 64,
             "owner": "misd-service-development",
             "repo": "phone-number-bundle",
-            "stars": 454,
+            "stars": 453,
             "topics": [
               "bundle",
               "libphonenumber",
@@ -1562,7 +1562,7 @@
             "open_issues": 30,
             "owner": "suncat2000",
             "repo": "MobileDetectBundle",
-            "stars": 393,
+            "stars": 392,
             "topics": []
           },
           "first_seen": "2026-08-28T20:59:04.761Z"
@@ -1583,7 +1583,7 @@
             "open_issues": 45,
             "owner": "braincrafted",
             "repo": "bootstrap-bundle",
-            "stars": 392,
+            "stars": 391,
             "topics": []
           },
           "first_seen": "2026-08-28T20:59:04.761Z"
@@ -1604,7 +1604,7 @@
             "open_issues": 18,
             "owner": "liuggio",
             "repo": "ExcelBundle",
-            "stars": 369,
+            "stars": 368,
             "topics": []
           },
           "first_seen": "2026-08-28T20:59:04.761Z"
@@ -1667,7 +1667,7 @@
             "open_issues": 0,
             "owner": "helios-ag",
             "repo": "FMElfinderBundle",
-            "stars": 281,
+            "stars": 280,
             "topics": [
               "bundle",
               "ckeditor",
@@ -1717,7 +1717,7 @@
             "open_issues": 22,
             "owner": "lexik",
             "repo": "LexikMaintenanceBundle",
-            "stars": 254,
+            "stars": 253,
             "topics": [
               "bundle",
               "php",
@@ -1786,6 +1786,27 @@
         },
         {
           "node_type": "item",
+          "title": "TbbcMoneyBundle",
+          "description": "This bundle is used to integrate the Money library from mathiasverraes into a symfony2 project.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "This bundle is used to integrate the Money library (https://github.com/mathiasverraes/money) into a Symfony project. This library is based on Fowler's Money pattern (https://verraes.net/2011/04/fowler-money-pattern-in-php/)",
+            "homepage": null,
+            "id": 10971079,
+            "language": "PHP",
+            "license": "MIT",
+            "last_commit": "2026-10-29T07:57:35Z",
+            "open_issues": 0,
+            "owner": "TheBigBrainsCompany",
+            "repo": "TbbcMoneyBundle",
+            "stars": 196,
+            "topics": []
+          },
+          "first_seen": "2026-08-28T20:59:04.761Z"
+        },
+        {
+          "node_type": "item",
           "title": "CloudBackupBundle",
           "description": "Be able to backup your database(s) and upload it to the cloud.",
           "children": [],
@@ -1800,28 +1821,7 @@
             "open_issues": 33,
             "owner": "dizda",
             "repo": "CloudBackupBundle",
-            "stars": 196,
-            "topics": []
-          },
-          "first_seen": "2026-08-28T20:59:04.761Z"
-        },
-        {
-          "node_type": "item",
-          "title": "TbbcMoneyBundle",
-          "description": "This bundle is used to integrate the Money library from mathiasverraes into a symfony2 project.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "This bundle is used to integrate the Money library (https://github.com/mathiasverraes/money) into a Symfony project. This library is based on Fowler's Money pattern (https://verraes.net/2011/04/fowler-money-pattern-in-php/)",
-            "homepage": null,
-            "id": 10971079,
-            "language": "PHP",
-            "license": "MIT",
-            "last_commit": "2026-10-27T14:16:04Z",
-            "open_issues": 1,
-            "owner": "TheBigBrainsCompany",
-            "repo": "TbbcMoneyBundle",
-            "stars": 196,
+            "stars": 195,
             "topics": []
           },
           "first_seen": "2026-08-28T20:59:04.761Z"
@@ -1884,7 +1884,7 @@
             "open_issues": 17,
             "owner": "CoreSphere",
             "repo": "ConsoleBundle",
-            "stars": 140,
+            "stars": 139,
             "topics": [
               "bundle",
               "console",
@@ -1963,7 +1963,7 @@
             "open_issues": 2,
             "owner": "shivas",
             "repo": "versioning-bundle",
-            "stars": 110,
+            "stars": 109,
             "topics": [
               "php",
               "semantic",
@@ -2105,7 +2105,7 @@
             "open_issues": 1,
             "owner": "florianv",
             "repo": "symfony-swap",
-            "stars": 63,
+            "stars": 62,
             "topics": [
               "currency-conversion",
               "exchange-rate-api",
@@ -2134,7 +2134,7 @@
             "open_issues": 9,
             "owner": "pulse00",
             "repo": "ffmpeg-bundle",
-            "stars": 57,
+            "stars": 56,
             "topics": []
           },
           "first_seen": "2026-08-28T20:59:04.761Z"
@@ -3113,7 +3113,7 @@
             "open_issues": 4,
             "owner": "liip",
             "repo": "LiipMonitorBundle",
-            "stars": 474,
+            "stars": 473,
             "topics": [
               "bundle",
               "php",
@@ -3433,11 +3433,11 @@
             "id": 79607905,
             "language": "PHP",
             "license": "MIT",
-            "last_commit": "2026-10-28T16:15:00Z",
-            "open_issues": 6,
+            "last_commit": "2026-10-29T15:41:06Z",
+            "open_issues": 7,
             "owner": "symfony",
             "repo": "recipes",
-            "stars": 1028,
+            "stars": 1029,
             "topics": [
               "recipes",
               "symfony"
@@ -3568,11 +3568,11 @@
             "id": 1648795,
             "language": "PHP",
             "license": "MIT",
-            "last_commit": "2026-10-28T11:05:41Z",
-            "open_issues": 29,
+            "last_commit": "2026-10-28T20:32:02Z",
+            "open_issues": 28,
             "owner": "doctrine",
             "repo": "DoctrineFixturesBundle",
-            "stars": 2531,
+            "stars": 2530,
             "topics": [
               "doctrine",
               "doctrine-fixtures",
@@ -3600,7 +3600,7 @@
             "open_issues": 37,
             "owner": "stof",
             "repo": "StofDoctrineExtensionsBundle",
-            "stars": 1927,
+            "stars": 1926,
             "topics": [
               "doctrine",
               "doctrine-odm-mongodb",
@@ -3837,7 +3837,7 @@
             "open_issues": 32,
             "owner": "vmelnik-ukraine",
             "repo": "DoctrineEncryptBundle",
-            "stars": 72,
+            "stars": 71,
             "topics": []
           },
           "first_seen": "2026-08-28T20:59:04.761Z"
@@ -3884,7 +3884,7 @@
             "open_issues": 1,
             "owner": "wpottier",
             "repo": "WizadDoctrineDocBundle",
-            "stars": 15,
+            "stars": 14,
             "topics": []
           },
           "first_seen": "2026-08-28T20:59:04.761Z"
@@ -4080,7 +4080,7 @@
             "language": "PHP",
             "license": "MIT",
             "last_commit": "2026-07-05T11:32:47Z",
-            "open_issues": 4,
+            "open_issues": 3,
             "owner": "Rasanga",
             "repo": "FlashAlertBundle",
             "stars": 23,
@@ -4278,7 +4278,7 @@
             "open_issues": 12,
             "owner": "swarrot",
             "repo": "SwarrotBundle",
-            "stars": 90,
+            "stars": 89,
             "topics": [
               "bundle",
               "consumer",
@@ -4409,7 +4409,7 @@
             "open_issues": 0,
             "owner": "hwi",
             "repo": "HWIOAuthBundle",
-            "stars": 2360,
+            "stars": 2359,
             "topics": [
               "api",
               "authentication",
@@ -4588,7 +4588,7 @@
             "open_issues": 159,
             "owner": "FriendsOfSymfony",
             "repo": "FOSRestBundle",
-            "stars": 2793,
+            "stars": 2792,
             "topics": [
               "php",
               "rest",
@@ -4615,7 +4615,7 @@
             "open_issues": 121,
             "owner": "lexik",
             "repo": "LexikJWTAuthenticationBundle",
-            "stars": 2604,
+            "stars": 2603,
             "topics": [
               "authentication",
               "jwt",
@@ -4675,10 +4675,10 @@
             "language": "PHP",
             "license": "MIT",
             "last_commit": "2026-10-26T14:26:06Z",
-            "open_issues": 54,
+            "open_issues": 55,
             "owner": "nelmio",
             "repo": "NelmioApiDocBundle",
-            "stars": 2377,
+            "stars": 2378,
             "topics": [
               "api",
               "api-documentation",
@@ -4739,7 +4739,7 @@
             "open_issues": 97,
             "owner": "schmittjoh",
             "repo": "JMSSerializerBundle",
-            "stars": 1802,
+            "stars": 1801,
             "topics": []
           },
           "first_seen": "2026-08-28T20:59:04.761Z"
@@ -4760,7 +4760,7 @@
             "open_issues": 201,
             "owner": "FriendsOfSymfony",
             "repo": "FOSOAuthServerBundle",
-            "stars": 1076,
+            "stars": 1075,
             "topics": [
               "hacktoberfest",
               "oauth2",
@@ -5040,7 +5040,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-28T16:14:59.359Z",
+    "last_updated": "2026-10-29T16:23:28.716Z",
     "original_repository_info": {
       "archived": false,
       "description": "A list of awesome Symfony bundles, utilities and resources.",
@@ -5052,7 +5052,7 @@
       "open_issues": 14,
       "owner": "sitepoint-editors",
       "repo": "awesome-symfony",
-      "stars": 1567,
+      "stars": 1566,
       "topics": []
     },
     "original_repository_sha": "754cb6f0d024103dae16e3dc1ca1074806f87d13",
