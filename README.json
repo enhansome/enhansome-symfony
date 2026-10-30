@@ -126,8 +126,8 @@
             "id": 418474856,
             "language": "Twig",
             "license": "MIT",
-            "last_commit": "2026-09-24T15:02:47Z",
-            "open_issues": 17,
+            "last_commit": "2026-10-29T22:27:21Z",
+            "open_issues": 18,
             "owner": "kevinpapst",
             "repo": "TablerBundle",
             "stars": 133,
@@ -161,7 +161,7 @@
             "id": 194716538,
             "language": "PHP",
             "license": "MIT",
-            "last_commit": "2026-10-28T20:34:24Z",
+            "last_commit": "2026-10-29T20:00:59Z",
             "open_issues": 0,
             "owner": "javiereguiluz",
             "repo": "EasyAdminBundle",
@@ -332,7 +332,7 @@
             "open_issues": 14,
             "owner": "raulfraile",
             "repo": "LadybugBundle",
-            "stars": 324,
+            "stars": 323,
             "topics": []
           },
           "first_seen": "2026-08-28T20:59:04.761Z"
@@ -875,7 +875,7 @@
             "language": "PHP",
             "license": "MIT",
             "last_commit": "2026-10-26T07:00:24Z",
-            "open_issues": 7,
+            "open_issues": 9,
             "owner": "api-platform",
             "repo": "api-platform",
             "stars": 9199,
@@ -994,8 +994,8 @@
             "id": 2717549,
             "language": "PHP",
             "license": "MIT",
-            "last_commit": "2026-10-29T08:00:00Z",
-            "open_issues": 245,
+            "last_commit": "2026-10-30T12:44:48Z",
+            "open_issues": 246,
             "owner": "Sylius",
             "repo": "Sylius",
             "stars": 8563,
@@ -1036,7 +1036,7 @@
             "open_issues": 37,
             "owner": "elcodi",
             "repo": "elcodi",
-            "stars": 421,
+            "stars": 420,
             "topics": []
           },
           "first_seen": "2026-08-28T20:59:04.761Z"
@@ -1057,7 +1057,7 @@
             "open_issues": 46,
             "owner": "elcodi",
             "repo": "bamboo",
-            "stars": 197,
+            "stars": 196,
             "topics": []
           },
           "first_seen": "2026-08-28T20:59:04.761Z"
@@ -1770,7 +1770,7 @@
             "id": 228942253,
             "language": "PHP",
             "license": "NOASSERTION",
-            "last_commit": "2026-10-12T12:41:45Z",
+            "last_commit": "2026-10-29T23:20:09Z",
             "open_issues": 1,
             "owner": "BabDev",
             "repo": "PagerfantaBundle",
@@ -1800,7 +1800,7 @@
             "open_issues": 0,
             "owner": "TheBigBrainsCompany",
             "repo": "TbbcMoneyBundle",
-            "stars": 196,
+            "stars": 197,
             "topics": []
           },
           "first_seen": "2026-08-28T20:59:04.761Z"
@@ -3284,7 +3284,7 @@
             "open_issues": 61,
             "owner": "php-enqueue",
             "repo": "enqueue-dev",
-            "stars": 2222,
+            "stars": 2221,
             "topics": [
               "amazon-sqs",
               "amqp",
@@ -3433,7 +3433,7 @@
             "id": 79607905,
             "language": "PHP",
             "license": "MIT",
-            "last_commit": "2026-10-29T15:41:06Z",
+            "last_commit": "2026-10-29T22:39:50Z",
             "open_issues": 7,
             "owner": "symfony",
             "repo": "recipes",
@@ -3457,8 +3457,8 @@
             "id": 88190851,
             "language": "PHP",
             "license": "MIT",
-            "last_commit": "2026-10-28T09:10:00Z",
-            "open_issues": 10,
+            "last_commit": "2026-10-29T21:10:51Z",
+            "open_issues": 12,
             "owner": "symfony",
             "repo": "recipes-contrib",
             "stars": 558,
@@ -3568,7 +3568,7 @@
             "id": 1648795,
             "language": "PHP",
             "license": "MIT",
-            "last_commit": "2026-10-28T20:32:02Z",
+            "last_commit": "2026-10-30T11:14:54Z",
             "open_issues": 28,
             "owner": "doctrine",
             "repo": "DoctrineFixturesBundle",
@@ -4041,7 +4041,7 @@
             "open_issues": 7,
             "owner": "henrikbjorn",
             "repo": "GravatarBundle",
-            "stars": 126,
+            "stars": 125,
             "topics": []
           },
           "first_seen": "2026-08-28T20:59:04.761Z"
@@ -4639,7 +4639,7 @@
             "language": "PHP",
             "license": "MIT",
             "last_commit": "2026-10-23T07:53:05Z",
-            "open_issues": 155,
+            "open_issues": 156,
             "owner": "api-platform",
             "repo": "core",
             "stars": 2579,
@@ -4674,8 +4674,8 @@
             "id": 4006755,
             "language": "PHP",
             "license": "MIT",
-            "last_commit": "2026-10-26T14:26:06Z",
-            "open_issues": 55,
+            "last_commit": "2026-10-30T13:05:09Z",
+            "open_issues": 47,
             "owner": "nelmio",
             "repo": "NelmioApiDocBundle",
             "stars": 2378,
@@ -4787,7 +4787,7 @@
             "open_issues": 21,
             "owner": "jaytaph",
             "repo": "RateLimitBundle",
-            "stars": 332,
+            "stars": 331,
             "topics": []
           },
           "first_seen": "2026-08-28T20:59:04.761Z"
@@ -5040,7 +5040,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-29T16:23:28.716Z",
+    "last_updated": "2026-10-30T16:11:51.763Z",
     "original_repository_info": {
       "archived": false,
       "description": "A list of awesome Symfony bundles, utilities and resources.",
@@ -5049,10 +5049,10 @@
       "language": null,
       "license": null,
       "last_commit": "2023-02-22T09:22:45Z",
-      "open_issues": 14,
+      "open_issues": 15,
       "owner": "sitepoint-editors",
       "repo": "awesome-symfony",
-      "stars": 1566,
+      "stars": 1565,
       "topics": []
     },
     "original_repository_sha": "754cb6f0d024103dae16e3dc1ca1074806f87d13",
