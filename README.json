@@ -126,8 +126,8 @@
             "id": 418474856,
             "language": "Twig",
             "license": "MIT",
-            "last_commit": "2026-10-30T20:03:48Z",
-            "open_issues": 18,
+            "last_commit": "2026-11-01T00:10:54Z",
+            "open_issues": 15,
             "owner": "kevinpapst",
             "repo": "TablerBundle",
             "stars": 133,
@@ -161,7 +161,7 @@
             "id": 194716538,
             "language": "PHP",
             "license": "MIT",
-            "last_commit": "2026-10-31T09:52:50Z",
+            "last_commit": "2026-11-01T09:01:07Z",
             "open_issues": 0,
             "owner": "javiereguiluz",
             "repo": "EasyAdminBundle",
@@ -218,7 +218,7 @@
             "open_issues": 1,
             "owner": "ThomasBerends",
             "repo": "symfony-certification-preparation-list",
-            "stars": 691,
+            "stars": 690,
             "topics": [
               "certification",
               "links",
@@ -248,7 +248,7 @@
             "open_issues": 2,
             "owner": "certificationy",
             "repo": "certificationy-cli",
-            "stars": 432,
+            "stars": 431,
             "topics": [
               "cli",
               "cli-application",
@@ -274,7 +274,7 @@
             "open_issues": 2,
             "owner": "raulconti",
             "repo": "symfony-3-certification-guide",
-            "stars": 139,
+            "stars": 138,
             "topics": [
               "certification",
               "php",
@@ -470,7 +470,7 @@
             "open_issues": 7,
             "owner": "mmoreram",
             "repo": "ControllerExtraBundle",
-            "stars": 150,
+            "stars": 149,
             "topics": [
               "annotation",
               "controller",
@@ -875,10 +875,10 @@
             "language": "PHP",
             "license": "MIT",
             "last_commit": "2026-10-26T07:00:24Z",
-            "open_issues": 9,
+            "open_issues": 11,
             "owner": "api-platform",
             "repo": "api-platform",
-            "stars": 9200,
+            "stars": 9199,
             "topics": [
               "api",
               "api-platform",
@@ -994,7 +994,7 @@
             "id": 2717549,
             "language": "PHP",
             "license": "MIT",
-            "last_commit": "2026-10-31T02:07:25Z",
+            "last_commit": "2026-11-01T02:07:49Z",
             "open_issues": 246,
             "owner": "Sylius",
             "repo": "Sylius",
@@ -1621,8 +1621,8 @@
             "id": 4423633,
             "language": "PHP",
             "license": "MIT",
-            "last_commit": "2026-10-21T13:54:45Z",
-            "open_issues": 0,
+            "last_commit": "2026-11-01T13:11:08Z",
+            "open_issues": 2,
             "owner": "beberlei",
             "repo": "metrics",
             "stars": 337,
@@ -1717,7 +1717,7 @@
             "open_issues": 22,
             "owner": "lexik",
             "repo": "LexikMaintenanceBundle",
-            "stars": 253,
+            "stars": 252,
             "topics": [
               "bundle",
               "php",
@@ -1796,7 +1796,7 @@
             "id": 10971079,
             "language": "PHP",
             "license": "MIT",
-            "last_commit": "2026-10-29T07:57:35Z",
+            "last_commit": "2026-11-01T12:46:19Z",
             "open_issues": 0,
             "owner": "TheBigBrainsCompany",
             "repo": "TbbcMoneyBundle",
@@ -2401,7 +2401,7 @@
             "open_issues": 3,
             "owner": "gordalina",
             "repo": "CacheToolBundle",
-            "stars": 18,
+            "stars": 17,
             "topics": []
           },
           "first_seen": "2026-08-28T20:59:04.761Z"
@@ -3433,8 +3433,8 @@
             "id": 79607905,
             "language": "PHP",
             "license": "MIT",
-            "last_commit": "2026-10-31T08:59:41Z",
-            "open_issues": 8,
+            "last_commit": "2026-11-01T07:50:44Z",
+            "open_issues": 9,
             "owner": "symfony",
             "repo": "recipes",
             "stars": 1029,
@@ -3457,8 +3457,8 @@
             "id": 88190851,
             "language": "PHP",
             "license": "MIT",
-            "last_commit": "2026-10-30T17:01:33Z",
-            "open_issues": 13,
+            "last_commit": "2026-11-01T00:05:48Z",
+            "open_issues": 10,
             "owner": "symfony",
             "repo": "recipes-contrib",
             "stars": 558,
@@ -3837,7 +3837,7 @@
             "open_issues": 32,
             "owner": "vmelnik-ukraine",
             "repo": "DoctrineEncryptBundle",
-            "stars": 71,
+            "stars": 70,
             "topics": []
           },
           "first_seen": "2026-08-28T20:59:04.761Z"
@@ -3858,7 +3858,7 @@
             "open_issues": 1,
             "owner": "mapado",
             "repo": "MysqlDoctrineFunctions",
-            "stars": 44,
+            "stars": 43,
             "topics": [
               "doctrine",
               "mysql",
@@ -3884,7 +3884,7 @@
             "open_issues": 1,
             "owner": "wpottier",
             "repo": "WizadDoctrineDocBundle",
-            "stars": 14,
+            "stars": 13,
             "topics": []
           },
           "first_seen": "2026-08-28T20:59:04.761Z"
@@ -4188,7 +4188,7 @@
             "open_issues": 0,
             "owner": "csanquer",
             "repo": "TwigExtraBundle",
-            "stars": 7,
+            "stars": 6,
             "topics": []
           },
           "first_seen": "2026-08-28T20:59:04.761Z"
@@ -4437,7 +4437,7 @@
             "open_issues": 0,
             "owner": "scheb",
             "repo": "two-factor-bundle",
-            "stars": 384,
+            "stars": 383,
             "topics": [
               "2fa",
               "authentication",
@@ -4638,8 +4638,8 @@
             "id": 29501260,
             "language": "PHP",
             "license": "MIT",
-            "last_commit": "2026-10-23T07:53:05Z",
-            "open_issues": 157,
+            "last_commit": "2026-11-01T02:25:23Z",
+            "open_issues": 168,
             "owner": "api-platform",
             "repo": "core",
             "stars": 2580,
@@ -4675,7 +4675,7 @@
             "language": "PHP",
             "license": "MIT",
             "last_commit": "2026-10-30T13:05:09Z",
-            "open_issues": 45,
+            "open_issues": 44,
             "owner": "nelmio",
             "repo": "NelmioApiDocBundle",
             "stars": 2378,
@@ -4946,7 +4946,7 @@
             "open_issues": 3,
             "owner": "creads",
             "repo": "api2symfony-bundle",
-            "stars": 51,
+            "stars": 50,
             "topics": []
           },
           "first_seen": "2026-08-28T20:59:04.761Z"
@@ -5040,7 +5040,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-31T15:29:12.942Z",
+    "last_updated": "2026-11-01T16:18:41.143Z",
     "original_repository_info": {
       "archived": false,
       "description": "A list of awesome Symfony bundles, utilities and resources.",
@@ -5052,7 +5052,7 @@
       "open_issues": 15,
       "owner": "sitepoint-editors",
       "repo": "awesome-symfony",
-      "stars": 1565,
+      "stars": 1564,
       "topics": []
     },
     "original_repository_sha": "754cb6f0d024103dae16e3dc1ca1074806f87d13",
