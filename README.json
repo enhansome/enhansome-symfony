@@ -874,7 +874,7 @@
             "id": 31790438,
             "language": "PHP",
             "license": "MIT",
-            "last_commit": "2026-11-06T15:51:04Z",
+            "last_commit": "2026-11-06T20:28:50Z",
             "open_issues": 9,
             "owner": "api-platform",
             "repo": "api-platform",
@@ -920,7 +920,7 @@
             "open_issues": 0,
             "owner": "symfony",
             "repo": "symfony-standard",
-            "stars": 1473,
+            "stars": 1472,
             "topics": [
               "php",
               "skeleton",
@@ -994,11 +994,11 @@
             "id": 2717549,
             "language": "PHP",
             "license": "MIT",
-            "last_commit": "2026-11-06T11:47:15Z",
-            "open_issues": 247,
+            "last_commit": "2026-11-07T02:06:56Z",
+            "open_issues": 249,
             "owner": "Sylius",
             "repo": "Sylius",
-            "stars": 8566,
+            "stars": 8567,
             "topics": [
               "api",
               "api-ecommerce",
@@ -1604,7 +1604,7 @@
             "open_issues": 18,
             "owner": "liuggio",
             "repo": "ExcelBundle",
-            "stars": 368,
+            "stars": 367,
             "topics": []
           },
           "first_seen": "2026-08-28T20:59:04.761Z"
@@ -1881,7 +1881,7 @@
             "language": "PHP",
             "license": "BSD-3-Clause",
             "last_commit": "2022-07-28T13:15:28Z",
-            "open_issues": 17,
+            "open_issues": 15,
             "owner": "CoreSphere",
             "repo": "ConsoleBundle",
             "stars": 139,
@@ -2324,27 +2324,6 @@
         },
         {
           "node_type": "item",
-          "title": "godfather",
-          "description": "A library for the strategy pattern in PHP.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "Strategy Pattern for PHP and Symfony2",
-            "homepage": null,
-            "id": 11921041,
-            "language": "PHP",
-            "license": "MIT",
-            "last_commit": "2014-03-11T16:29:14Z",
-            "open_issues": 1,
-            "owner": "PUGX",
-            "repo": "godfather",
-            "stars": 25,
-            "topics": []
-          },
-          "first_seen": "2026-08-28T20:59:04.761Z"
-        },
-        {
-          "node_type": "item",
           "title": "BGBarcodeBundle",
           "description": "Bundle for barcode rendering using our barcode generator base library.",
           "children": [],
@@ -2359,6 +2338,27 @@
             "open_issues": 7,
             "owner": "paterik",
             "repo": "BGBarcodeBundle",
+            "stars": 24,
+            "topics": []
+          },
+          "first_seen": "2026-08-28T20:59:04.761Z"
+        },
+        {
+          "node_type": "item",
+          "title": "godfather",
+          "description": "A library for the strategy pattern in PHP.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Strategy Pattern for PHP and Symfony2",
+            "homepage": null,
+            "id": 11921041,
+            "language": "PHP",
+            "license": "MIT",
+            "last_commit": "2014-03-11T16:29:14Z",
+            "open_issues": 1,
+            "owner": "PUGX",
+            "repo": "godfather",
             "stars": 24,
             "topics": []
           },
@@ -3781,27 +3781,6 @@
         },
         {
           "node_type": "item",
-          "title": "FPNTagBundle",
-          "description": "This bundle adds tagging, with the ability to associate tags with any number of different entities.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "This bundle allows to tag your Doctrine entities easily",
-            "homepage": "http://knpbundles.com/FabienPennequin/FPNTagBundle",
-            "id": 2206996,
-            "language": "PHP",
-            "license": null,
-            "last_commit": "2019-03-08T11:03:35Z",
-            "open_issues": 12,
-            "owner": "FabienPennequin",
-            "repo": "FPNTagBundle",
-            "stars": 75,
-            "topics": []
-          },
-          "first_seen": "2026-08-28T20:59:04.761Z"
-        },
-        {
-          "node_type": "item",
           "title": "AliceFixturesBundle",
           "description": "A Symfony2 bundle for using Alice and Faker with data fixtures.",
           "children": [],
@@ -3816,6 +3795,27 @@
             "open_issues": 13,
             "owner": "h4cc",
             "repo": "AliceFixturesBundle",
+            "stars": 74,
+            "topics": []
+          },
+          "first_seen": "2026-08-28T20:59:04.761Z"
+        },
+        {
+          "node_type": "item",
+          "title": "FPNTagBundle",
+          "description": "This bundle adds tagging, with the ability to associate tags with any number of different entities.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "This bundle allows to tag your Doctrine entities easily",
+            "homepage": "http://knpbundles.com/FabienPennequin/FPNTagBundle",
+            "id": 2206996,
+            "language": "PHP",
+            "license": null,
+            "last_commit": "2019-03-08T11:03:35Z",
+            "open_issues": 12,
+            "owner": "FabienPennequin",
+            "repo": "FPNTagBundle",
             "stars": 74,
             "topics": []
           },
@@ -4642,7 +4642,7 @@
             "open_issues": 142,
             "owner": "api-platform",
             "repo": "core",
-            "stars": 2580,
+            "stars": 2581,
             "topics": [
               "api",
               "api-platform",
@@ -5040,7 +5040,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-06T16:55:10.387Z",
+    "last_updated": "2026-11-07T15:53:41.577Z",
     "original_repository_info": {
       "archived": false,
       "description": "A list of awesome Symfony bundles, utilities and resources.",

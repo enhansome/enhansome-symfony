@@ -99,7 +99,7 @@ Table of contents:
 
 ## Ecommerce
 
-* [Sylius](https://github.com/Sylius/Sylius) ⭐ 8,566 | 🐛 247 | 🌐 PHP | 📅 2026-11-06 - E-Commerce PHP framework built on top of Symfony with component-based architecture and format-agnostic rendering
+* [Sylius](https://github.com/Sylius/Sylius) ⭐ 8,567 | 🐛 249 | 🌐 PHP | 📅 2026-11-07 - E-Commerce PHP framework built on top of Symfony with component-based architecture and format-agnostic rendering
 * [Elcodi](https://github.com/elcodi/elcodi) ⚠️ Archived - E-commerce PHP Components and Symfony Bundles
 * [Bamboo](https://github.com/elcodi/bamboo) ⚠️ Archived -  Full-stack E-commerce application based on Symfony and Elcodi components
 * [Aimeos](https://aimeos.org/Symfony/) - Ultra fast PHP e-commerce framework for #gigacommerce
@@ -134,7 +134,7 @@ Table of contents:
 * [KnpMarkdownBundle](https://github.com/KnpLabs/KnpMarkdownBundle) ⚠️ Archived - Wrapper for PHP markdown.
 * [MobileDetectBundle](https://github.com/suncat2000/MobileDetectBundle) ⭐ 392 | 🐛 30 | 🌐 PHP | 📅 2023-07-01 - Bundle for detect mobile devices, manage mobile view and redirect to the mobile and tablet version.
 * [bootstrap-bundle](https://github.com/braincrafted/bootstrap-bundle) ⭐ 391 | 🐛 45 | 🌐 PHP | 📅 2020-09-23 - Integrates Bootstrap into Symfony2 by providing templates, Twig extensions, services and commands.
-* [ExcelBundle](https://github.com/liuggio/ExcelBundle) ⭐ 368 | 🐛 18 | 🌐 PHP | 📅 2022-11-25 - Excel integration in Symfony2 thanks to <https://github.com/PHPOffice/PHPExcel> ⚠️ Archived library.
+* [ExcelBundle](https://github.com/liuggio/ExcelBundle) ⭐ 367 | 🐛 18 | 🌐 PHP | 📅 2022-11-25 - Excel integration in Symfony2 thanks to <https://github.com/PHPOffice/PHPExcel> ⚠️ Archived library.
 * [metrics](https://github.com/beberlei/metrics) ⭐ 338 | 🐛 0 | 🌐 PHP | 📅 2026-11-01 - Simple library that abstracts different metrics collectors.
 * [BazingaGeocoderBundle](https://github.com/geocoder-php/BazingaGeocoderBundle) ⭐ 324 | 🐛 3 | 🌐 PHP | 📅 2026-02-17 - Integration of the Geocoder library.
 * [FMElfinderBundle](https://github.com/helios-ag/FMElfinderBundle) ⭐ 280 | 🐛 0 | 🌐 PHP | 📅 2026-10-04 - Provides Elfinder filebrowser integration with popular WYSIWYG editors.
@@ -146,7 +146,7 @@ Table of contents:
 * [CloudBackupBundle](https://github.com/dizda/CloudBackupBundle) ⚠️ Archived - Be able to backup your database(s) and upload it to the cloud.
 * [timeline-bundle](https://github.com/stephpy/timeline-bundle) ⭐ 191 | 🐛 10 | 🌐 PHP | 📅 2025-07-24 - Symfony2 bundle to make timeline.
 * [ObHighchartsBundle](https://github.com/marcaube/ObHighchartsBundle) ⚠️ Archived - Aims to ease the use of highcharts to display rich graph and charts.
-* [ConsoleBundle](https://github.com/CoreSphere/ConsoleBundle) ⭐ 139 | 🐛 17 | 🌐 PHP | 📅 2022-07-28 - Commandline interface in browser.
+* [ConsoleBundle](https://github.com/CoreSphere/ConsoleBundle) ⭐ 139 | 🐛 15 | 🌐 PHP | 📅 2022-07-28 - Commandline interface in browser.
 * [rss-atom-bundle](https://github.com/alexdebril/rss-atom-bundle) ⭐ 137 | 🐛 7 | 🌐 PHP | 📅 2024-01-30 - RSS and Atom Bundle.
 * [SettingsBundle](https://github.com/dmishh/SettingsBundle) ⭐ 114 | 🐛 29 | 🌐 PHP | 📅 2023-05-12 - Database centric configuration management. Global and per-user settings supported.
 * [versioning-bundle](https://github.com/shivas/versioning-bundle) ⭐ 109 | 🐛 2 | 🌐 PHP | 📅 2026-03-30 - Simple way to version (semantic versioning 2.0.0).
@@ -165,8 +165,8 @@ Table of contents:
 * [BlogBundle](https://github.com/stfalcon/BlogBundle) ⭐ 33 | 🐛 6 | 🌐 PHP | 📅 2019-07-18 - Simple blog module.
 * [SphinxsearchBundle](https://github.com/IAkumaI/SphinxsearchBundle) ⭐ 27 | 🐛 6 | 🌐 PHP | 📅 2018-08-02 - Provide to use Sphinx search.
 * [CheckBundles](https://github.com/wjzijderveld/CheckBundles) ⚠️ Archived - Checks installed but not activated in AppKernel bundles.
-* [godfather](https://github.com/PUGX/godfather) ⭐ 25 | 🐛 1 | 🌐 PHP | 📅 2014-03-11 - A library for the strategy pattern in PHP.
 * [BGBarcodeBundle](https://github.com/paterik/BGBarcodeBundle) ⭐ 24 | 🐛 7 | 🌐 PHP | 📅 2024-01-05 - Bundle for barcode rendering using our barcode generator base library.
+* [godfather](https://github.com/PUGX/godfather) ⭐ 24 | 🐛 1 | 🌐 PHP | 📅 2014-03-11 - A library for the strategy pattern in PHP.
 * [GnugatWizardBundle](https://github.com/gnugat/GnugatWizardBundle) ⭐ 22 | 🐛 2 | 🌐 PHP | 📅 2015-09-15 - Magically shrinks bundle installation steps into a single command.
 * [CacheToolBundle](https://github.com/gordalina/CacheToolBundle) ⚠️ Archived - Bundle to integrate cachetool library in Symfony2 (Clear acp/opcache from the command line).
 * [StringGeneratorBundle](https://github.com/vivait/StringGeneratorBundle) ⭐ 17 | 🐛 3 | 🌐 PHP | 📅 2021-02-17 - This bundle allows you to automatically generate a unique random string on an entity property, useful for creating keys.
@@ -246,7 +246,7 @@ Table of contents:
 
 * [Symfony2 Service Config Converter](http://converter.rosstuck.com/) - A simple service to convert services configuration between YAML, XML and INI.
 * [Twigfiddle](http://twigfiddle.com/) - Small development environment to develop, run, store and access Twig code online.
-* [Modern PHP cheatsheet](https://github.com/smknstd/modern-php-cheatsheet) ⭐ 1,325 | 🐛 1 | 📅 2025-02-11 - Cheatsheet for some Php knowledge you will frequently encounter in modern projects.
+* [Modern PHP cheatsheet](https://github.com/smknstd/modern-php-cheatsheet) ⭐ 1,326 | 🐛 1 | 📅 2025-02-11 - Cheatsheet for some Php knowledge you will frequently encounter in modern projects.
 
 ## Service Container
 
@@ -266,8 +266,8 @@ Table of contents:
 * [DoctrineEnumBundle](https://github.com/fre5h/DoctrineEnumBundle) ⭐ 460 | 🐛 11 | 🌐 PHP | 📅 2026-03-26 - Provides support of MySQL ENUM type for Doctrine2.
 * [FeedBundle](https://github.com/eko/FeedBundle) ⭐ 141 | 🐛 13 | 🌐 PHP | 📅 2024-10-07 - A bundle to build RSS feeds from your entities.
 * [VichGeographicalBundle](https://github.com/dustin10/VichGeographicalBundle) ⭐ 105 | 🐛 14 | 🌐 PHP | 📅 2016-10-23 - A bundle which provides geographical features for ORM and ODM entities and object oriented javascript maps rendering.
-* [FPNTagBundle](https://github.com/FabienPennequin/FPNTagBundle) ⭐ 75 | 🐛 12 | 🌐 PHP | 📅 2019-03-08 - This bundle adds tagging, with the ability to associate tags with any number of different entities.
 * [AliceFixturesBundle](https://github.com/h4cc/AliceFixturesBundle) ⭐ 74 | 🐛 13 | 🌐 PHP | 📅 2016-08-08 - A Symfony2 bundle for using Alice and Faker with data fixtures.
+* [FPNTagBundle](https://github.com/FabienPennequin/FPNTagBundle) ⭐ 74 | 🐛 12 | 🌐 PHP | 📅 2019-03-08 - This bundle adds tagging, with the ability to associate tags with any number of different entities.
 * [DoctrineEncryptBundle](https://github.com/vmelnik-ukraine/DoctrineEncryptBundle) ⭐ 70 | 🐛 32 | 🌐 PHP | 📅 2020-08-29 - Bundle allows you to create doctrine entities with fields that will be protected by encryption algorithms such as AES.
 * [MysqlDoctrineFunctions](https://github.com/mapado/MysqlDoctrineFunctions) ⭐ 43 | 🐛 1 | 🌐 PHP | 📅 2023-09-15 - MySQL Function for Doctrine : RAND(), ROUND() DATE(), DATE\_FORMAT().
 * [WizadDoctrineDocBundle](https://github.com/wpottier/WizadDoctrineDocBundle) ⭐ 13 | 🐛 1 | 🌐 PHP | 📅 2013-06-13 - Allows you to generate a decent documentation for your doctrine model schema.
@@ -319,7 +319,7 @@ Table of contents:
 
 * [FOSRestBundle](https://github.com/FriendsOfSymfony/FOSRestBundle) ⭐ 2,793 | 🐛 159 | 🌐 PHP | 📅 2026-02-10 - Provides various tools to rapidly develop RESTful API's & applications.
 * [LexikJWTAuthenticationBundle](https://github.com/lexik/LexikJWTAuthenticationBundle) ⭐ 2,603 | 🐛 121 | 🌐 PHP | 📅 2026-07-01 - This bundle provides JWT (Json Web Token) authentication for your REST API using the lcobucci/jwt library.
-* [DunglasApiBundle](https://github.com/dunglas/DunglasApiBundle) ⭐ 2,580 | 🐛 142 | 🌐 PHP | 📅 2026-11-06 - Bundle to build hypermedia-driven REST API.
+* [DunglasApiBundle](https://github.com/dunglas/DunglasApiBundle) ⭐ 2,581 | 🐛 142 | 🌐 PHP | 📅 2026-11-06 - Bundle to build hypermedia-driven REST API.
 * [NelmioApiDocBundle](https://github.com/nelmio/NelmioApiDocBundle) ⭐ 2,380 | 🐛 46 | 🌐 PHP | 📅 2026-11-02 - Generates documentation for your REST API from annotations.
 * [NelmioCorsBundle](https://github.com/nelmio/NelmioCorsBundle) ⭐ 1,926 | 🐛 10 | 🌐 PHP | 📅 2026-01-14 - Adds ability to add CORS-related headers based on simple ACL-style per-URL configurations.
 * [JMSSerializerBundle](https://github.com/schmittjoh/JMSSerializerBundle) ⭐ 1,801 | 🐛 97 | 🌐 PHP | 📅 2026-03-26 - Easily serialize, and deserialize data of any complexity.
@@ -344,4 +344,4 @@ To the extent possible under law, [Emanuele Minotto](http://emanueleminotto.gith
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-06._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-07._
