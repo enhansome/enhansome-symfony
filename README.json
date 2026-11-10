@@ -16,10 +16,10 @@
             "language": "PHP",
             "license": "MIT",
             "last_commit": "2026-10-13T09:00:46Z",
-            "open_issues": 20,
+            "open_issues": 21,
             "owner": "sonata-project",
             "repo": "SonataAdminBundle",
-            "stars": 2125,
+            "stars": 2126,
             "topics": [
               "admin",
               "admin-generator",
@@ -218,7 +218,7 @@
             "open_issues": 1,
             "owner": "ThomasBerends",
             "repo": "symfony-certification-preparation-list",
-            "stars": 690,
+            "stars": 691,
             "topics": [
               "certification",
               "links",
@@ -248,7 +248,7 @@
             "open_issues": 2,
             "owner": "certificationy",
             "repo": "certificationy-cli",
-            "stars": 431,
+            "stars": 432,
             "topics": [
               "cli",
               "cli-application",
@@ -332,7 +332,7 @@
             "open_issues": 14,
             "owner": "raulfraile",
             "repo": "LadybugBundle",
-            "stars": 323,
+            "stars": 324,
             "topics": []
           },
           "first_seen": "2026-08-28T20:59:04.761Z"
@@ -920,7 +920,7 @@
             "open_issues": 0,
             "owner": "symfony",
             "repo": "symfony-standard",
-            "stars": 1472,
+            "stars": 1473,
             "topics": [
               "php",
               "skeleton",
@@ -994,11 +994,11 @@
             "id": 2717549,
             "language": "PHP",
             "license": "MIT",
-            "last_commit": "2026-11-09T13:11:17Z",
-            "open_issues": 247,
+            "last_commit": "2026-11-10T02:07:43Z",
+            "open_issues": 248,
             "owner": "Sylius",
             "repo": "Sylius",
-            "stars": 8568,
+            "stars": 8569,
             "topics": [
               "api",
               "api-ecommerce",
@@ -1084,7 +1084,7 @@
             "open_issues": 72,
             "owner": "craue",
             "repo": "CraueFormFlowBundle",
-            "stars": 748,
+            "stars": 749,
             "topics": [
               "bundle",
               "php",
@@ -1110,7 +1110,7 @@
             "open_issues": 30,
             "owner": "lexik",
             "repo": "LexikFormFilterBundle",
-            "stars": 386,
+            "stars": 387,
             "topics": [
               "bundle",
               "php",
@@ -1289,7 +1289,7 @@
             "open_issues": 0,
             "owner": "a2lix",
             "repo": "TranslationFormBundle",
-            "stars": 335,
+            "stars": 336,
             "topics": [
               "bundle",
               "doctrine",
@@ -1371,7 +1371,7 @@
             "open_issues": 82,
             "owner": "liip",
             "repo": "LiipImagineBundle",
-            "stars": 1709,
+            "stars": 1708,
             "topics": [
               "bundle",
               "php",
@@ -1427,7 +1427,7 @@
             "open_issues": 20,
             "owner": "1up-lab",
             "repo": "OneupUploaderBundle",
-            "stars": 603,
+            "stars": 604,
             "topics": [
               "chunked-uploads",
               "dropzone",
@@ -1456,7 +1456,7 @@
             "open_issues": 85,
             "owner": "APY",
             "repo": "APYDataGridBundle",
-            "stars": 492,
+            "stars": 493,
             "topics": [
               "datagrid",
               "grid",
@@ -1482,7 +1482,7 @@
             "open_issues": 64,
             "owner": "misd-service-development",
             "repo": "phone-number-bundle",
-            "stars": 453,
+            "stars": 454,
             "topics": [
               "bundle",
               "libphonenumber",
@@ -1510,7 +1510,7 @@
             "open_issues": 14,
             "owner": "8p",
             "repo": "EightPointsGuzzleBundle",
-            "stars": 445,
+            "stars": 446,
             "topics": [
               "bundle",
               "cache",
@@ -3113,7 +3113,7 @@
             "open_issues": 4,
             "owner": "liip",
             "repo": "LiipMonitorBundle",
-            "stars": 473,
+            "stars": 474,
             "topics": [
               "bundle",
               "php",
@@ -3457,8 +3457,8 @@
             "id": 88190851,
             "language": "PHP",
             "license": "MIT",
-            "last_commit": "2026-11-09T17:00:33Z",
-            "open_issues": 14,
+            "last_commit": "2026-11-10T13:49:03Z",
+            "open_issues": 15,
             "owner": "symfony",
             "repo": "recipes-contrib",
             "stars": 557,
@@ -3544,7 +3544,7 @@
             "open_issues": 44,
             "owner": "doctrine",
             "repo": "DoctrineMigrationsBundle",
-            "stars": 4298,
+            "stars": 4299,
             "topics": [
               "bundle",
               "doctrine",
@@ -3568,11 +3568,11 @@
             "id": 1648795,
             "language": "PHP",
             "license": "MIT",
-            "last_commit": "2026-11-09T11:05:33Z",
-            "open_issues": 30,
+            "last_commit": "2026-11-09T23:23:53Z",
+            "open_issues": 28,
             "owner": "doctrine",
             "repo": "DoctrineFixturesBundle",
-            "stars": 2529,
+            "stars": 2528,
             "topics": [
               "doctrine",
               "doctrine-fixtures",
@@ -3600,7 +3600,7 @@
             "open_issues": 37,
             "owner": "stof",
             "repo": "StofDoctrineExtensionsBundle",
-            "stars": 1926,
+            "stars": 1925,
             "topics": [
               "doctrine",
               "doctrine-odm-mongodb",
@@ -3685,7 +3685,7 @@
             "open_issues": 11,
             "owner": "1up-lab",
             "repo": "OneupFlysystemBundle",
-            "stars": 642,
+            "stars": 643,
             "topics": [
               "aws-s3",
               "dropbox",
@@ -3717,7 +3717,7 @@
             "open_issues": 11,
             "owner": "fre5h",
             "repo": "DoctrineEnumBundle",
-            "stars": 460,
+            "stars": 461,
             "topics": [
               "bundle",
               "doctrine",
@@ -4409,7 +4409,7 @@
             "open_issues": 0,
             "owner": "hwi",
             "repo": "HWIOAuthBundle",
-            "stars": 2358,
+            "stars": 2359,
             "topics": [
               "api",
               "authentication",
@@ -4615,7 +4615,7 @@
             "open_issues": 121,
             "owner": "lexik",
             "repo": "LexikJWTAuthenticationBundle",
-            "stars": 2603,
+            "stars": 2604,
             "topics": [
               "authentication",
               "jwt",
@@ -4638,8 +4638,8 @@
             "id": 29501260,
             "language": "PHP",
             "license": "MIT",
-            "last_commit": "2026-11-06T12:29:28Z",
-            "open_issues": 148,
+            "last_commit": "2026-11-10T12:25:56Z",
+            "open_issues": 136,
             "owner": "api-platform",
             "repo": "core",
             "stars": 2581,
@@ -4678,7 +4678,7 @@
             "open_issues": 47,
             "owner": "nelmio",
             "repo": "NelmioApiDocBundle",
-            "stars": 2380,
+            "stars": 2381,
             "topics": [
               "api",
               "api-documentation",
@@ -5040,7 +5040,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-09T20:01:10.835Z",
+    "last_updated": "2026-11-10T17:15:20.811Z",
     "original_repository_info": {
       "archived": false,
       "description": "A list of awesome Symfony bundles, utilities and resources.",
