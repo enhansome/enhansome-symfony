@@ -161,7 +161,7 @@
             "id": 194716538,
             "language": "PHP",
             "license": "MIT",
-            "last_commit": "2026-11-09T19:46:32Z",
+            "last_commit": "2026-11-10T19:51:29Z",
             "open_issues": 0,
             "owner": "javiereguiluz",
             "repo": "EasyAdminBundle",
@@ -878,7 +878,7 @@
             "open_issues": 9,
             "owner": "api-platform",
             "repo": "api-platform",
-            "stars": 9203,
+            "stars": 9204,
             "topics": [
               "api",
               "api-platform",
@@ -994,11 +994,11 @@
             "id": 2717549,
             "language": "PHP",
             "license": "MIT",
-            "last_commit": "2026-11-10T02:07:43Z",
-            "open_issues": 248,
+            "last_commit": "2026-11-11T02:07:07Z",
+            "open_issues": 250,
             "owner": "Sylius",
             "repo": "Sylius",
-            "stars": 8569,
+            "stars": 8572,
             "topics": [
               "api",
               "api-ecommerce",
@@ -4437,7 +4437,7 @@
             "open_issues": 0,
             "owner": "scheb",
             "repo": "two-factor-bundle",
-            "stars": 382,
+            "stars": 381,
             "topics": [
               "2fa",
               "authentication",
@@ -4639,7 +4639,7 @@
             "language": "PHP",
             "license": "MIT",
             "last_commit": "2026-11-10T12:25:56Z",
-            "open_issues": 136,
+            "open_issues": 139,
             "owner": "api-platform",
             "repo": "core",
             "stars": 2581,
@@ -5040,7 +5040,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-10T17:15:20.811Z",
+    "last_updated": "2026-11-11T17:25:18.953Z",
     "original_repository_info": {
       "archived": false,
       "description": "A list of awesome Symfony bundles, utilities and resources.",
