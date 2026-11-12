@@ -40,7 +40,7 @@ Table of contents:
 ## Certification
 
 * [Symfony certification preparation list](https://github.com/ThomasBerends/symfony-certification-preparation-list) ⭐ 691 | 🐛 1 | 📅 2024-04-27
-* [CLI tool to train certifications](https://github.com/certificationy/certificationy-cli) ⭐ 432 | 🐛 2 | 🌐 PHP | 📅 2022-10-01
+* [CLI tool to train certifications](https://github.com/certificationy/certificationy-cli) ⭐ 431 | 🐛 2 | 🌐 PHP | 📅 2022-10-01
 * [Symfony 3 certification guide](https://github.com/raulconti/symfony-3-certification-guide) ⭐ 138 | 🐛 2 | 📅 2018-01-24
 
 ## Community
@@ -92,14 +92,14 @@ Table of contents:
 
 ## Distributions
 
-* [API Platform framework](https://github.com/api-platform/api-platform) ⭐ 9,204 | 🐛 9 | 🌐 PHP | 📅 2026-11-09
+* [API Platform framework](https://github.com/api-platform/api-platform) ⭐ 9,203 | 🐛 9 | 🌐 PHP | 📅 2026-11-09
 * [Symfony Standard Edition](https://github.com/symfony/symfony-standard) ⚠️ Archived
 * [Symfony CMF Standard Edition](https://github.com/symfony-cmf/standard-edition) ⚠️ Archived
 * [Kunstmaan Bundles Standard Edition](https://github.com/Kunstmaan/KunstmaanBundlesStandardEdition) ⚠️ Archived
 
 ## Ecommerce
 
-* [Sylius](https://github.com/Sylius/Sylius) ⭐ 8,572 | 🐛 250 | 🌐 PHP | 📅 2026-11-11 - E-Commerce PHP framework built on top of Symfony with component-based architecture and format-agnostic rendering
+* [Sylius](https://github.com/Sylius/Sylius) ⭐ 8,572 | 🐛 248 | 🌐 PHP | 📅 2026-11-12 - E-Commerce PHP framework built on top of Symfony with component-based architecture and format-agnostic rendering
 * [Elcodi](https://github.com/elcodi/elcodi) ⚠️ Archived - E-commerce PHP Components and Symfony Bundles
 * [Bamboo](https://github.com/elcodi/bamboo) ⚠️ Archived -  Full-stack E-commerce application based on Symfony and Elcodi components
 * [Aimeos](https://aimeos.org/Symfony/) - Ultra fast PHP e-commerce framework for #gigacommerce
@@ -206,13 +206,13 @@ Table of contents:
 
 ## Monitoring
 
-* [LiipMonitorBundle](https://github.com/liip/LiipMonitorBundle) ⭐ 474 | 🐛 4 | 🌐 PHP | 📅 2026-03-24 - Bundle provides a way to run a series of application related health checks.
+* [LiipMonitorBundle](https://github.com/liip/LiipMonitorBundle) ⭐ 473 | 🐛 4 | 🌐 PHP | 📅 2026-03-24 - Bundle provides a way to run a series of application related health checks.
 * [SoclozMonitoringBundle](https://github.com/SoCloz/SoclozMonitoringBundle) ⭐ 69 | 🐛 7 | 🌐 PHP | 📅 2020-03-27 - A monitoring bundle for production servers
 
 ## Payments Management
 
-* [PayumBundle](https://github.com/Payum/PayumBundle) ⭐ 580 | 🐛 38 | 🌐 PHP | 📅 2026-08-11 - Rich payment solutions for symfony2. Paypal, Stripe, Payex, Authorize.NET, Be2bill, Klarna, recurring paymens, instant notifications and many more
-* [JMSPaymentPaypalBundle](https://github.com/schmittjoh/JMSPaymentPaypalBundle) ⭐ 124 | 🐛 22 | 🌐 PHP | 📅 2022-12-07 - Payment Bundle providing access to the PayPal API.
+* [PayumBundle](https://github.com/Payum/PayumBundle) ⭐ 579 | 🐛 38 | 🌐 PHP | 📅 2026-08-11 - Rich payment solutions for symfony2. Paypal, Stripe, Payex, Authorize.NET, Be2bill, Klarna, recurring paymens, instant notifications and many more
+* [JMSPaymentPaypalBundle](https://github.com/schmittjoh/JMSPaymentPaypalBundle) ⭐ 123 | 🐛 22 | 🌐 PHP | 📅 2022-12-07 - Payment Bundle providing access to the PayPal API.
 * [CartBundle](https://github.com/leaphly/CartBundle) ⭐ 100 | 🐛 7 | 🌐 PHP | 📅 2014-03-12 - High quality cart for developers.
 * [PaymentAdyenBundle](https://github.com/ruudk/PaymentAdyenBundle) ⚠️ Archived - Provides access to the Adyen API. Based on JMSPaymentCoreBundle.
 * [MangopayBundle](https://github.com/AppVentus/MangopayBundle) ⚠️ Archived - Mangopay API implementation for Symfony2.
@@ -239,8 +239,8 @@ Table of contents:
 
 ## Recipes
 
-* [Symfony Recipes](https://github.com/symfony/recipes) ⭐ 1,029 | 🐛 5 | 🌐 PHP | 📅 2026-11-08 - Symfony recipes allow the automation of Composer packages configuration via the Symfony Flex Composer plugin.
-* [Symfony Recipes (Contrib)](https://github.com/symfony/recipes-contrib) ⭐ 557 | 🐛 15 | 🌐 PHP | 📅 2026-11-10 - Symfony recipes allow the automation of Composer packages configuration via the Symfony Flex Composer plugin.
+* [Symfony Recipes](https://github.com/symfony/recipes) ⭐ 1,028 | 🐛 5 | 🌐 PHP | 📅 2026-11-08 - Symfony recipes allow the automation of Composer packages configuration via the Symfony Flex Composer plugin.
+* [Symfony Recipes (Contrib)](https://github.com/symfony/recipes-contrib) ⭐ 556 | 🐛 15 | 🌐 PHP | 📅 2026-11-10 - Symfony recipes allow the automation of Composer packages configuration via the Symfony Flex Composer plugin.
 
 ## Resources
 
@@ -280,7 +280,7 @@ Table of contents:
 
 ## Template Engine
 
-* [KnpTimeBundle](https://github.com/KnpLabs/KnpTimeBundle) ⭐ 625 | 🐛 17 | 🌐 PHP | 📅 2025-12-08 - Provides helpers for time manipulation.
+* [KnpTimeBundle](https://github.com/KnpLabs/KnpTimeBundle) ⭐ 625 | 🐛 18 | 🌐 PHP | 📅 2025-12-08 - Provides helpers for time manipulation.
 * [GravatarBundle](https://github.com/henrikbjorn/GravatarBundle) ⚠️ Archived - Simple wrapper to gravatar API.
 * [TwigCacheBundle](https://github.com/EmanueleMinotto/TwigCacheBundle) ⭐ 59 | 🐛 2 | 🌐 PHP | 📅 2021-11-09 - Bundle for asm89/twig-cache-extension.
 * [FlashAlertBundle](https://github.com/rasanga/FlashAlertBundle) ⭐ 23 | 🐛 3 | 🌐 PHP | 📅 2026-07-05 - Simplified way to handle (add/display) Symfony flash messages.
@@ -319,10 +319,10 @@ Table of contents:
 
 * [FOSRestBundle](https://github.com/FriendsOfSymfony/FOSRestBundle) ⭐ 2,793 | 🐛 159 | 🌐 PHP | 📅 2026-02-10 - Provides various tools to rapidly develop RESTful API's & applications.
 * [LexikJWTAuthenticationBundle](https://github.com/lexik/LexikJWTAuthenticationBundle) ⭐ 2,604 | 🐛 121 | 🌐 PHP | 📅 2026-07-01 - This bundle provides JWT (Json Web Token) authentication for your REST API using the lcobucci/jwt library.
-* [DunglasApiBundle](https://github.com/dunglas/DunglasApiBundle) ⭐ 2,581 | 🐛 139 | 🌐 PHP | 📅 2026-11-10 - Bundle to build hypermedia-driven REST API.
-* [NelmioApiDocBundle](https://github.com/nelmio/NelmioApiDocBundle) ⭐ 2,381 | 🐛 47 | 🌐 PHP | 📅 2026-11-09 - Generates documentation for your REST API from annotations.
+* [DunglasApiBundle](https://github.com/dunglas/DunglasApiBundle) ⭐ 2,581 | 🐛 136 | 🌐 PHP | 📅 2026-11-12 - Bundle to build hypermedia-driven REST API.
+* [NelmioApiDocBundle](https://github.com/nelmio/NelmioApiDocBundle) ⭐ 2,381 | 🐛 48 | 🌐 PHP | 📅 2026-11-12 - Generates documentation for your REST API from annotations.
 * [NelmioCorsBundle](https://github.com/nelmio/NelmioCorsBundle) ⭐ 1,927 | 🐛 10 | 🌐 PHP | 📅 2026-01-14 - Adds ability to add CORS-related headers based on simple ACL-style per-URL configurations.
-* [JMSSerializerBundle](https://github.com/schmittjoh/JMSSerializerBundle) ⭐ 1,801 | 🐛 97 | 🌐 PHP | 📅 2026-03-26 - Easily serialize, and deserialize data of any complexity.
+* [JMSSerializerBundle](https://github.com/schmittjoh/JMSSerializerBundle) ⭐ 1,800 | 🐛 97 | 🌐 PHP | 📅 2026-03-26 - Easily serialize, and deserialize data of any complexity.
 * [FOSOAuthServerBundle](https://github.com/FriendsOfSymfony/FOSOAuthServerBundle) ⭐ 1,075 | 🐛 201 | 🌐 PHP | 📅 2024-01-12 - A server side OAuth2 bundle.
 * [RateLimitBundle](https://github.com/jaytaph/RateLimitBundle) ⭐ 331 | 🐛 21 | 🌐 PHP | 📅 2025-11-17 - Add rate limits to your controllers/actions easily through annotations.
 * [BazingaHateoasBundle](https://github.com/willdurand/BazingaHateoasBundle) ⭐ 296 | 🐛 11 | 🌐 PHP | 📅 2026-07-17 - Integration of the Hateoas library.
@@ -344,4 +344,4 @@ To the extent possible under law, [Emanuele Minotto](http://emanueleminotto.gith
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-11._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-12._

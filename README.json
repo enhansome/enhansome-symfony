@@ -248,7 +248,7 @@
             "open_issues": 2,
             "owner": "certificationy",
             "repo": "certificationy-cli",
-            "stars": 432,
+            "stars": 431,
             "topics": [
               "cli",
               "cli-application",
@@ -878,7 +878,7 @@
             "open_issues": 9,
             "owner": "api-platform",
             "repo": "api-platform",
-            "stars": 9204,
+            "stars": 9203,
             "topics": [
               "api",
               "api-platform",
@@ -994,8 +994,8 @@
             "id": 2717549,
             "language": "PHP",
             "license": "MIT",
-            "last_commit": "2026-11-11T02:07:07Z",
-            "open_issues": 250,
+            "last_commit": "2026-11-12T15:19:18Z",
+            "open_issues": 248,
             "owner": "Sylius",
             "repo": "Sylius",
             "stars": 8572,
@@ -3113,7 +3113,7 @@
             "open_issues": 4,
             "owner": "liip",
             "repo": "LiipMonitorBundle",
-            "stars": 474,
+            "stars": 473,
             "topics": [
               "bundle",
               "php",
@@ -3166,7 +3166,7 @@
             "open_issues": 38,
             "owner": "Payum",
             "repo": "PayumBundle",
-            "stars": 580,
+            "stars": 579,
             "topics": [
               "be2bill",
               "papyal",
@@ -3194,7 +3194,7 @@
             "open_issues": 22,
             "owner": "schmittjoh",
             "repo": "JMSPaymentPaypalBundle",
-            "stars": 124,
+            "stars": 123,
             "topics": []
           },
           "first_seen": "2026-08-28T20:59:04.761Z"
@@ -3437,7 +3437,7 @@
             "open_issues": 5,
             "owner": "symfony",
             "repo": "recipes",
-            "stars": 1029,
+            "stars": 1028,
             "topics": [
               "recipes",
               "symfony"
@@ -3461,7 +3461,7 @@
             "open_issues": 15,
             "owner": "symfony",
             "repo": "recipes-contrib",
-            "stars": 557,
+            "stars": 556,
             "topics": [
               "recipes",
               "symfony"
@@ -4013,7 +4013,7 @@
             "language": "PHP",
             "license": "MIT",
             "last_commit": "2025-12-08T15:44:20Z",
-            "open_issues": 17,
+            "open_issues": 18,
             "owner": "KnpLabs",
             "repo": "KnpTimeBundle",
             "stars": 625,
@@ -4638,8 +4638,8 @@
             "id": 29501260,
             "language": "PHP",
             "license": "MIT",
-            "last_commit": "2026-11-10T12:25:56Z",
-            "open_issues": 139,
+            "last_commit": "2026-11-12T09:46:04Z",
+            "open_issues": 136,
             "owner": "api-platform",
             "repo": "core",
             "stars": 2581,
@@ -4674,8 +4674,8 @@
             "id": 4006755,
             "language": "PHP",
             "license": "MIT",
-            "last_commit": "2026-11-09T03:55:14Z",
-            "open_issues": 47,
+            "last_commit": "2026-11-12T04:39:43Z",
+            "open_issues": 48,
             "owner": "nelmio",
             "repo": "NelmioApiDocBundle",
             "stars": 2381,
@@ -4739,7 +4739,7 @@
             "open_issues": 97,
             "owner": "schmittjoh",
             "repo": "JMSSerializerBundle",
-            "stars": 1801,
+            "stars": 1800,
             "topics": []
           },
           "first_seen": "2026-08-28T20:59:04.761Z"
@@ -5040,7 +5040,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-11T17:25:18.953Z",
+    "last_updated": "2026-11-12T17:43:14.613Z",
     "original_repository_info": {
       "archived": false,
       "description": "A list of awesome Symfony bundles, utilities and resources.",
