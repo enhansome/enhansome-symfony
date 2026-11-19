@@ -15,11 +15,11 @@
             "id": 1095228,
             "language": "PHP",
             "license": "MIT",
-            "last_commit": "2026-11-15T21:03:26Z",
-            "open_issues": 22,
+            "last_commit": "2026-11-19T17:54:59Z",
+            "open_issues": 20,
             "owner": "sonata-project",
             "repo": "SonataAdminBundle",
-            "stars": 2123,
+            "stars": 2122,
             "topics": [
               "admin",
               "admin-generator",
@@ -161,7 +161,7 @@
             "id": 194716538,
             "language": "PHP",
             "license": "MIT",
-            "last_commit": "2026-11-14T10:08:47Z",
+            "last_commit": "2026-11-18T21:41:33Z",
             "open_issues": 0,
             "owner": "javiereguiluz",
             "repo": "EasyAdminBundle",
@@ -306,7 +306,7 @@
             "open_issues": 46,
             "owner": "liip",
             "repo": "LiipFunctionalTestBundle",
-            "stars": 646,
+            "stars": 645,
             "topics": [
               "bundle",
               "php",
@@ -878,7 +878,7 @@
             "open_issues": 9,
             "owner": "api-platform",
             "repo": "api-platform",
-            "stars": 9199,
+            "stars": 9200,
             "topics": [
               "api",
               "api-platform",
@@ -920,7 +920,7 @@
             "open_issues": 0,
             "owner": "symfony",
             "repo": "symfony-standard",
-            "stars": 1473,
+            "stars": 1472,
             "topics": [
               "php",
               "skeleton",
@@ -998,7 +998,7 @@
             "open_issues": 246,
             "owner": "Sylius",
             "repo": "Sylius",
-            "stars": 8574,
+            "stars": 8575,
             "topics": [
               "api",
               "api-ecommerce",
@@ -1242,7 +1242,7 @@
             "open_issues": 3,
             "owner": "willdurand",
             "repo": "BazingaJsTranslationBundle",
-            "stars": 582,
+            "stars": 583,
             "topics": []
           },
           "first_seen": "2026-08-28T20:59:04.761Z"
@@ -1263,7 +1263,7 @@
             "open_issues": 74,
             "owner": "lexik",
             "repo": "LexikTranslationBundle",
-            "stars": 437,
+            "stars": 438,
             "topics": [
               "bundle",
               "php",
@@ -1285,8 +1285,8 @@
             "id": 4825482,
             "language": "PHP",
             "license": "MIT",
-            "last_commit": "2026-04-15T10:42:56Z",
-            "open_issues": 1,
+            "last_commit": "2026-11-19T12:23:15Z",
+            "open_issues": 0,
             "owner": "a2lix",
             "repo": "TranslationFormBundle",
             "stars": 336,
@@ -1367,11 +1367,11 @@
             "id": 2515323,
             "language": "PHP",
             "license": "MIT",
-            "last_commit": "2026-11-15T17:21:43Z",
-            "open_issues": 81,
+            "last_commit": "2026-11-18T21:09:46Z",
+            "open_issues": 78,
             "owner": "liip",
             "repo": "LiipImagineBundle",
-            "stars": 1706,
+            "stars": 1705,
             "topics": [
               "bundle",
               "php",
@@ -1397,7 +1397,7 @@
             "open_issues": 3,
             "owner": "KnpLabs",
             "repo": "KnpSnappyBundle",
-            "stars": 1241,
+            "stars": 1240,
             "topics": [
               "hacktoberfest",
               "html-to-image",
@@ -1539,7 +1539,7 @@
             "open_issues": 0,
             "owner": "KnpLabs",
             "repo": "KnpMarkdownBundle",
-            "stars": 412,
+            "stars": 411,
             "topics": [
               "symfoy-bundle"
             ]
@@ -1774,7 +1774,7 @@
             "open_issues": 1,
             "owner": "BabDev",
             "repo": "PagerfantaBundle",
-            "stars": 211,
+            "stars": 212,
             "topics": [
               "pagerfanta",
               "php",
@@ -3162,7 +3162,7 @@
             "id": 7016481,
             "language": "PHP",
             "license": "MIT",
-            "last_commit": "2026-11-18T12:55:44Z",
+            "last_commit": "2026-11-19T18:00:21Z",
             "open_issues": 38,
             "owner": "Payum",
             "repo": "PayumBundle",
@@ -3457,8 +3457,8 @@
             "id": 88190851,
             "language": "PHP",
             "license": "MIT",
-            "last_commit": "2026-11-18T16:45:51Z",
-            "open_issues": 13,
+            "last_commit": "2026-11-19T16:19:38Z",
+            "open_issues": 15,
             "owner": "symfony",
             "repo": "recipes-contrib",
             "stars": 555,
@@ -3568,8 +3568,8 @@
             "id": 1648795,
             "language": "PHP",
             "license": "MIT",
-            "last_commit": "2026-11-17T11:04:11Z",
-            "open_issues": 29,
+            "last_commit": "2026-11-19T11:04:11Z",
+            "open_issues": 30,
             "owner": "doctrine",
             "repo": "DoctrineFixturesBundle",
             "stars": 2526,
@@ -3629,7 +3629,7 @@
             "open_issues": 0,
             "owner": "snc",
             "repo": "SncRedisBundle",
-            "stars": 1049,
+            "stars": 1048,
             "topics": [
               "bundle",
               "php",
@@ -4016,7 +4016,7 @@
             "open_issues": 18,
             "owner": "KnpLabs",
             "repo": "KnpTimeBundle",
-            "stars": 625,
+            "stars": 624,
             "topics": [
               "date",
               "php",
@@ -4361,7 +4361,7 @@
             "open_issues": 3,
             "owner": "coopTilleuls",
             "repo": "CoopTilleulsOvhBundle",
-            "stars": 29,
+            "stars": 30,
             "topics": []
           },
           "first_seen": "2026-08-28T20:59:04.761Z"
@@ -4463,7 +4463,7 @@
             "language": "PHP",
             "license": "MIT",
             "last_commit": "2023-12-11T11:55:04Z",
-            "open_issues": 6,
+            "open_issues": 7,
             "owner": "jmikola",
             "repo": "JmikolaAutoLoginBundle",
             "stars": 83,
@@ -4588,7 +4588,7 @@
             "open_issues": 159,
             "owner": "FriendsOfSymfony",
             "repo": "FOSRestBundle",
-            "stars": 2791,
+            "stars": 2790,
             "topics": [
               "php",
               "rest",
@@ -4639,10 +4639,10 @@
             "language": "PHP",
             "license": "MIT",
             "last_commit": "2026-11-18T06:56:16Z",
-            "open_issues": 126,
+            "open_issues": 127,
             "owner": "api-platform",
             "repo": "core",
-            "stars": 2581,
+            "stars": 2582,
             "topics": [
               "api",
               "api-platform",
@@ -4739,7 +4739,7 @@
             "open_issues": 97,
             "owner": "schmittjoh",
             "repo": "JMSSerializerBundle",
-            "stars": 1800,
+            "stars": 1799,
             "topics": []
           },
           "first_seen": "2026-08-28T20:59:04.761Z"
@@ -5040,7 +5040,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-18T18:21:43.432Z",
+    "last_updated": "2026-11-19T18:38:02.044Z",
     "original_repository_info": {
       "archived": false,
       "description": "A list of awesome Symfony bundles, utilities and resources.",
