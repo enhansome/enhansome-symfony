@@ -15,8 +15,8 @@
             "id": 1095228,
             "language": "PHP",
             "license": "MIT",
-            "last_commit": "2026-11-20T15:06:02Z",
-            "open_issues": 20,
+            "last_commit": "2026-11-21T09:48:49Z",
+            "open_issues": 18,
             "owner": "sonata-project",
             "repo": "SonataAdminBundle",
             "stars": 2123,
@@ -161,7 +161,7 @@
             "id": 194716538,
             "language": "PHP",
             "license": "MIT",
-            "last_commit": "2026-11-19T19:48:34Z",
+            "last_commit": "2026-11-20T18:34:13Z",
             "open_issues": 0,
             "owner": "javiereguiluz",
             "repo": "EasyAdminBundle",
@@ -3110,7 +3110,7 @@
             "language": "PHP",
             "license": null,
             "last_commit": "2026-03-24T18:46:51Z",
-            "open_issues": 4,
+            "open_issues": 5,
             "owner": "liip",
             "repo": "LiipMonitorBundle",
             "stars": 471,
@@ -5040,7 +5040,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-20T17:58:53.072Z",
+    "last_updated": "2026-11-21T16:55:57.186Z",
     "original_repository_info": {
       "archived": false,
       "description": "A list of awesome Symfony bundles, utilities and resources.",

@@ -29,12 +29,12 @@ Table of contents:
 
 ## Administration
 
-* [SonataAdminBundle](https://github.com/sonata-project/SonataAdminBundle) ⭐ 2,123 | 🐛 20 | 🌐 PHP | 📅 2026-11-20 - AdminBundle - The missing Symfony2 Admin Generator
+* [SonataAdminBundle](https://github.com/sonata-project/SonataAdminBundle) ⭐ 2,123 | 🐛 18 | 🌐 PHP | 📅 2026-11-21 - AdminBundle - The missing Symfony2 Admin Generator
 * [AdmingeneratorGeneratorBundle](https://github.com/symfony2admingenerator/AdmingeneratorGeneratorBundle) ⭐ 358 | 🐛 39 | 🌐 PHP | 📅 2016-05-16 - Admingenerator for Symfony2, parse generator.yml files to build classes
 * [AdminLTEBundle](https://github.com/kevinpapst/AdminLTEBundle) ⚠️ Archived - Admin theme based on the AdminLTE Template
 * [Umbrella framework](https://github.com/acantepie/umbrella) ⭐ 146 | 🐛 5 | 🌐 PHP | 📅 2025-03-30 - Admin components and theme to create administration backends.
 * [TablerBundle](https://github.com/kevinpapst/TablerBundle) ⭐ 133 | 🐛 15 | 🌐 Twig | 📅 2026-11-01 - Admin theme based on the Tabler Template. It ships with many twig helpers (functions, filter, embeds, macros and includes).
-* [EasyAdminBundle](https://github.com/javiereguiluz/EasyAdminBundle) ⭐ 22 | 🐛 0 | 🌐 PHP | 📅 2026-11-19 - Simple admin generator for Symfony applications
+* [EasyAdminBundle](https://github.com/javiereguiluz/EasyAdminBundle) ⭐ 22 | 🐛 0 | 🌐 PHP | 📅 2026-11-20 - Simple admin generator for Symfony applications
 * [AdminCrudBundle](https://github.com/MWSimple/AdminCrudBundle) ⭐ 20 | 🐛 10 | 🌐 HTML | 📅 2019-04-26 - AdminCrudBundle - Use SensioGeneratorBundle. Extend controller, add paginator, filter, others.
 
 ## Certification
@@ -206,7 +206,7 @@ Table of contents:
 
 ## Monitoring
 
-* [LiipMonitorBundle](https://github.com/liip/LiipMonitorBundle) ⭐ 471 | 🐛 4 | 🌐 PHP | 📅 2026-03-24 - Bundle provides a way to run a series of application related health checks.
+* [LiipMonitorBundle](https://github.com/liip/LiipMonitorBundle) ⭐ 471 | 🐛 5 | 🌐 PHP | 📅 2026-03-24 - Bundle provides a way to run a series of application related health checks.
 * [SoclozMonitoringBundle](https://github.com/SoCloz/SoclozMonitoringBundle) ⭐ 69 | 🐛 7 | 🌐 PHP | 📅 2020-03-27 - A monitoring bundle for production servers
 
 ## Payments Management
@@ -344,4 +344,4 @@ To the extent possible under law, [Emanuele Minotto](http://emanueleminotto.gith
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-20._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-21._
