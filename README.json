@@ -15,8 +15,8 @@
             "id": 1095228,
             "language": "PHP",
             "license": "MIT",
-            "last_commit": "2026-11-21T09:48:49Z",
-            "open_issues": 18,
+            "last_commit": "2026-11-21T19:48:12Z",
+            "open_issues": 16,
             "owner": "sonata-project",
             "repo": "SonataAdminBundle",
             "stars": 2123,
@@ -161,7 +161,7 @@
             "id": 194716538,
             "language": "PHP",
             "license": "MIT",
-            "last_commit": "2026-11-20T18:34:13Z",
+            "last_commit": "2026-11-22T10:10:09Z",
             "open_issues": 0,
             "owner": "javiereguiluz",
             "repo": "EasyAdminBundle",
@@ -878,7 +878,7 @@
             "open_issues": 9,
             "owner": "api-platform",
             "repo": "api-platform",
-            "stars": 9199,
+            "stars": 9200,
             "topics": [
               "api",
               "api-platform",
@@ -998,7 +998,7 @@
             "open_issues": 247,
             "owner": "Sylius",
             "repo": "Sylius",
-            "stars": 8576,
+            "stars": 8577,
             "topics": [
               "api",
               "api-ecommerce",
@@ -1663,7 +1663,7 @@
             "id": 5328565,
             "language": "PHP",
             "license": "MIT",
-            "last_commit": "2026-10-04T01:31:17Z",
+            "last_commit": "2026-11-22T03:40:07Z",
             "open_issues": 0,
             "owner": "helios-ag",
             "repo": "FMElfinderBundle",
@@ -3437,7 +3437,7 @@
             "open_issues": 9,
             "owner": "symfony",
             "repo": "recipes",
-            "stars": 1028,
+            "stars": 1029,
             "topics": [
               "recipes",
               "symfony"
@@ -5040,7 +5040,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-21T16:55:57.186Z",
+    "last_updated": "2026-11-22T17:21:34.071Z",
     "original_repository_info": {
       "archived": false,
       "description": "A list of awesome Symfony bundles, utilities and resources.",
